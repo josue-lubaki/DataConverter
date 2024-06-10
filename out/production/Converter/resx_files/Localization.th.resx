@@ -1,0 +1,1995 @@
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="AccessibilityHint_BackButton" xml:space="preserve">
+        <value>ปุ่มย้อนกลับ</value>
+    </data>
+    <data name="AccessibilityHint_BackToMindZoneSettings" xml:space="preserve">
+        <value>กลับไปที่การตั้งค่าโซน MiND</value>
+    </data>
+    <data name="AccessibilityHint_BackToZoneList" xml:space="preserve">
+        <value>กลับไปที่รายการโซน</value>
+    </data>
+    <data name="AccessibilityHint_GroupMultiroomButton" xml:space="preserve">
+        <value>กลุ่มควบคุมหลายกลุ่ม: {0}</value>
+    </data>
+    <data name="AccessibilityHint_MultiroomGroup" xml:space="preserve">
+        <value>MultiRoom Group: {0}</value>
+    </data>
+    <data name="AccessibilityHint_PowerOff" xml:space="preserve">
+        <value>ปิด {0}</value>
+    </data>
+    <data name="AccessibilityHint_PowerOffMultiroomGroup" xml:space="preserve">
+        <value>Power Off MultiRoom Group: {0}</value>
+    </data>
+    <data name="AccessibilityHint_SaveNetworkSettings" xml:space="preserve">
+        <value>บันทึกการตั้งค่าเครือข่าย</value>
+    </data>
+    <data name="AccessibilityHint_SettingsButton" xml:space="preserve">
+        <value>การเข้าถึงการตั้งค่าโซนและแอพ</value>
+    </data>
+    <data name="AccessibilityHint_ZoneMultiroomButton" xml:space="preserve">
+        <value>ควบคุม {0} multiroom</value>
+    </data>
+    <data name="AccessibilityLabel_General_Button" xml:space="preserve">
+        <value>ปุ่ม</value>
+    </data>
+    <data name="Accessibility_AddtoQueueActionSheetHint" xml:space="preserve">
+        <value>เลือกสถานที่ที่จะใส่การเลือกปัจจุบันของคุณในคิว</value>
+    </data>
+    <data name="Accessibility_BackToNowPlayingHint" xml:space="preserve">
+        <value>ปิดรายการห้องสมุด Ang กลับไปที่มุมมองผู้เล่นหลัก</value>
+    </data>
+    <data name="Accessibility_BackToNowPlayingLabel" xml:space="preserve">
+        <value>ปุ่มกลับไปเล่นตอนนี้</value>
+    </data>
+    <data name="Accessibility_BrowseButtonHint" xml:space="preserve">
+        <value>จะเปิดรายการไลบรารี</value>
+    </data>
+    <data name="Accessibility_BrowseButtonLabel" xml:space="preserve">
+        <value>ปุ่มเรียกดูห้องสมุด</value>
+    </data>
+    <data name="Accessibility_DeletePlaylistHint" xml:space="preserve">
+        <value>สิ่งนี้จะลบเพลย์ลิสต์ปัจจุบัน</value>
+    </data>
+    <data name="Accessibility_DeletePlaylistLabel" xml:space="preserve">
+        <value>ลบปุ่มเพลย์ลิสต์</value>
+    </data>
+    <data name="Accessibility_DoubleTapToCollapseDetailsHint" xml:space="preserve">
+        <value>แตะสองครั้งเพื่อยุบรายละเอียด</value>
+    </data>
+    <data name="Accessibility_DoubleTapToFindDeviceByIpDisabledHint" xml:space="preserve">
+        <value>ปุ่มค้นหาในสถานะปิดใช้งาน ป้อนที่อยู่ IP ที่ถูกต้องในฟิลด์ข้อความที่เหมาะสมเพื่อเปิดใช้งาน</value>
+    </data>
+    <data name="Accessibility_DoubleTapToFindDeviceByIpHint" xml:space="preserve">
+        <value>แตะสองครั้งเพื่อค้นหาหน่วยของคุณ</value>
+    </data>
+    <data name="Accessibility_DoubleTapToPlayHint" xml:space="preserve">
+        <value>แตะสองครั้งเพื่อเล่น</value>
+    </data>
+    <data name="Accessibility_DoubleTapToSelectHint" xml:space="preserve">
+        <value>แตะสองครั้งเพื่อเล่น</value>
+    </data>
+    <data name="Accessibility_DoubleTapToShowDetailsHint" xml:space="preserve">
+        <value>แตะสองครั้งเพื่อแสดงรายละเอียดเพิ่มเติม</value>
+    </data>
+    <data name="Accessibility_EmailTextFieldHint" xml:space="preserve">
+        <value>ฟิลด์ข้อความที่อยู่อีเมล</value>
+    </data>
+    <data name="Accessibility_HistoryHint" xml:space="preserve">
+        <value>นำทางกลับไปที่มุมมองเฉพาะ</value>
+    </data>
+    <data name="Accessibility_HistoryLabel" xml:space="preserve">
+        <value>ปุ่มประวัติ</value>
+    </data>
+    <data name="Accessibility_HomeButtonHint" xml:space="preserve">
+        <value>จะกลับไปในรายการโซน</value>
+    </data>
+    <data name="Accessibility_HomeButtonLabel" xml:space="preserve">
+        <value>ปุ่มโฮม</value>
+    </data>
+    <data name="Accessibility_InputButtonHint" xml:space="preserve">
+        <value>จะเปิดเมนูเพื่อให้คุณสามารถเลือกอินพุตบนอุปกรณ์ Moon ของคุณได้ หากอุปกรณ์ของคุณรองรับ</value>
+    </data>
+    <data name="Accessibility_InputButtonLabel" xml:space="preserve">
+        <value>ปุ่มอินพุต</value>
+    </data>
+    <data name="Accessibility_IpAddressTextFieldHint" xml:space="preserve">
+        <value>ฟิลด์ข้อความที่อยู่ IP</value>
+    </data>
+    <data name="Accessibility_LibrarySectionTitleHint" xml:space="preserve">
+        <value>กดเพื่อย้อนกลับไปที่รากของการนำทาง</value>
+    </data>
+    <data name="Accessibility_LibrarySectionTitleLabel" xml:space="preserve">
+        <value>ชื่อการนำทางห้องสมุดชื่อ</value>
+    </data>
+    <data name="Accessibility_MoreLibraryActionSheetHint" xml:space="preserve">
+        <value>ตัวเลือกเมนูไลบรารี</value>
+    </data>
+    <data name="Accessibility_MoreOptionsHint" xml:space="preserve">
+        <value>เปิดหน้าต่างป๊อปอัพพร้อมตัวเลือกหรือข้อมูลเพิ่มเติม</value>
+    </data>
+    <data name="Accessibility_MoreOptionsLabel" xml:space="preserve">
+        <value>ปุ่มตัวเลือกเพิ่มเติม</value>
+    </data>
+    <data name="Accessibility_MqaEnabledHint" xml:space="preserve">
+        <value>เปิดใช้งาน MQA</value>
+    </data>
+    <data name="Accessibility_MusicServiceSettingsHint" xml:space="preserve">
+        <value>กดเพื่อเปิดและแก้ไขพารามิเตอร์ไลบรารี</value>
+    </data>
+    <data name="Accessibility_MusicServiceSettingsLabel" xml:space="preserve">
+        <value>ปุ่มตัวเลือกห้องสมุด</value>
+    </data>
+    <data name="Accessibility_MuteButtonHint" xml:space="preserve">
+        <value>จะสลับเสียงปิดหรือปิด</value>
+    </data>
+    <data name="Accessibility_MuteButtonLabel" xml:space="preserve">
+        <value>ปุ่มปิดเสียง</value>
+    </data>
+    <data name="Accessibility_PauseButtonHint" xml:space="preserve">
+        <value>จะสลับระหว่างการเล่นหรือหยุดชั่วคราวสำหรับแทร็กการเล่นปัจจุบัน</value>
+    </data>
+    <data name="Accessibility_PauseButtonLabel" xml:space="preserve">
+        <value>ปุ่มหยุดชั่วคราว</value>
+    </data>
+    <data name="Accessibility_PlayAll" xml:space="preserve">
+        <value>เล่นปุ่มทั้งหมด</value>
+    </data>
+    <data name="Accessibility_PlayButtonHint" xml:space="preserve">
+        <value>จะสลับระหว่างการเล่นหรือหยุดชั่วคราวสำหรับแทร็กการเล่นปัจจุบัน</value>
+    </data>
+    <data name="Accessibility_PlayButtonLabel" xml:space="preserve">
+        <value>ปุ่มเล่น</value>
+    </data>
+    <data name="Accessibility_PlaySelectedTracks" xml:space="preserve">
+        <value>เล่นปุ่มแทร็กที่เลือก</value>
+    </data>
+    <data name="Accessibility_PresetActionSheetHint" xml:space="preserve">
+        <value>กำหนดวิทยุนี้ให้กับปุ่มที่ตั้งไว้ล่วงหน้าบนอุปกรณ์ Moon ของคุณ</value>
+    </data>
+    <data name="Accessibility_PreviousButtonHint" xml:space="preserve">
+        <value>จะรีสตาร์ทเพลงเล่นปัจจุบันกดสองครั้งเพื่อไปที่แทร็กก่อนหน้าในคิว</value>
+    </data>
+    <data name="Accessibility_PreviousButtonLabel" xml:space="preserve">
+        <value>ปุ่มก่อนหน้า</value>
+    </data>
+    <data name="Accessibility_QueueActionSheetHint" xml:space="preserve">
+        <value>ล้างบันทึกหรือแก้ไขคิวปัจจุบัน</value>
+    </data>
+    <data name="Accessibility_QueueAll" xml:space="preserve">
+        <value>คิวปุ่มทั้งหมด</value>
+    </data>
+    <data name="Accessibility_QueueControlsButtonHint" xml:space="preserve">
+        <value>จะเปิดเมนูป๊อปอัปเพื่อให้คุณสามารถเลือกแก้ไขล้างหรือบันทึกคิวการเล่นปัจจุบัน</value>
+    </data>
+    <data name="Accessibility_QueueControlsButtonLabel" xml:space="preserve">
+        <value>ปุ่มควบคุมคิว</value>
+    </data>
+    <data name="Accessibility_QueueSelectedTracks" xml:space="preserve">
+        <value>ปุ่มแทร็กที่เลือกคิว</value>
+    </data>
+    <data name="Accessibility_QueueSlideButtonHint" xml:space="preserve">
+        <value>จะเปิดแผงเลื่อนของคิวเพื่อให้คุณสามารถข้ามไปข้างหน้าด้วยตนเองหรือแก้ไข</value>
+    </data>
+    <data name="Accessibility_QueueSlideButtonLabel" xml:space="preserve">
+        <value>แผงสไลด์คิว</value>
+    </data>
+    <data name="Accessibility_RepeatAllButtonHint" xml:space="preserve">
+        <value>โหมดทำซ้ำปัจจุบันตั้งค่าเพื่อทำซ้ำคิวทั้งหมด</value>
+    </data>
+    <data name="Accessibility_RepeatButtonLabel" xml:space="preserve">
+        <value>ปุ่มทำซ้ำ</value>
+    </data>
+    <data name="Accessibility_RepeatOffButtonHint" xml:space="preserve">
+        <value>โหมดทำซ้ำปัจจุบันปิดอยู่</value>
+    </data>
+    <data name="Accessibility_RepeatOneButtonHint" xml:space="preserve">
+        <value>โหมดทำซ้ำปัจจุบันตั้งค่าให้ทำซ้ำเฉพาะแทร็กการเล่นปัจจุบัน</value>
+    </data>
+    <data name="Accessibility_SearchHint" xml:space="preserve">
+        <value>ค้นหาแหล่งเสียงนี้</value>
+    </data>
+    <data name="Accessibility_SearchLabel" xml:space="preserve">
+        <value>ปุ่มค้นหา</value>
+    </data>
+    <data name="Accessibility_ShuffleButtonLabel" xml:space="preserve">
+        <value>ปุ่มสลับ</value>
+    </data>
+    <data name="Accessibility_ShuffleOffButtonHint" xml:space="preserve">
+        <value>การสับของคิวปัจจุบันปิดอยู่</value>
+    </data>
+    <data name="Accessibility_ShuffleOnButtonHint" xml:space="preserve">
+        <value>การสับของคิวปัจจุบันเปิดอยู่</value>
+    </data>
+    <data name="Accessibility_SkipButtonHint" xml:space="preserve">
+        <value>จะข้ามไปยังแทร็กถัดไปในคิว</value>
+    </data>
+    <data name="Accessibility_SkipButtonLabel" xml:space="preserve">
+        <value>ปุ่มข้าม</value>
+    </data>
+    <data name="Accessibility_StopButtonHint" xml:space="preserve">
+        <value>จะหยุดแทร็กการเล่นปัจจุบัน</value>
+    </data>
+    <data name="Accessibility_StopButtonLabel" xml:space="preserve">
+        <value>ปุ่มหยุด</value>
+    </data>
+    <data name="Accessibility_StreamNotAvailableHint" xml:space="preserve">
+        <value>สตรีมข้อมูลไม่พร้อมใช้งาน</value>
+    </data>
+    <data name="Accessibility_TapOnConnectButtonHint" xml:space="preserve">
+        <value>เปิดใช้งานปุ่มเชื่อมต่อ แตะสองครั้งที่ปุ่มเชื่อมต่อเพื่อสร้างการเชื่อมต่อ</value>
+    </data>
+    <data name="Accessibility_TicketTextFieldHint" xml:space="preserve">
+        <value>ฟิลด์ข้อความหมายเลขตั๋ว</value>
+    </data>
+    <data name="Accessibility_VolumeDownButtonHint" xml:space="preserve">
+        <value>จะลดระดับเสียงทีละขั้นตอนสามารถลดลงได้</value>
+    </data>
+    <data name="Accessibility_VolumeDownButtonLabel" xml:space="preserve">
+        <value>ปุ่มปรับระดับเสียง</value>
+    </data>
+    <data name="Accessibility_VolumeUpButtonHint" xml:space="preserve">
+        <value>จะเพิ่มระดับเสียงทีละขั้นตอนสามารถถูกเก็บไว้ได้</value>
+    </data>
+    <data name="Accessibility_VolumeUpButtonLabel" xml:space="preserve">
+        <value>ปุ่มปรับระดับเสียง</value>
+    </data>
+    <data name="Actions" xml:space="preserve">
+        <value>การกระทำ</value>
+    </data>
+    <data name="AdditionalInfoSent" xml:space="preserve">
+        <value>ส่งข้อมูลเพิ่มเติม</value>
+    </data>
+    <data name="AddTrack_AddingTracksToQueue" xml:space="preserve">
+        <value>การเพิ่มแทร็กลงในคิว โปรดรอ.</value>
+    </data>
+    <data name="AddTrack_EmptyDirectory" xml:space="preserve">
+        <value>ไม่มีเนื้อหา</value>
+    </data>
+    <data name="AddTrack_EndButton" xml:space="preserve">
+        <value>จบ</value>
+    </data>
+    <data name="AddTrack_More" xml:space="preserve">
+        <value>มากกว่า...</value>
+    </data>
+    <data name="AddTrack_NextButton" xml:space="preserve">
+        <value>ต่อไป</value>
+    </data>
+    <data name="AddTrack_ReplaceButton" xml:space="preserve">
+        <value>แทนที่</value>
+    </data>
+    <data name="AddTrack_Title" xml:space="preserve">
+        <value>เพิ่มแทร็ก ...</value>
+    </data>
+    <data name="AddTrack_TopButton" xml:space="preserve">
+        <value>สูงสุด</value>
+    </data>
+    <data name="AddTrack_WorkingTitle" xml:space="preserve">
+        <value>การทำงาน</value>
+    </data>
+    <data name="AirableFormViewTitle" xml:space="preserve">
+        <value>{0} - {1}</value>
+    </data>
+    <data name="AirableRequiredFieldEmptyError" xml:space="preserve">
+        <value>{0} ไม่สามารถว่างเปล่า</value>
+    </data>
+    <data name="Airplay_Casting" xml:space="preserve">
+        <value>เล่นจาก AirPlay</value>
+    </data>
+    <data name="AppInfo_AppGuideTitle" xml:space="preserve">
+        <value>คู่มือแอพ</value>
+    </data>
+    <data name="AppInfo_Default" xml:space="preserve">
+        <value>ค่าเริ่มต้น</value>
+    </data>
+    <data name="AppInfo_Landscape" xml:space="preserve">
+        <value>ภูมิประเทศ</value>
+    </data>
+    <data name="AppInfo_ManualSearchContent" xml:space="preserve">
+        <value>ค้นหา MiND ของคุณบนเครือข่ายด้วยตนเองหากคุณมีที่อยู่ IP</value>
+    </data>
+    <data name="AppInfo_ManualSearchTitle" xml:space="preserve">
+        <value>การค้นหาด้วยตนเอง</value>
+    </data>
+    <data name="AppInfo_NotificationModeContent" xml:space="preserve">
+        <value>เพิ่มการแสดงผลตัวควบคุม MiND นอกอินเทอร์เฟซผู้ใช้ของแอป อุปกรณ์ที่มี MiND2 เท่านั้น</value>
+    </data>
+    <data name="AppInfo_NotificationModeTitle" xml:space="preserve">
+        <value>การแจ้ง</value>
+    </data>
+    <data name="AppInfo_Orientation" xml:space="preserve">
+        <value>ปฐมนิเทศ</value>
+    </data>
+    <data name="AppInfo_Portrait" xml:space="preserve">
+        <value>ปฐมนิเทศ</value>
+    </data>
+    <data name="AppInfo_ReportBug" xml:space="preserve">
+        <value>รายงานความผิดพลาด</value>
+    </data>
+    <data name="AppInfo_ReportBug_BetaTester" xml:space="preserve">
+        <value>เครื่องทดสอบเบต้า - รายงานข้อผิดพลาด</value>
+    </data>
+    <data name="AppInfo_ReportBug_Detail" xml:space="preserve">
+        <value>ส่งคำร้องไปยังทีมสนับสนุนเพื่อขอความช่วยเหลือ</value>
+    </data>
+    <data name="AppInfo_ReviewNewFeaturesLabel" xml:space="preserve">
+        <value>แตะที่นี่เพื่อตรวจสอบคุณสมบัติแอปใหม่ล่าสุด</value>
+    </data>
+    <data name="AppInfo_ReviewNewFeaturesTitle" xml:space="preserve">
+        <value>คุณสมบัติแอปใหม่ล่าสุด</value>
+    </data>
+    <data name="AppInfo_ReviewTutorialLabel" xml:space="preserve">
+        <value>แตะที่นี่เพื่อตรวจสอบการสอนแอพ</value>
+    </data>
+    <data name="AppInfo_ReviewTutorialTitle" xml:space="preserve">
+        <value>การสอนแอป</value>
+    </data>
+    <data name="AppInfo_SleepModeContent" xml:space="preserve">
+        <value>อนุญาตให้อุปกรณ์มือถือของคุณเข้าสู่โหมดสลีปเมื่อคุณฟังเพลง</value>
+    </data>
+    <data name="AppInfo_SleepModeTitle" xml:space="preserve">
+        <value>โหมดสลีป</value>
+    </data>
+    <data name="AppInfo_SubmitLogsContent" xml:space="preserve">
+        <value>ส่งบันทึกจากอุปกรณ์มือถือของคุณหากก่อนหน้านี้คุณได้สร้างตั๋วสนับสนุน</value>
+    </data>
+    <data name="AppInfo_SubmitLogsTitle" xml:space="preserve">
+        <value>ส่งบันทึก</value>
+    </data>
+    <data name="AppNotConnectedToMiND" xml:space="preserve">
+        <value>ขณะนี้แอปไม่ได้เชื่อมต่อกับ MiND โปรดลองเชื่อมต่อกับ MiND ของคุณอีกครั้ง</value>
+    </data>
+    <data name="AppVersion" xml:space="preserve">
+        <value>เวอร์ชันแอพ</value>
+    </data>
+    <data name="Attachment" xml:space="preserve">
+        <value>สิ่งที่แนบมา</value>
+    </data>
+    <data name="Automatic" xml:space="preserve">
+        <value>อัตโนมัติ</value>
+    </data>
+    <data name="AutomaticRenameError" xml:space="preserve">
+        <value>เวอร์ชันเฟิร์มแวร์ของอุปกรณ์ MiND ปัจจุบันของคุณไม่สนับสนุนฟังก์ชันการเปลี่ยนชื่ออัตโนมัติ ขออนุญาติอัพเดทก่อนนะครับ</value>
+    </data>
+    <data name="AutomaticUpdateError" xml:space="preserve">
+        <value>เวอร์ชัน MiND ปัจจุบันไม่รองรับการอัปเดตอัตโนมัติจากแอปพลิเคชัน โปรดอัปเดตอุปกรณ์ของคุณด้วยตนเอง เมื่อเสร็จสิ้นขั้นตอนนี้ คุณจะสามารถเริ่มต้นการอัปเดตในอนาคตจากแอปพลิเคชันได้</value>
+    </data>
+    <data name="Biography" xml:space="preserve">
+        <value>ชีวประวัติ</value>
+    </data>
+    <data name="Browser_Missing" xml:space="preserve">
+        <value>คุณไม่มีเบราว์เซอร์ใด ๆ ที่จะเปิดหน้าเว็บ</value>
+    </data>
+    <data name="BugReportFormAttachment" xml:space="preserve">
+        <value>ส่งสกรีนช็อตของข้อผิดพลาดให้เราถ้าทำได้</value>
+    </data>
+    <data name="BugReportFormConfirmEmailPlaceholder" xml:space="preserve">
+        <value>การยืนยันอีเมล</value>
+    </data>
+    <data name="BugReportFormDescribeYourBug" xml:space="preserve">
+        <value>อธิบายข้อผิดพลาดของคุณ</value>
+    </data>
+    <data name="BugReportFormDescriptionEmptyError" xml:space="preserve">
+        <value>คำอธิบายข้อผิดพลาดไม่ควรว่างเปล่า</value>
+    </data>
+    <data name="BugReportFormDescriptionWrongValueError" xml:space="preserve">
+        <value>คำอธิบายข้อผิดพลาดควรเป็นข้อความ</value>
+    </data>
+    <data name="BugReportFormEmailConfirmError" xml:space="preserve">
+        <value>การยืนยันอีเมลไม่ตรงกับอีเมลที่ให้ไว้</value>
+    </data>
+    <data name="BugReportFormEmailEmptyError" xml:space="preserve">
+        <value>อีเมลจะต้องไม่ว่างเปล่า</value>
+    </data>
+    <data name="BugReportFormEmailPlaceholder" xml:space="preserve">
+        <value>อีเมลของคุณ</value>
+    </data>
+    <data name="BugReportFormEmailWrongValueError" xml:space="preserve">
+        <value>อีเมลควรมีรูปแบบที่ถูกต้อง</value>
+    </data>
+    <data name="BugReportFormNameEmptyError" xml:space="preserve">
+        <value>ชื่อของคุณไม่ควรว่างเปล่า</value>
+    </data>
+    <data name="BugReportFormSubjectEmptyError" xml:space="preserve">
+        <value>เรื่องขอไม่ควรว่างเปล่า</value>
+    </data>
+    <data name="BugReportFormNamePlaceholder" xml:space="preserve">
+        <value>ชื่อของคุณ</value>
+    </data>
+    <data name="BugReportFormSubjectPlaceholder" xml:space="preserve">
+        <value>เรื่องของคำขอของคุณ</value>
+    </data>
+    <data name="BugReportFormSubjectWrongValueError" xml:space="preserve">
+        <value>ชื่อบั๊กควรเป็นข้อความ</value>
+    </data>
+    <data name="BugReportFormSubmitError404Message" xml:space="preserve">
+        <value>เราไม่พบสิ่งที่คุณกำลังมองหา</value>
+    </data>
+    <data name="BugReportFormSubmitError404Title" xml:space="preserve">
+        <value>ข้อผิดพลาด 404</value>
+    </data>
+    <data name="BugReportFormSubmitErrorDefaultMessage" xml:space="preserve">
+        <value>โปรดลองอีกครั้งในภายหลัง</value>
+    </data>
+    <data name="BugReportFormSubmitErrorDefaultTitle" xml:space="preserve">
+        <value>ข้อผิดพลาดที่ไม่คาดคิด</value>
+    </data>
+    <data name="BugReportFormSubmitErrorInternalMessage" xml:space="preserve">
+        <value>มีบางอย่างผิดปกติอยู่ข้างเราโปรดลองอีกครั้งในภายหลัง</value>
+    </data>
+    <data name="BugReportFormSubmitErrorInternalTitle" xml:space="preserve">
+        <value>ข้อผิดพลาด 500</value>
+    </data>
+    <data name="BugReportFormSubmitSuccessMessage" xml:space="preserve">
+        <value>ขอบคุณสำหรับการส่งข้อผิดพลาดสำหรับแอป MiND</value>
+    </data>
+    <data name="BugReportFormSubmitSuccessTitle" xml:space="preserve">
+        <value>ขอขอบคุณ!</value>
+    </data>
+    <data name="BugReportFormSupportRequest" xml:space="preserve">
+        <value>สนับสนุนคำขอ</value>
+    </data>
+    <data name="BugReportFormUploadError" xml:space="preserve">
+        <value>ไฟล์ของคุณมีขนาดใหญ่เกินไป ขนาดอัปโหลดสูงสุดคือ 20MB</value>
+    </data>
+    <data name="CannotAccessMindQueue" xml:space="preserve">
+        <value>แอปไม่สามารถเข้าถึงคิว MiND ได้ โปรดลองเชื่อมต่อกับ MiND ของคุณอีกครั้ง</value>
+    </data>
+    <data name="CannotContactMusicService" xml:space="preserve">
+        <value>ไม่สามารถติดต่อเซิร์ฟเวอร์ {0}</value>
+    </data>
+    <data name="CheckPermissionDescription" xml:space="preserve">
+        <value>Mind App ไม่มีสิทธิ์ในการเข้าถึงเครือข่ายท้องถิ่น การอนุญาตนี้จะต้องใช้อุปกรณ์ MiND และเซิร์ฟเวอร์ UPNP บนเครือข่ายของคุณ</value>
+    </data>
+    <data name="CheckPermissionLabel" xml:space="preserve">
+        <value>ตรวจสอบสิทธิ์</value>
+    </data>
+    <data name="Check_for_Supported_Localization" xml:space="preserve">
+        <value>สนับสนุนภาษาในขณะนี้</value>
+    </data>
+    <data name="Confirm_Logout" xml:space="preserve">
+        <value>คุณต้องการออกจากระบบจริงๆหรือ?</value>
+    </data>
+    <data name="ConnectedAs" xml:space="preserve">
+        <value>เชื่อมต่อเป็น {0}</value>
+    </data>
+    <data name="Country" xml:space="preserve">
+        <value>ประเทศ</value>
+    </data>
+    <data name="CountryCanada" xml:space="preserve">
+        <value>แคนาดา</value>
+    </data>
+    <data name="CountryUSA" xml:space="preserve">
+        <value>สหรัฐอเมริกา</value>
+    </data>
+    <data name="CurrentDeviceHasBeenGrouped" xml:space="preserve">
+        <value>{0} เข้าร่วมกลุ่ม Multiroom เป็น Slave แอปเชื่อมต่อกับอุปกรณ์หลักใหม่โดยอัตโนมัติ "{1}"</value>
+    </data>
+    <data name="DataUsage" xml:space="preserve">
+        <value>การใช้ข้อมูล</value>
+    </data>
+    <data name="DeezerFriendlyName" xml:space="preserve">
+        <value>Deezer</value>
+    </data>
+    <data name="Deezer_NextLimitReached" xml:space="preserve">
+        <value>สมัครสมาชิกพรีเมี่ยมเพื่อรับการข้ามแบบไม่ จำกัด</value>
+    </data>
+    <data name="Description" xml:space="preserve">
+        <value>คำอธิบาย</value>
+    </data>
+    <data name="DeviceId" xml:space="preserve">
+        <value>รหัสอุปกรณ์</value>
+    </data>
+    <data name="Device_ErrorConnectingToMind" xml:space="preserve">
+        <value>ไม่สามารถเชื่อมต่อกับ MiND</value>
+    </data>
+    <data name="Device_ErrorLoadingMindNetworkSettings" xml:space="preserve">
+        <value>ไม่สามารถโหลดการตั้งค่าเครือข่าย MiND</value>
+    </data>
+    <data name="Diagnostic_AdvancedSearchTitle" xml:space="preserve">
+        <value>ดำเนินการตามกระบวนการค้นหาขั้นสูง ...</value>
+    </data>
+    <data name="Diagnostic_AppPermission" xml:space="preserve">
+        <value>ตรวจสอบให้แน่ใจว่าแอป MiND ได้รับอนุญาตจาก iOS ในการเข้าถึงอุปกรณ์ใกล้เคียง</value>
+    </data>
+    <data name="Diagnostic_AppPermissionBluetooth" xml:space="preserve">
+        <value>หาก {0} ของคุณไม่ได้เสียบปลั๊กอีเทอร์เน็ตหรือกำหนดค่าบน Wi-Fi ให้อนุญาตบลูทูธกับแอป MiND จากการตั้งค่าอุปกรณ์ Apple -&gt; MiND จากนั้นเปิด Bluetooth และรีสตาร์ทแอป</value>
+    </data>
+    <data name="Diagnostic_AppPermissionLocalNetwork" xml:space="preserve">
+        <value>คุณสามารถให้สิทธิ์เครือข่ายท้องถิ่นกับแอป MiND ได้จากการตั้งค่าอุปกรณ์ Apple -&gt; MiND</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Child1" xml:space="preserve">
+        <value>ตรวจสอบให้แน่ใจว่า {0} ของคุณมีพลัง</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Child2" xml:space="preserve">
+        <value>ทำให้คุณแน่ใจว่ามันไม่ได้ยืนอยู่</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Child3" xml:space="preserve">
+        <value>คุณควรเห็นแสงสีน้ำเงินที่แผงด้านหน้า</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Title" xml:space="preserve">
+        <value>ควรเปิด {0} ของคุณ</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child1" xml:space="preserve">
+        <value>Wired หรือ Wi-Fi</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child1B" xml:space="preserve">
+        <value>บังคับหากคุณต้องการใช้การเชื่อมต่อแบบมีสาย: ปิด {0} ของคุณ เสียบสายอีเธอร์เน็ต เปิดอีกครั้ง</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child2" xml:space="preserve">
+        <value>ในการตรวจสอบชื่อเครือข่ายด้วยตนเองบน {0} ของคุณให้กดปุ่มตั้งค่าบนแผงด้านหน้าจากนั้นนำทางบนเครือข่ายจากนั้นบนข้อมูล</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child3" xml:space="preserve">
+        <value>เราขอแนะนำการเชื่อมต่อแบบมีสายเพื่อความมั่นคง แต่ไร้สายก็เป็นไปได้เช่นกัน</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Title" xml:space="preserve">
+        <value>ตรวจสอบให้แน่ใจว่า {0} ของคุณอยู่ในเครือข่ายนี้: {1}</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child5" xml:space="preserve">
+        <value>หากอุปกรณ์ของคุณปรากฏตัวขึ้นเป็นสิ่งที่ไม่ได้กำหนดค่าคุณควรใช้การเชื่อมต่อแบบมีสายก่อนที่จะใช้เครื่องมือวินิจฉัยนี้หรือใช้หน้าจอ {0} ของคุณเพื่อตั้งค่าการเชื่อมต่อเครือข่าย</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child4" xml:space="preserve">
+        <value>หากอุปกรณ์ของคุณปรากฏตัวขึ้นเป็นสิ่งที่ไม่ได้กำหนดค่าคุณควรใช้การเชื่อมต่อแบบมีสายก่อนที่จะใช้เครื่องมือวินิจฉัยนี้</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child1" xml:space="preserve">
+        <value>นำทางบนอินพุต "เครือข่าย" ของ {0} ของคุณ</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child1B" xml:space="preserve">
+        <value>หากคุณเพิ่งเริ่มการอัปเดต โปรดรออย่างน้อย 5 นาทีเพื่อให้ MiND ของคุณตอบสนองอีกครั้ง</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child2" xml:space="preserve">
+        <value>ตรวจสอบให้แน่ใจว่าไม่มีข้อความปรากฏขึ้นเมื่อเลือกอินพุต "เครือข่าย"</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child3" xml:space="preserve">
+        <value>หากมีให้ทำตามคำแนะนำที่แสดง</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Title" xml:space="preserve">
+        <value>{0} ของคุณไม่ได้อัปเดต</value>
+    </data>
+    <data name="Diagnostic_CheckListTitle" xml:space="preserve">
+        <value>โปรดตรวจสอบประเด็นต่อไปนี้:</value>
+    </data>
+    <data name="Diagnostic_Close" xml:space="preserve">
+        <value>เครื่องมือวินิจฉัยปิด</value>
+    </data>
+    <data name="Diagnostic_Confirm" xml:space="preserve">
+        <value>ยืนยัน</value>
+    </data>
+    <data name="Diagnostic_ConfirmTextNoMindType" xml:space="preserve">
+        <value>คุณกำลังเลือก {0}</value>
+    </data>
+    <data name="Diagnostic_ConfirmTextWithMindType" xml:space="preserve">
+        <value>คุณกำลังเลือก {0} ด้วย {1}</value>
+    </data>
+    <data name="Diagnostic_Connect" xml:space="preserve">
+        <value>เชื่อมต่อ</value>
+    </data>
+    <data name="Diagnostic_ContactSimaudio" xml:space="preserve">
+        <value>ติดต่อ Simaudio</value>
+    </data>
+    <data name="Diagnostic_FailedAdvice1" xml:space="preserve">
+        <value>โปรดถอดปลั๊ก/เสียบสายไฟอุปกรณ์ของคุณและลองอีกครั้ง</value>
+    </data>
+    <data name="Diagnostic_FailedAdvice2" xml:space="preserve">
+        <value>หากไม่ทำงานให้ลองรีเซ็ตเครื่องจากโรงงาน ดูคู่มือของคุณเพื่อขอคำแนะนำ</value>
+    </data>
+    <data name="Diagnostic_FailedAdvice3" xml:space="preserve">
+        <value>คุณยังสามารถติดต่อ Simaudio เพื่อขอความช่วยเหลือ</value>
+    </data>
+    <data name="Diagnostic_FailedTitle" xml:space="preserve">
+        <value>เราไม่พบ MiND . ของคุณ</value>
+    </data>
+    <data name="Diagnostic_GoToNextStep" xml:space="preserve">
+        <value>ไปขั้นตอนต่อไป</value>
+    </data>
+    <data name="Diagnostic_IDontHaveIp" xml:space="preserve">
+        <value>ฉันไม่สามารถเข้าถึงที่อยู่ IP ของฉันได้</value>
+    </data>
+    <data name="Diagnostic_IDontKnow" xml:space="preserve">
+        <value>ฉันไม่รู้</value>
+    </data>
+    <data name="Diagnostic_IdontSeeDevice" xml:space="preserve">
+        <value>ฉันไม่เห็นมัน</value>
+    </data>
+    <data name="Diagnostic_ISeeDevice" xml:space="preserve">
+        <value>หากคุณเห็น {0} ของคุณเลือกด้านบน</value>
+    </data>
+    <data name="Diagnostic_MaybeWrongIp" xml:space="preserve">
+        <value>หากไม่ใช่อุปกรณ์ที่คุณกำลังมองหาโปรดตรวจสอบให้แน่ใจว่าคุณได้ป้อน IP ที่ถูกต้องก่อนที่จะลองอีกครั้ง</value>
+    </data>
+    <data name="Diagnostic_MoonDeviceNote" xml:space="preserve">
+        <value>* เฉพาะอุปกรณ์ที่เปิดใช้งาน MiND เท่านั้นที่จะแสดง</value>
+    </data>
+    <data name="Diagnostic_MoonDeviceSubTitle" xml:space="preserve">
+        <value>Moon Model ของคุณควรแสดงที่แผงด้านหน้าของตัวเครื่อง</value>
+    </data>
+    <data name="Diagnostic_MoonDeviceTitle" xml:space="preserve">
+        <value>เลือกรุ่นหน่วยของคุณ</value>
+    </data>
+    <data name="Diagnostic_MulticastSearch" xml:space="preserve">
+        <value>กำลังตรวจสอบโปรโตคอลการค้นหา MiND ...</value>
+    </data>
+    <data name="Diagnostic_MulticastSearchNotWorking" xml:space="preserve">
+        <value>ไม่สามารถตรวจสอบโปรโตคอลการค้นพบ MiND ได้</value>
+    </data>
+    <data name="Diagnostic_MulticastSearchWorking" xml:space="preserve">
+        <value>โปรโตคอลการค้นหา MiND ทำงาน</value>
+    </data>
+    <data name="Diagnostic_PingDescription" xml:space="preserve">
+        <value>หากคุณมีการเข้าถึงที่อยู่ IP ของ {0} ให้ป้อนที่นี่:</value>
+    </data>
+    <data name="Diagnostic_RequestModel" xml:space="preserve">
+        <value>รุ่น: {0}</value>
+    </data>
+    <data name="Diagnostic_RequestName" xml:space="preserve">
+        <value>ชื่อ: {0}</value>
+    </data>
+    <data name="Diagnostic_RequestResponseTitle" xml:space="preserve">
+        <value>นี่คือสิ่งที่เราพบ:</value>
+    </data>
+    <data name="Diagnostic_RequestType" xml:space="preserve">
+        <value>ประเภท: {0}</value>
+    </data>
+    <data name="Diagnostic_SpecificSearch" xml:space="preserve">
+        <value>กำลังมองหา MiNDs ...</value>
+    </data>
+    <data name="Diagnostic_SpecificSearchFailed" xml:space="preserve">
+        <value>เราไม่พบ MiND ใด ๆ ในเครือข่ายของคุณ</value>
+    </data>
+    <data name="Diagnostic_SpecificSearchNotWorking" xml:space="preserve">
+        <value>ตรวจสอบโปรโตคอลการค้นหาแล้ว แต่เราไม่พบ MiND ใด ๆ บนเครือข่าย</value>
+    </data>
+    <data name="Diagnostic_SpecificSearchWorking" xml:space="preserve">
+        <value>เราพบบางสิ่งบางอย่าง</value>
+    </data>
+    <data name="Diagnostic_unknown" xml:space="preserve">
+        <value>พูดไม่ออก</value>
+    </data>
+    <data name="Diagnostic_WhatMiND" xml:space="preserve">
+        <value>เลือกประเภท MiND ของคุณ</value>
+    </data>
+    <data name="Diagnostic_WrongIp" xml:space="preserve">
+        <value>เราไม่พบสิ่งใดด้วยที่อยู่ที่คุณให้ไว้ แน่ใจหรือว่าคุณมี IP ที่ถูกต้อง?</value>
+    </data>
+    <data name="Discovery_DiagnosticToolTitle" xml:space="preserve">
+        <value>เครื่องมือวินิจฉัย</value>
+    </data>
+    <data name="Discovery_FindUnit" xml:space="preserve">
+        <value>ค้นหาหน่วยของฉัน</value>
+    </data>
+    <data name="Discovery_LaunchDiagnosticTool" xml:space="preserve">
+        <value>คลิกที่นี่เพื่อเปิดเครื่องมือวินิจฉัย</value>
+    </data>
+    <data name="Discovery_NoMiNDFound" xml:space="preserve">
+        <value>ตรวจสอบให้แน่ใจว่าอุปกรณ์ MOON ของคุณได้รับพลังงานและเชื่อมต่อกับเครือข่าย จากนั้นคลิกที่ตัวเลือกใดตัวเลือกหนึ่งเหล่านี้</value>
+    </data>
+    <data name="Discovery_NoMiNDFoundTitle" xml:space="preserve">
+        <value>ยังไม่พบ ...</value>
+    </data>
+    <data name="Discovery_NoMiNDFound_iOS14" xml:space="preserve">
+        <value>ตรวจสอบให้แน่ใจว่าอุปกรณ์ MOON ของคุณได้รับพลังงานและเชื่อมต่อกับเครือข่าย ตรวจสอบด้วยว่าแอป MiND มีสิทธิ์เข้าถึงเครือข่ายท้องถิ่นและ Bluetooth ในการตั้งค่า iOS</value>
+    </data>
+    <data name="Discovery_Refresh" xml:space="preserve">
+        <value>เครือข่าย Rescan</value>
+    </data>
+    <data name="Discovery_WaitMore" xml:space="preserve">
+        <value>รออีกหน่อย ...</value>
+    </data>
+    <data name="Download" xml:space="preserve">
+        <value>การดาวน์โหลด</value>
+    </data>
+    <data name="Email" xml:space="preserve">
+        <value>อีเมล</value>
+    </data>
+    <data name="EmptyPlaylistName" xml:space="preserve">
+        <value>ไม่สามารถบันทึกเพลย์ลิสต์ด้วยชื่อที่ว่างเปล่า กรุณาตั้งชื่อ</value>
+    </data>
+    <data name="FailedToConnectToMusicService" xml:space="preserve">
+        <value>ไม่สามารถเชื่อมต่อกับ {0} โปรดลองอีกครั้ง</value>
+    </data>
+    <data name="Failure" xml:space="preserve">
+        <value>ความสำเร็จ</value>
+    </data>
+    <data name="Favorite_Insert" xml:space="preserve">
+        <value>เพิ่มในรายการโปรดแล้ว</value>
+    </data>
+    <data name="Favorite_ItemNotAdded" xml:space="preserve">
+        <value>รายการที่ไม่ได้เพิ่มในรายการโปรด</value>
+    </data>
+    <data name="Favorite_ItemNotRemoved" xml:space="preserve">
+        <value>รายการที่ไม่ได้ลบออกจากรายการโปรด</value>
+    </data>
+    <data name="Favorite_Remove" xml:space="preserve">
+        <value>ลบออกจากรายการโปรดแล้ว</value>
+    </data>
+    <data name="Favourite" xml:space="preserve">
+        <value>ที่ชื่นชอบ</value>
+    </data>
+    <data name="FirebaseAuthError" xml:space="preserve">
+        <value>ข้อมูลคลาวด์ไม่พร้อมใช้งาน</value>
+    </data>
+    <data name="FirstTimeSetupTitle" xml:space="preserve">
+        <value>เลือกประเทศของคุณ</value>
+    </data>
+    <data name="FreeTrial" xml:space="preserve">
+        <value>ลองฟรี</value>
+    </data>
+    <data name="GeneralAppend" xml:space="preserve">
+        <value>ผนวก</value>
+    </data>
+    <data name="GeneralReplace" xml:space="preserve">
+        <value>แทนที่</value>
+    </data>
+    <data name="General_0_Item" xml:space="preserve">
+        <value>{0} รายการ</value>
+    </data>
+    <data name="General_0_Items" xml:space="preserve">
+        <value>{0} รายการ</value>
+    </data>
+    <data name="General_Add" xml:space="preserve">
+        <value>เพิ่ม</value>
+    </data>
+    <data name="General_Cancel" xml:space="preserve">
+        <value>ยกเลิก</value>
+    </data>
+    <data name="General_Clear" xml:space="preserve">
+        <value>ชัดเจน</value>
+    </data>
+    <data name="General_ConnectingMessage" xml:space="preserve">
+        <value>กำลังเชื่อมต่อกับอุปกรณ์ MiND</value>
+    </data>
+    <data name="General_Connection" xml:space="preserve">
+        <value>การเชื่อมต่อ</value>
+    </data>
+    <data name="General_ConnectionFailedMessage" xml:space="preserve">
+        <value>ไม่สามารถเชื่อมต่อกับ MiND โปรดตรวจสอบว่าคอนโทรลเลอร์อื่นเชื่อมต่ออยู่แล้วหรือไม่ และปิดแอปพลิเคชันนั้นก่อนลองอีกครั้ง</value>
+    </data>
+    <data name="General_ConnectionFailedTitle" xml:space="preserve">
+        <value>การเชื่อมต่อล้มเหลว</value>
+    </data>
+    <data name="General_ConnectionLostMessage" xml:space="preserve">
+        <value>ขออภัยเราสูญเสียการเชื่อมต่อกับอุปกรณ์ของคุณโปรดลองเชื่อมต่ออีกครั้ง</value>
+    </data>
+    <data name="General_ConnectionLostTitle" xml:space="preserve">
+        <value>การเชื่อมต่อหายไป</value>
+    </data>
+    <data name="General_Delete" xml:space="preserve">
+        <value>ลบ</value>
+    </data>
+    <data name="General_Done" xml:space="preserve">
+        <value>เสร็จแล้ว</value>
+    </data>
+    <data name="General_Edit" xml:space="preserve">
+        <value>แก้ไข</value>
+    </data>
+    <data name="General_Email" xml:space="preserve">
+        <value>อีเมลของคุณ:</value>
+    </data>
+    <data name="General_Error" xml:space="preserve">
+        <value>ข้อผิดพลาด</value>
+    </data>
+    <data name="General_ErrorBrowsing" xml:space="preserve">
+        <value>ข้อผิดพลาดในการเรียกดู</value>
+    </data>
+    <data name="General_ErrorMessage" xml:space="preserve">
+        <value>ไม่สามารถดำเนินการได้</value>
+    </data>
+    <data name="General_Filter" xml:space="preserve">
+        <value>กรอง</value>
+    </data>
+    <data name="General_Finish" xml:space="preserve">
+        <value>เสร็จ</value>
+    </data>
+    <data name="General_Loading" xml:space="preserve">
+        <value>การโหลด</value>
+    </data>
+    <data name="General_LoadingError" xml:space="preserve">
+        <value>ไม่สามารถโหลดข้อมูลได้</value>
+    </data>
+    <data name="General_Mediaservers" xml:space="preserve">
+        <value>ห้องสมุดสื่อ</value>
+    </data>
+    <data name="General_MiNDDevice" xml:space="preserve">
+        <value>อุปกรณ์ MiND</value>
+    </data>
+    <data name="General_MindZones" xml:space="preserve">
+        <value>โซน MiND</value>
+    </data>
+    <data name="General_No" xml:space="preserve">
+        <value>ไม่</value>
+    </data>
+    <data name="General_NoMindFoundTitle" xml:space="preserve">
+        <value>ไม่พบ MiND</value>
+    </data>
+    <data name="General_Ok" xml:space="preserve">
+        <value>ตกลง</value>
+    </data>
+    <data name="General_PowerOffErrorMessage" xml:space="preserve">
+        <value>ปัญหาเกิดขึ้นในขณะที่พยายามเปลี่ยนสถานะพลังงานโปรดลองอีกครั้งในภายหลัง</value>
+    </data>
+    <data name="General_PowerOffErrorTitle" xml:space="preserve">
+        <value>สถานะพลังงานไม่เปลี่ยนแปลง</value>
+    </data>
+    <data name="General_ReconnectingMiND" xml:space="preserve">
+        <value>กำลังเชื่อมต่อกับ MiND ที่เชื่อมต่อล่าสุด โปรดรอสักครู่...</value>
+    </data>
+    <data name="General_Rename" xml:space="preserve">
+        <value>เปลี่ยนชื่อ</value>
+    </data>
+    <data name="General_Retry" xml:space="preserve">
+        <value>ลองอีกครั้ง</value>
+    </data>
+    <data name="General_Sample" xml:space="preserve">
+        <value>ตัวอย่าง</value>
+    </data>
+    <data name="General_Save" xml:space="preserve">
+        <value>บันทึก</value>
+    </data>
+    <data name="General_ScanNetworkError" xml:space="preserve">
+        <value>ไม่สามารถสแกนเครือข่ายสำหรับอุปกรณ์ MiND ตรวจสอบการตั้งค่า Wi-Fi</value>
+    </data>
+    <data name="General_SortBy" xml:space="preserve">
+        <value>สั่งโดย :</value>
+    </data>
+    <data name="General_StateRestore" xml:space="preserve">
+        <value>การฟื้นฟูรัฐ</value>
+    </data>
+    <data name="General_Suscribe" xml:space="preserve">
+        <value>ติดตาม</value>
+    </data>
+    <data name="General_UnsupportedFormat" xml:space="preserve">
+        <value>รูปแบบที่ไม่สนับสนุน</value>
+    </data>
+    <data name="General_Wait" xml:space="preserve">
+        <value>โปรดรอ ...</value>
+    </data>
+    <data name="General_WifiConnectionLost" xml:space="preserve">
+        <value>การเชื่อมต่อ Wi-Fi หายไป</value>
+    </data>
+    <data name="General_WifiWaitingForConnection" xml:space="preserve">
+        <value>รอการเชื่อมต่อ Wi-Fi ...</value>
+    </data>
+    <data name="General_Yes" xml:space="preserve">
+        <value>ใช่</value>
+    </data>
+    <data name="GetSpotifyFree" xml:space="preserve">
+        <value>รับ Spotify ฟรี</value>
+    </data>
+    <data name="HighResAudioFriendlyName" xml:space="preserve">
+        <value>Highresaudio</value>
+    </data>
+    <data name="HostUpdateMessage" xml:space="preserve">
+        <value>{0} กำลังอัปเดต อาจใช้เวลาสูงสุด 5 นาที กรุณาอดทน</value>
+    </data>
+    <data name="Identifier" xml:space="preserve">
+        <value>รหัสประจำตัว</value>
+    </data>
+    <data name="ImageCount" xml:space="preserve">
+        <value>จำนวนภาพ</value>
+    </data>
+    <data name="Inputs_NotSupported" xml:space="preserve">
+        <value>ไม่รองรับอินพุต</value>
+    </data>
+    <data name="Input_LoadingError" xml:space="preserve">
+        <value>เกิดข้อผิดพลาดเมื่อโหลดอินพุต</value>
+    </data>
+    <data name="Input_ModificationError" xml:space="preserve">
+        <value>เกิดข้อผิดพลาดเมื่อเปลี่ยนอินพุต</value>
+    </data>
+    <data name="Input_NotLocked" xml:space="preserve">
+        <value>ไม่มีสัญญาณ</value>
+    </data>
+    <data name="Input_Title" xml:space="preserve">
+        <value>อินพุต</value>
+    </data>
+    <data name="InternalError" xml:space="preserve">
+        <value>เกิดข้อผิดพลาดภายใน โปรดลองอีกครั้ง</value>
+    </data>
+    <data name="Invalid_Username_Password" xml:space="preserve">
+        <value>ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง</value>
+    </data>
+    <data name="Language" xml:space="preserve">
+        <value>ภาษา</value>
+    </data>
+    <data name="Language_Chinese" xml:space="preserve">
+        <value>ZH - จีน</value>
+    </data>
+    <data name="Language_Default" xml:space="preserve">
+        <value>ภาษาของอุปกรณ์</value>
+    </data>
+    <data name="Language_Dutch" xml:space="preserve">
+        <value>NL - ดัตช์</value>
+    </data>
+    <data name="Language_English" xml:space="preserve">
+        <value>en - ภาษาอังกฤษ</value>
+    </data>
+    <data name="Language_Espagnol" xml:space="preserve">
+        <value>ES - สเปน</value>
+    </data>
+    <data name="Language_French" xml:space="preserve">
+        <value>FR - ฝรั่งเศส</value>
+    </data>
+    <data name="Language_German" xml:space="preserve">
+        <value>DE - เยอรมัน</value>
+    </data>
+    <data name="Language_Japanese" xml:space="preserve">
+        <value>JA - ญี่ปุ่น</value>
+    </data>
+    <data name="Language_Korean" xml:space="preserve">
+        <value>KO - เกาหลี</value>
+    </data>
+    <data name="Library_Add" xml:space="preserve">
+        <value>เพิ่มในห้องสมุด</value>
+    </data>
+    <data name="Language_Polish" xml:space="preserve">
+        <value>PL - โปแลนด์</value>
+    </data>
+    <data name="Library_Connecting" xml:space="preserve">
+        <value>เชื่อมต่อกับไลบรารี {0} โปรดรอ ...</value>
+    </data>
+    <data name="Library_ConnectionFailed" xml:space="preserve">
+        <value>ไม่สามารถรับเมนูรูทได้</value>
+    </data>
+    <data name="Library_ConnectionLost" xml:space="preserve">
+        <value>{0} ไลบรารีถูกตัดการเชื่อมต่อหรือปิดการเชื่อมต่อ กรุณาเลือกไลบรารีอื่น ...</value>
+    </data>
+    <data name="Library_History" xml:space="preserve">
+        <value>ประวัติการเดินเรือ</value>
+    </data>
+    <data name="Library_HistoryWithTitle" xml:space="preserve">
+        <value>ประวัติการนำทางสำหรับ {0}</value>
+    </data>
+    <data name="Library_ItemNotAdded" xml:space="preserve">
+        <value>รายการที่ไม่ได้เพิ่มในไลบรารี</value>
+    </data>
+    <data name="Library_ItemNotRemoved" xml:space="preserve">
+        <value>รายการที่ไม่ได้ลบออกจากไลบรารี</value>
+    </data>
+    <data name="Library_Item_Count" xml:space="preserve">
+        <value>{0} ของ {1}</value>
+    </data>
+    <data name="Library_Loading" xml:space="preserve">
+        <value>โหลดไปยังไลบรารี {0} โปรดรอ ...</value>
+    </data>
+    <data name="Library_Local" xml:space="preserve">
+        <value>ห้องสมุดท้องถิ่น</value>
+    </data>
+    <data name="Library_PlayNow" xml:space="preserve">
+        <value>เล่นตอนนี้</value>
+    </data>
+    <data name="Library_Preparing" xml:space="preserve">
+        <value>เตรียมห้องสมุดเพลงท้องถิ่นโปรดรอ ...</value>
+    </data>
+    <data name="Library_PreparingFailed" xml:space="preserve">
+        <value>เกิดข้อผิดพลาดในขณะที่เตรียมไลบรารีเพลงท้องถิ่น</value>
+    </data>
+    <data name="Library_Remove" xml:space="preserve">
+        <value>ลบออกจากไลบรารี</value>
+    </data>
+    <data name="Library_SettingsCreateNewAccount" xml:space="preserve">
+        <value>สร้างบัญชีใหม่</value>
+    </data>
+    <data name="Library_SettingsFollowUs" xml:space="preserve">
+        <value>ตามเรามา</value>
+    </data>
+    <data name="Library_SettingsLogin" xml:space="preserve">
+        <value>เข้าสู่ระบบ</value>
+    </data>
+    <data name="Library_SettingsLogout" xml:space="preserve">
+        <value>ออกจากระบบ</value>
+    </data>
+    <data name="Library_SettingsMusicServices" xml:space="preserve">
+        <value>บริการเพลง</value>
+    </data>
+    <data name="Username" xml:space="preserve">
+        <value>ชื่อผู้ใช้</value>
+    </data>
+    <data name="Library_SettingsVisibleInList" xml:space="preserve">
+        <value>มองเห็นได้ในรายการห้องสมุด</value>
+    </data>
+    <data name="Library_Title" xml:space="preserve">
+        <value>ห้องสมุด</value>
+    </data>
+    <data name="Library_UnauthorizedAcces" xml:space="preserve">
+        <value>แอปพลิเคชันไม่ได้รับอนุญาตให้เข้าถึงห้องสมุดสื่อของคุณ กรุณาให้แอปเข้าถึงสื่อของคุณ</value>
+    </data>
+    <data name="Location" xml:space="preserve">
+        <value>ที่ตั้ง</value>
+    </data>
+    <data name="Login_Success" xml:space="preserve">
+        <value>เข้าสู่ระบบได้สำเร็จ</value>
+    </data>
+    <data name="Logout_Failed" xml:space="preserve">
+        <value>ข้อผิดพลาดขณะดำเนินการออกจากระบบ</value>
+    </data>
+    <data name="Manual" xml:space="preserve">
+        <value>คู่มือ</value>
+    </data>
+    <data name="Logout_Success" xml:space="preserve">
+        <value>ออกจากระบบสำเร็จ</value>
+    </data>
+    <data name="MaxCharacter" xml:space="preserve">
+        <value>สูงสุด {0} ถ่าน</value>
+    </data>
+    <data name="Message" xml:space="preserve">
+        <value>ข้อความ</value>
+    </data>
+    <data name="Metadata_Album" xml:space="preserve">
+        <value>อัลบั้ม</value>
+    </data>
+    <data name="Metadata_Artist" xml:space="preserve">
+        <value>ศิลปิน</value>
+    </data>
+    <data name="Metadata_Composer" xml:space="preserve">
+        <value>นักแต่งเพลง</value>
+    </data>
+    <data name="Metadata_Conductor" xml:space="preserve">
+        <value>ตัวนำ</value>
+    </data>
+    <data name="Metadata_Date" xml:space="preserve">
+        <value>วันที่</value>
+    </data>
+    <data name="Metadata_Description" xml:space="preserve">
+        <value>คำอธิบาย</value>
+    </data>
+    <data name="Metadata_Duration" xml:space="preserve">
+        <value>ระยะเวลา</value>
+    </data>
+    <data name="Metadata_Genre" xml:space="preserve">
+        <value>ประเภท</value>
+    </data>
+    <data name="Metadata_Language" xml:space="preserve">
+        <value>ภาษา</value>
+    </data>
+    <data name="Metadata_NumberOfTracksTitle" xml:space="preserve">
+        <value>จำนวนแทร็ก</value>
+    </data>
+    <data name="Metadata_Place" xml:space="preserve">
+        <value>สถานที่</value>
+    </data>
+    <data name="Metadata_Slogan" xml:space="preserve">
+        <value>คำขวัญ</value>
+    </data>
+    <data name="Metadata_Sources" xml:space="preserve">
+        <value>แหล่งกำเนิด</value>
+    </data>
+    <data name="Metadata_Title" xml:space="preserve">
+        <value>ชื่อ</value>
+    </data>
+    <data name="Metadata_TitleTab1" xml:space="preserve">
+        <value>รายละเอียด</value>
+    </data>
+    <data name="Metadata_TitleTab2" xml:space="preserve">
+        <value>ปกอัลบั้ม</value>
+    </data>
+    <data name="MindQueueFullyLoaded" xml:space="preserve">
+        <value>คิว MiND ถูกโหลดที่ความจุสูงสุด</value>
+    </data>
+    <data name="MiND_ConnexionProgressMessage" xml:space="preserve">
+        <value>กำลังเชื่อมต่อกับ MiND...</value>
+    </data>
+    <data name="Mind_UpdateInProgressMessage" xml:space="preserve">
+        <value>หน่วยของคุณกำลังอัปเดต มันจะปรากฏขึ้นอีกครั้งในเครือข่ายในเวลาประมาณ 10 นาที กรุณาอดทน</value>
+    </data>
+    <data name="Mind_UpdateInProgressTitle" xml:space="preserve">
+        <value>อัปเดตระหว่างดำเนินการ ...</value>
+    </data>
+    <data name="MobileDeviceModel" xml:space="preserve">
+        <value>รุ่นอุปกรณ์มือถือ</value>
+    </data>
+    <data name="MoreInfo" xml:space="preserve">
+        <value>ข้อมูลเพิ่มเติม</value>
+    </data>
+    <data name="Multiroom" xml:space="preserve">
+        <value>หลายเส้น</value>
+    </data>
+    <data name="MultiroomErrorContent" xml:space="preserve">
+        <value>Multiroom ถูกปิดใช้งาน</value>
+    </data>
+    <data name="MultiroomMasterNotFound" xml:space="preserve">
+        <value>หน่วยของคุณได้เข้าร่วมกลุ่ม Multiroom เป็น Slave โปรดเลือกกลุ่มเพื่อเล่นต่อ</value>
+    </data>
+    <data name="MultiroomVolumeControl" xml:space="preserve">
+        <value>ปริมาณ</value>
+    </data>
+    <data name="MultiroomWithTitle" xml:space="preserve">
+        <value>หลายห้อง: {0}</value>
+    </data>
+    <data name="MusicService_GoOnWebsiteAndRegister" xml:space="preserve">
+        <value>ไปที่เว็บไซต์ {0} และ {1}</value>
+    </data>
+    <data name="MusicService_InvitationToFollowUs" xml:space="preserve">
+        <value>นอกจากนี้ {0} สำหรับข่าวรายวัน</value>
+    </data>
+    <data name="MusicService_Or" xml:space="preserve">
+        <value>หรือ</value>
+    </data>
+    <data name="Name" xml:space="preserve">
+        <value>ชื่อ</value>
+    </data>
+    <data name="Network_AvdancedSettingHide" xml:space="preserve">
+        <value>ซ่อนการตั้งค่าขั้นสูง</value>
+    </data>
+    <data name="Network_AvdancedSettingShow" xml:space="preserve">
+        <value>ตั้งค่าขั้นสูง</value>
+    </data>
+    <data name="Network_DHCP" xml:space="preserve">
+        <value>DHCP</value>
+    </data>
+    <data name="Network_DNS" xml:space="preserve">
+        <value>DNS</value>
+    </data>
+    <data name="NetworkErrorEmptyWEPKeyMessage" xml:space="preserve">
+        <value>คีย์ WEP ไม่สามารถว่างเปล่า</value>
+    </data>
+    <data name="Network_Error_EmptyWPAPasswordMessage" xml:space="preserve">
+        <value>รหัสผ่าน Wi-Fi ของคุณจะไม่ว่างเปล่า</value>
+    </data>
+    <data name="Network_Error_InvalidDNSMessage" xml:space="preserve">
+        <value>ระบุที่อยู่ DNS ที่ไม่ถูกต้อง</value>
+    </data>
+    <data name="Network_Error_InvalidGatewayMessage" xml:space="preserve">
+        <value>ระบุที่อยู่เกตเวย์ที่ไม่ถูกต้อง</value>
+    </data>
+    <data name="Network_Error_InvalidIPMessage" xml:space="preserve">
+        <value>ระบุที่อยู่ IP ที่ไม่ถูกต้อง</value>
+    </data>
+    <data name="Network_Error_InvalidSubnetMaskMessage" xml:space="preserve">
+        <value>มีการระบุหน้ากากซับเน็ตที่ไม่ถูกต้อง</value>
+    </data>
+    <data name="Network_Error_NameEmptyMessage" xml:space="preserve">
+        <value>ชื่อ MiND ไม่สามารถเว้นว่างได้</value>
+    </data>
+    <data name="Network_Error_NameEmptyTitle" xml:space="preserve">
+        <value>ชื่อว่าง</value>
+    </data>
+    <data name="Network_Gateway" xml:space="preserve">
+        <value>ประตู</value>
+    </data>
+    <data name="Network_GeneralHeader" xml:space="preserve">
+        <value>ทั่วไป</value>
+    </data>
+    <data name="Network_IP" xml:space="preserve">
+        <value>ip</value>
+    </data>
+    <data name="Network_IPAddress" xml:space="preserve">
+        <value>ที่อยู่ IP</value>
+    </data>
+    <data name="Network_MindName" xml:space="preserve">
+        <value>ชื่อ MiND</value>
+    </data>
+    <data name="Network_OtherWifi" xml:space="preserve">
+        <value>Wi-Fi อื่น ๆ</value>
+    </data>
+    <data name="Network_SavingSettingsMessage" xml:space="preserve">
+        <value>บันทึกการตั้งค่าโปรดรอ ...</value>
+    </data>
+    <data name="Network_SavingSettingsTitle" xml:space="preserve">
+        <value>บันทึกการตั้งค่า</value>
+    </data>
+    <data name="Network_Security" xml:space="preserve">
+        <value>ความปลอดภัย</value>
+    </data>
+    <data name="Network_SubnetMask" xml:space="preserve">
+        <value>หน้ากากซับเน็ต</value>
+    </data>
+    <data name="Network_Title" xml:space="preserve">
+        <value>เครือข่าย</value>
+    </data>
+    <data name="Network_WEPIndex" xml:space="preserve">
+        <value>ดัชนี WEP</value>
+    </data>
+    <data name="Network_WEPKey" xml:space="preserve">
+        <value>คีย์ WEP</value>
+    </data>
+    <data name="NetWork_WifiNotConnected" xml:space="preserve">
+        <value>ไม่ได้เชื่อมต่อกับ Wi-Fi</value>
+    </data>
+    <data name="NetWork_WifiChanged" xml:space="preserve">
+        <value>การเชื่อมต่อ Wi-Fi เปลี่ยนไป</value>
+    </data>
+    <data name="NetWork_WifiNotConnectedMessage" xml:space="preserve">
+        <value>เชื่อมต่ออุปกรณ์ของคุณกับเครือข่าย Wi-Fi ...</value>
+    </data>
+    <data name="NetWork_WifiStateChangedMessage" xml:space="preserve">
+        <value>สถานะการเชื่อมต่อ Wi-Fi เปลี่ยนแอปพลิเคชันรีสตาร์ท ... โปรดรอ</value>
+    </data>
+    <data name="Network_WifiTest" xml:space="preserve">
+        <value>ทดสอบรหัสผ่าน Wi-Fi</value>
+    </data>
+    <data name="Network_WifiTestMessage" xml:space="preserve">
+        <value>ปรากฏว่าการทดสอบนี้ประสบความสำเร็จก่อนหน้านี้ ในการลองใหม่การกำหนดค่า Wi-Fi ที่ทดสอบจะต้องรีเซ็ตบนอุปกรณ์มือถือ ระวังว่าเมื่อความล้มเหลวหากรหัสผ่านไม่ถูกต้องอุปกรณ์มือถืออาจถูกตัดการเชื่อมต่อจาก Wi-Fi ที่ทดสอบแล้ว</value>
+    </data>
+    <data name="Network_WifiTestTitle" xml:space="preserve">
+        <value>ทดสอบ wi-fi</value>
+    </data>
+    <data name="Network_WirelessHeader" xml:space="preserve">
+        <value>ไร้สาย</value>
+    </data>
+    <data name="Network_WirelessWifi" xml:space="preserve">
+        <value>Wi-Fi</value>
+    </data>
+    <data name="Password" xml:space="preserve">
+        <value>รหัสผ่าน</value>
+    </data>
+    <data name="NewUpdatesAvailable" xml:space="preserve">
+        <value>การอัปเดตใหม่ที่มีอยู่</value>
+    </data>
+    <data name="New_Name_Successfully_Saved" xml:space="preserve">
+        <value>ชื่อใหม่บันทึกสำเร็จ</value>
+    </data>
+    <data name="NoDescription" xml:space="preserve">
+        <value>ไม่มีคำอธิบาย</value>
+    </data>
+    <data name="NotLoggedInAlert" xml:space="preserve">
+        <value>คุณยังไม่ได้เข้าสู่ระบบ.
+ โปรดเข้าสู่ระบบก่อนโดยเข้าถึงการตั้งค่าบริการเพลงของคุณจากรายการไลบรารี</value>
+    </data>
+    <data name="NoTrackAvailableToAddToQueue" xml:space="preserve">
+        <value>ไม่มีแทร็กที่จะเพิ่มลงในคิว</value>
+    </data>
+    <data name="NoTrackAvailableToSave" xml:space="preserve">
+        <value>ไม่มีแทร็กที่จะบันทึก</value>
+    </data>
+    <data name="NotSupported" xml:space="preserve">
+        <value>ไม่รองรับ!</value>
+    </data>
+    <data name="NoUSB_DeviceFound" xml:space="preserve">
+        <value>ไม่พบอุปกรณ์ USB โปรดตรวจสอบให้แน่ใจว่าอุปกรณ์ USB ของคุณเชื่อมต่อ</value>
+    </data>
+    <data name="NowPlayingNotificationName" xml:space="preserve">
+        <value>ตอนนี้เล่นช่องแจ้งเตือน</value>
+    </data>
+    <data name="NumberOfTrack" xml:space="preserve">
+        <value>{0} แทร็ก</value>
+    </data>
+    <data name="NumberOfTracks" xml:space="preserve">
+        <value>{0} แทร็ก</value>
+    </data>
+    <data name="ObjectNotAvailable" xml:space="preserve">
+        <value>{0} ไม่พร้อมใช้งาน</value>
+    </data>
+    <data name="OpenSpotifyApp" xml:space="preserve">
+        <value>เปิดแอพ Spotify</value>
+    </data>
+    <data name="OSVersion" xml:space="preserve">
+        <value>เวอร์ชันระบบปฏิบัติการ</value>
+    </data>
+    <data name="Permission" xml:space="preserve">
+        <value>การอนุญาต</value>
+    </data>
+    <data name="PermissionForBleSearch" xml:space="preserve">
+        <value>Mind App ต้องได้รับอนุญาตจากตำแหน่งเพื่อค้นหา MiND ที่ไม่ได้กำหนดค่าในบริเวณใกล้เคียง</value>
+    </data>
+    <data name="PermissionForWifiReason" xml:space="preserve">
+        <value>Mind App ต้องการการอนุญาตตำแหน่งเพื่อค้นหาเครือข่าย Wi-Fi ที่อยู่ใกล้เคียง</value>
+    </data>
+    <data name="PlayAll" xml:space="preserve">
+        <value>เล่นทั้งหมด</value>
+    </data>
+    <data name="PlaybackOptionPlayQueue" xml:space="preserve">
+        <value>เล่นคิว MiND</value>
+    </data>
+    <data name="Player" xml:space="preserve">
+        <value>ผู้เล่น</value>
+    </data>
+    <data name="PlayerControl_Global" xml:space="preserve">
+        <value>ทั่วโลก</value>
+    </data>
+    <data name="Player_AddToPlaylist" xml:space="preserve">
+        <value>เพิ่มลงในเพลย์ลิสต์</value>
+    </data>
+    <data name="Player_ClearQueueMessage" xml:space="preserve">
+        <value>แน่ใจหรือว่าต้องการล้างคิว?</value>
+    </data>
+    <data name="Player_ClearQueueTitle" xml:space="preserve">
+        <value>ล้างคิว</value>
+    </data>
+    <data name="Player_NoTrack" xml:space="preserve">
+        <value>ไม่มีการติดตาม</value>
+    </data>
+    <data name="Player_NowPlaying" xml:space="preserve">
+        <value>กำลังเล่น</value>
+    </data>
+    <data name="Player_PlaylistName" xml:space="preserve">
+        <value>ชื่อ</value>
+    </data>
+    <data name="Player_Reloading" xml:space="preserve">
+        <value>ผู้เล่นใหม่</value>
+    </data>
+    <data name="Player_RemoveTrack" xml:space="preserve">
+        <value>ลบแทร็ก</value>
+    </data>
+    <data name="Player_UnknownInformation" xml:space="preserve">
+        <value>ไม่รู้จัก</value>
+    </data>
+    <data name="PlaylistAlreadyExist" xml:space="preserve">
+        <value>{0} มีอยู่แล้ว คุณต้องการแทนที่หรือผนวกเข้ากับเพลย์ลิสต์ที่มีอยู่หรือไม่?</value>
+    </data>
+    <data name="PlaylistCategory_MediaStorage" xml:space="preserve">
+        <value>ที่เก็บสื่อ</value>
+    </data>
+    <data name="PlaylistCategory_MusicService" xml:space="preserve">
+        <value>บริการเพลง</value>
+    </data>
+    <data name="PlaylistCategory_SavedPlaylists" xml:space="preserve">
+        <value>เพลย์ลิสต์ที่บันทึกไว้</value>
+    </data>
+    <data name="PlaylistCategory_UPnP" xml:space="preserve">
+        <value>เซิร์ฟเวอร์สื่อ UPNP</value>
+    </data>
+    <data name="PlaylistCategory_WebRadio" xml:space="preserve">
+        <value>วิทยุเว็บ</value>
+    </data>
+    <data name="PlaylistHasBeenDeleted" xml:space="preserve">
+        <value>{0} ถูกลบไปแล้ว</value>
+    </data>
+    <data name="PlaylistHasBeenSaved" xml:space="preserve">
+        <value>{0} ได้รับการบันทึกแล้ว</value>
+    </data>
+    <data name="Playlists_DeletePlaylistConfirmation" xml:space="preserve">
+        <value>แน่ใจหรือว่าต้องการลบเพลย์ลิสต์นี้?</value>
+    </data>
+    <data name="Playlists_DeletePlaylistTitle" xml:space="preserve">
+        <value>ลบเพลย์ลิสต์</value>
+    </data>
+    <data name="Playlists_Name" xml:space="preserve">
+        <value>ชื่อ</value>
+    </data>
+    <data name="Playlists_PlaylistName" xml:space="preserve">
+        <value>ชื่อเพลย์ลิสต์</value>
+    </data>
+    <data name="Playlists_PlaylistsTitle" xml:space="preserve">
+        <value>เพลย์ลิสต์</value>
+    </data>
+    <data name="Playlist_ExistingPlaylists" xml:space="preserve">
+        <value>เพลย์ลิสต์ที่มีอยู่</value>
+    </data>
+    <data name="PlaySelectedTracks" xml:space="preserve">
+        <value>เล่น</value>
+    </data>
+    <data name="PlaySelectedTracksDescription" xml:space="preserve">
+        <value>เลือกตัวเลือกด้านล่างเพื่อเล่นเฉพาะแทร็กที่เลือกหรือยกเลิกการเลือกเล่นทั้งหมด</value>
+    </data>
+    <data name="PodcastsFriendlyName" xml:space="preserve">
+        <value>พอดคาสต์</value>
+    </data>
+    <data name="PresetItem" xml:space="preserve">
+        <value>ที่ตั้งไว้ล่วงหน้า {0}</value>
+    </data>
+    <data name="PresetSuccessfullySaved" xml:space="preserve">
+        <value>{0} บันทึกได้สำเร็จเป็นที่ตั้งไว้ล่วงหน้า {1}</value>
+    </data>
+    <data name="PrivacyPolicy" xml:space="preserve">
+        <value>นโยบายความเป็นส่วนตัว</value>
+    </data>
+    <data name="QobuzFriendlyName" xml:space="preserve">
+        <value>qobuz</value>
+    </data>
+    <data name="QueueAll" xml:space="preserve">
+        <value>คิวทั้งหมด</value>
+    </data>
+    <data name="QueueSelectedTracks" xml:space="preserve">
+        <value>คิว</value>
+    </data>
+    <data name="Queue_FailedAddTrack" xml:space="preserve">
+        <value>ไม่สามารถเพิ่มแทร็กลงในคิว</value>
+    </data>
+    <data name="Queue_FailedClear" xml:space="preserve">
+        <value>ล้มเหลวในการล้างคิว</value>
+    </data>
+    <data name="Queue_Title" xml:space="preserve">
+        <value>คิว</value>
+    </data>
+    <data name="Queue_Track" xml:space="preserve">
+        <value>{0} แทร็ก</value>
+    </data>
+    <data name="Queue_Tracks" xml:space="preserve">
+        <value>{0} แทร็ก</value>
+    </data>
+    <data name="Queue_Track_Index" xml:space="preserve">
+        <value>{0} ของ {1}</value>
+    </data>
+    <data name="Queue_Track_Index_NoTrack" xml:space="preserve">
+        <value>ไม่มีการติดตาม</value>
+    </data>
+    <data name="Queue_Track_Pause" xml:space="preserve">
+        <value>หยุดชั่วคราว</value>
+    </data>
+    <data name="Queue_Track_Paused" xml:space="preserve">
+        <value>หยุดชั่วคราว</value>
+    </data>
+    <data name="Queue_Track_Playing" xml:space="preserve">
+        <value>การเล่น</value>
+    </data>
+    <data name="Queue_Track_Stopped" xml:space="preserve">
+        <value>หยุด</value>
+    </data>
+    <data name="Queue_Track_Transitioning" xml:space="preserve">
+        <value>การเปลี่ยนภาพ</value>
+    </data>
+    <data name="Queue_Track_UnableToPlay" xml:space="preserve">
+        <value>ไม่สามารถเล่นแทร็กได้</value>
+    </data>
+    <data name="RecentSearch" xml:space="preserve">
+        <value>การค้นหาล่าสุด</value>
+    </data>
+    <data name="Reconnect_Level1" xml:space="preserve">
+        <value>เรากำลังพยายามเชื่อมต่อกับอุปกรณ์ MiND อีกครั้ง</value>
+    </data>
+    <data name="Reconnect_Level2" xml:space="preserve">
+        <value>การเชื่อมต่อใหม่ใช้เวลานานกว่าปกติโปรดอดทนรอ</value>
+    </data>
+    <data name="Reconnect_UnableConnect" xml:space="preserve">
+        <value>เราไม่สามารถเชื่อมต่อกับอุปกรณ์ MiND อีกครั้ง</value>
+    </data>
+    <data name="Reconnect_UnableSync" xml:space="preserve">
+        <value>เราไม่สามารถซิงค์คุณสมบัติของอุปกรณ์ MiND</value>
+    </data>
+    <data name="Refresh_Network" xml:space="preserve">
+        <value>ดึงไปยังเครือข่าย Rescan</value>
+    </data>
+    <data name="Required" xml:space="preserve">
+        <value>ที่จำเป็น</value>
+    </data>
+    <data name="RescanPortError" xml:space="preserve">
+        <value>เกิดข้อผิดพลาดในขณะที่พยายามกู้เครือข่าย ตรวจสอบให้แน่ใจว่าแอปพลิเคชันอื่นไม่ใช้พอร์ต 1900 ฆ่ากระบวนการเปิดอื่น ๆ ทั้งหมดและลองใหม่</value>
+    </data>
+    <data name="Reset" xml:space="preserve">
+        <value>รีเซ็ต</value>
+    </data>
+    <data name="ResultFor" xml:space="preserve">
+        <value>ผลลัพธ์สำหรับ {0}</value>
+    </data>
+    <data name="ResumePlayback" xml:space="preserve">
+        <value>การเล่นกลับมา</value>
+    </data>
+    <data name="SaveQueueError" xml:space="preserve">
+        <value>เกิดข้อผิดพลาดในขณะที่พยายามบันทึกเพลย์ลิสต์</value>
+    </data>
+    <data name="Search" xml:space="preserve">
+        <value>ค้นหา</value>
+    </data>
+    <data name="SearchFor" xml:space="preserve">
+        <value>ค้นหา {0}</value>
+    </data>
+    <data name="Secret" xml:space="preserve">
+        <value>ความลับ</value>
+    </data>
+    <data name="Send" xml:space="preserve">
+        <value>ส่ง</value>
+    </data>
+    <data name="ServiceVolumeControl" xml:space="preserve">
+        <value>{0} การควบคุมระดับเสียง</value>
+    </data>
+    <data name="SetPresetTitle" xml:space="preserve">
+        <value>ตั้งค่าไว้ล่วงหน้า ...</value>
+    </data>
+    <data name="SettingsTitle" xml:space="preserve">
+        <value>การตั้งค่า</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheComplete" xml:space="preserve">
+        <value>ล้าง MiND และแคชรูปภาพสำเร็จแล้ว</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheConfirm" xml:space="preserve">
+        <value>คุณแน่ใจหรือไม่ว่าต้องการล้างภาพและแคช MiND</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheDetails" xml:space="preserve">
+        <value>การดำเนินการนี้จะล้าง MiND และแคชรูปภาพโดยอัตโนมัติ</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheLabel" xml:space="preserve">
+        <value>ล้างแคช</value>
+    </data>
+    <data name="Settings_ApplicationInfoName" xml:space="preserve">
+        <value>ชื่อ</value>
+    </data>
+    <data name="Settings_ApplicationInformation" xml:space="preserve">
+        <value>แอป. ข้อมูลและการตั้งค่า</value>
+    </data>
+    <data name="Settings_ApplicationInfoTitle" xml:space="preserve">
+        <value>ข้อมูล</value>
+    </data>
+    <data name="Settings_ApplicationInfoVersion" xml:space="preserve">
+        <value>รุ่น</value>
+    </data>
+    <data name="Settings_ConfigureButton" xml:space="preserve">
+        <value>กำหนดค่า</value>
+    </data>
+    <data name="Settings_DataSection" xml:space="preserve">
+        <value>ข้อมูล</value>
+    </data>
+    <data name="Settings_DataSyncLabel" xml:space="preserve">
+        <value>ข้อมูลซิงค์</value>
+    </data>
+    <data name="Settings_DataSyncValue" xml:space="preserve">
+        <value>โหลดข้อมูลเพลย์ลิสต์ที่บันทึกไว้ในฐานข้อมูลคลาวด์</value>
+    </data>
+    <data name="Settings_Diagnostic" xml:space="preserve">
+        <value>การวินิจฉัย</value>
+    </data>
+    <data name="Settings_EmptyNetworkNameMessage" xml:space="preserve">
+        <value>ชื่อเครือข่ายไม่สามารถว่างเปล่า</value>
+    </data>
+    <data name="Settings_EmptyNetworkNameTitle" xml:space="preserve">
+        <value>ชื่อเครือข่าย</value>
+    </data>
+    <data name="Settings_ErrorSavingSettings" xml:space="preserve">
+        <value>ไม่สามารถบันทึกการตั้งค่าเครือข่าย</value>
+    </data>
+    <data name="Settings_ExistsingWifis" xml:space="preserve">
+        <value>Wi-Fis ที่มีอยู่</value>
+    </data>
+    <data name="Settings_FirmwareUpdate" xml:space="preserve">
+        <value>อัปเดต</value>
+    </data>
+    <data name="Settings_FirmwareUpToDate" xml:space="preserve">
+        <value>ปัจจุบัน</value>
+    </data>
+    <data name="Settings_FirmwareVersion" xml:space="preserve">
+        <value>เวอร์ชันเฟิร์มแวร์</value>
+    </data>
+    <data name="Settings_InfoTitle" xml:space="preserve">
+        <value>ข้อมูล</value>
+    </data>
+    <data name="Settings_iOSHomeApp" xml:space="preserve">
+        <value>เปิดบ้าน</value>
+    </data>
+    <data name="Settings_Loading" xml:space="preserve">
+        <value>การโหลดตัวเลือกการตั้งค่าเครือข่าย ...</value>
+    </data>
+    <data name="Settings_Location" xml:space="preserve">
+        <value>ที่ตั้ง</value>
+    </data>
+    <data name="Settings_MindVersion" xml:space="preserve">
+        <value>เวอร์ชันโมดูล MiND</value>
+    </data>
+    <data name="Settings_Model" xml:space="preserve">
+        <value>แบบอย่าง</value>
+    </data>
+    <data name="Settings_Name" xml:space="preserve">
+        <value>ชื่อ</value>
+    </data>
+    <data name="Settings_Network" xml:space="preserve">
+        <value>เครือข่าย</value>
+    </data>
+    <data name="Settings_NetworkSettings" xml:space="preserve">
+        <value>การตั้งค่าเครือข่าย</value>
+    </data>
+    <data name="Settings_OpenGoogleHome" xml:space="preserve">
+        <value>เปิด Google Home</value>
+    </data>
+    <data name="Settings_PersonalizationSection" xml:space="preserve">
+        <value>การทำให้เป็นส่วนตัว</value>
+    </data>
+    <data name="Settings_RenameProgress" xml:space="preserve">
+        <value>เปลี่ยนชื่อกำลังดำเนินการ</value>
+    </data>
+    <data name="Settings_RestrictedByAirplay" xml:space="preserve">
+        <value>MiND ของคุณได้รับการกำหนดค่าเป็นอุปกรณ์เสริม AirPlay ดังนั้น คุณควรใช้แอป iOS Home เพื่อกำหนดค่า MiND</value>
+    </data>
+    <data name="Settings_RestrictedByAirplayButAllowGoogleHome" xml:space="preserve">
+        <value>MiND ของคุณได้รับการกำหนดค่าเป็นอุปกรณ์เสริม AirPlay ดังนั้น คุณควรใช้แอป iOS Home หรือ Google Home เพื่อกำหนดค่า MiND</value>
+    </data>
+    <data name="Settings_RestrictedByChromeCast" xml:space="preserve">
+        <value>MiND ของคุณเป็นอุปกรณ์เสริม Chromecast ดังนั้น คุณควรใช้แอป Google Home หรือ iOS Home เพื่อกำหนดค่า MiND</value>
+    </data>
+    <data name="Settings_SettingsSavedMessage" xml:space="preserve">
+        <value>บันทึกการตั้งค่าใหม่ของคุณแล้ว MiND จะปรากฏขึ้นอีกครั้งในพื้นที่โซน</value>
+    </data>
+    <data name="Settings_SettingsSavedTitle" xml:space="preserve">
+        <value>การตั้งค่าที่บันทึกไว้</value>
+    </data>
+    <data name="Settings_TooManyFailedAttempts" xml:space="preserve">
+        <value>ดูเหมือนว่าอุปกรณ์ของคุณไม่สามารถเชื่อมต่อได้ เราขอแนะนำให้ใช้การเชื่อมต่อแบบมีสายหรือเปิดเครื่องอุปกรณ์ MiND ของคุณ</value>
+    </data>
+    <data name="Settings_TooManyFailedAttemptsUnconfigured" xml:space="preserve">
+        <value>ดูเหมือนว่าอุปกรณ์ของคุณกำลังพยายามเชื่อมต่อกับ Bluetooth เราแนะนำให้เข้าใกล้อุปกรณ์ MiND แล้วลองอีกครั้งหรือใช้การเชื่อมต่อแบบมีสายเพื่อตั้งค่าการเชื่อมต่อเครือข่าย</value>
+    </data>
+    <data name="Settings_UnconfiguredMindMessage" xml:space="preserve">
+        <value>MiND นี้ยังไม่ได้กำหนดค่า โปรดกำหนดการตั้งค่าเครือข่ายเพื่อให้สามารถเพลิดเพลินกับคุณสมบัติทั้งหมด</value>
+    </data>
+    <data name="Settings_UnsupportedFirmware" xml:space="preserve">
+        <value>เฟิร์มแวร์ที่ไม่ได้รับการสนับสนุน</value>
+    </data>
+    <data name="Settings_UpdateFirmwareAccessNetwork" xml:space="preserve">
+        <value>อัปเดตเฟิร์มแวร์เพื่อเข้าถึงการตั้งค่าเครือข่าย</value>
+    </data>
+    <data name="Settings_Version" xml:space="preserve">
+        <value>เฟิร์มแวร์</value>
+    </data>
+    <data name="Settings_VersionOf" xml:space="preserve">
+        <value>{0} เวอร์ชัน</value>
+    </data>
+    <data name="Settings_ZoneSettings" xml:space="preserve">
+        <value>การตั้งค่าโซน</value>
+    </data>
+    <data name="SetupInformation" xml:space="preserve">
+        <value>ข้อมูลการตั้งค่า</value>
+    </data>
+    <data name="ShowAlbum" xml:space="preserve">
+        <value>แสดงอัลบั้ม</value>
+    </data>
+    <data name="ShowArtist" xml:space="preserve">
+        <value>ศิลปินแสดง</value>
+    </data>
+    <data name="Size" xml:space="preserve">
+        <value>ขนาด</value>
+    </data>
+    <data name="SortLabelValue" xml:space="preserve">
+        <value>เรียงลำดับ</value>
+    </data>
+    <data name="Specific_LoadingError" xml:space="preserve">
+        <value>ไม่สามารถโหลด {0}</value>
+    </data>
+    <data name="SpotifyFriendlyName" xml:space="preserve">
+        <value>ทำให้เป็นสปอต</value>
+    </data>
+    <data name="SpotifyHelpDetails" xml:space="preserve">
+        <value>ฟังลำโพงหรือทีวีของคุณโดยใช้แอพ Spotify เป็นระยะไกล</value>
+    </data>
+    <data name="SpotifyHelpTitle" xml:space="preserve">
+        <value>พร้อมที่จะเล่นเพลงหรือยัง?</value>
+    </data>
+    <data name="SpotifyLearnMore" xml:space="preserve">
+        <value>เรียนรู้เพิ่มเติม</value>
+    </data>
+    <data name="SpotifyNotSupported" xml:space="preserve">
+        <value>Spotify ไม่รองรับ</value>
+    </data>
+    <data name="SpotifyPlaybackOptions" xml:space="preserve">
+        <value>ตัวเลือกการเล่น</value>
+    </data>
+    <data name="SpotifyUserNotLoggedIn" xml:space="preserve">
+        <value>ผู้ใช้ไม่ได้เข้าสู่ระบบ</value>
+    </data>
+    <data name="Subject" xml:space="preserve">
+        <value>เรื่อง</value>
+    </data>
+    <data name="SubmitLogs_EmailInvalid" xml:space="preserve">
+        <value>กรุณาใส่อีเมล์ที่ถูกต้อง.</value>
+    </data>
+    <data name="SubmitLogs_Success" xml:space="preserve">
+        <value>ขอบคุณสำหรับการส่งบันทึกของคุณ ทีมสนับสนุนจะติดต่อกลับโดยเร็วที่สุด</value>
+    </data>
+    <data name="SubmitLogs_TicketNumber" xml:space="preserve">
+        <value>หมายเลขตั๋วของคุณ:</value>
+    </data>
+    <data name="SubmitLogs_TicketNumberInvalid" xml:space="preserve">
+        <value>กรุณากรอกหมายเลขตั๋ว</value>
+    </data>
+    <data name="Success" xml:space="preserve">
+        <value>ความสำเร็จ</value>
+    </data>
+    <data name="TapToAccessPrivacyPolicy" xml:space="preserve">
+        <value>แตะที่นี่เพื่อเปิดนโยบายความเป็นส่วนตัวของเรา</value>
+    </data>
+    <data name="Tap_To_Retry" xml:space="preserve">
+        <value>แตะที่นี่เพื่อลองอีกครั้ง ...</value>
+    </data>
+    <data name="Test" xml:space="preserve">
+        <value>ทดสอบ</value>
+    </data>
+    <data name="TidalFriendlyName" xml:space="preserve">
+        <value>เป็นน้ำขึ้นน้ำลง</value>
+    </data>
+    <data name="ToContinue" xml:space="preserve">
+        <value>กด [ตกลง] เพื่อดำเนินการต่อ</value>
+    </data>
+    <data name="ToDropConnection" xml:space="preserve">
+        <value>กด [ยกเลิก] เพื่อลดการเชื่อมต่อปัจจุบันที่กำลังดำเนินการ</value>
+    </data>
+    <data name="TracksCount" xml:space="preserve">
+        <value>จำนวนแทร็ก</value>
+    </data>
+    <data name="TrackSuccessfullyAddedToMaxedOutQueue" xml:space="preserve">
+        <value>บางแทร็กไม่ได้ถูกเพิ่มเข้าไปในคิวเมื่อเราไปถึงความจุคิวสูงสุดแล้ว</value>
+    </data>
+    <data name="TrackSuccessfullyAddedToQueue" xml:space="preserve">
+        <value>แทร็กถูกเพิ่มเข้ากับคิวสำเร็จ</value>
+    </data>
+    <data name="TuneInRadioFriendlyName" xml:space="preserve">
+        <value>วิทยุ</value>
+    </data>
+    <data name="TurnedToStandby" xml:space="preserve">
+        <value>{0} หันไปใช้โหมดสแตนด์บาย</value>
+    </data>
+    <data name="UnconfiguredMiND" xml:space="preserve">
+        <value>unconfigured {0} ({1})</value>
+    </data>
+    <data name="UnsolicitedMessageFromMiND" xml:space="preserve">
+        <value>ข้อความที่ไม่พึงประสงค์จาก {0}</value>
+    </data>
+    <data name="USB" xml:space="preserve">
+        <value>ยูเอสบี</value>
+    </data>
+    <data name="VerificationConfirmation" xml:space="preserve">
+        <value>ฉันได้ยืนยันแล้ว</value>
+    </data>
+    <data name="VersionAvailable" xml:space="preserve">
+        <value>({0} พร้อมใช้งาน)</value>
+    </data>
+    <data name="WLANSecurity_None" xml:space="preserve">
+        <value>ไม่มี</value>
+    </data>
+    <data name="WLANSecurity_WEP" xml:space="preserve">
+        <value>เวทมนตร์</value>
+    </data>
+    <data name="WLANSecurity_WPA" xml:space="preserve">
+        <value>WPA</value>
+    </data>
+    <data name="WLANSecurity_WPA2" xml:space="preserve">
+        <value>WPA2</value>
+    </data>
+    <data name="WrongDataReturnMusicService" xml:space="preserve">
+        <value>ข้อมูลผิดส่งคืนจากเซิร์ฟเวอร์ {0}</value>
+    </data>
+    <data name="Zones_Title" xml:space="preserve">
+        <value>โซน</value>
+    </data>
+    <data name="Language_Thai" xml:space="preserve">
+        <value>TH - แบบไทย</value>
+    </data>
+    <data name="General_ConnectingMiND" xml:space="preserve">
+        <value>กำลังเชื่อมต่อกับอุปกรณ์ MiND</value>
+    </data>
+    <data name="UploadPlaylistsButton" xml:space="preserve">
+        <value>ที่อัพโหลด</value>
+    </data>
+    <data name="TodayAppCompatibility" xml:space="preserve">
+        <value>คิดค่าเสื่อมราคาบน iOS14 +</value>
+    </data>
+    <data name="UndefinedValueHint" xml:space="preserve">
+        <value>ไม่ได้กำหนด. หากต้องการสลับไปยังโหมดแก้ไขให้แตะปุ่มดินสอ</value>
+    </data>
+    <data name="Undefined" xml:space="preserve">
+        <value>ไม่ได้กำหนด</value>
+    </data>
+    <data name="AppleMusicCompatibility" xml:space="preserve">
+        <value>โปรดทราบว่า MOON ไม่สามารถรับประกันความเข้ากันได้ของไฟล์ที่เก็บไว้ในอุปกรณ์มือถือของคุณด้วยคอนโทรลเลอร์ MiND ของคุณอีกต่อไป เมื่อ iTunes ถูกแทนที่ด้วย Apple Music คุณลักษณะนี้ล้าสมัย</value>
+    </data>
+    <data name="DeprecatedMessage" xml:space="preserve">
+        <value>เราไม่สามารถรับประกันความเข้ากันได้ของฟังก์ชั่นนี้ได้อีกต่อไป</value>
+    </data>
+    <data name="Enable" xml:space="preserve">
+        <value>เปิดใช้งาน</value>
+    </data>
+    <data name="AppleMusicAlternative" xml:space="preserve">
+        <value>คุณสามารถอ่านไฟล์เหล่านี้ต่อไปในแอปพลิเคชัน Music Music Audio สามารถส่งไปยัง MiND ของคุณผ่าน AirPlay, USB หรือ Bluetooth ขึ้นอยู่กับรุ่น</value>
+    </data>
+    <data name="AppleMusicOptions" xml:space="preserve">
+        <value>หากคุณเปิดใช้งานคุณสมบัตินี้คำเตือนนี้จะไม่ปรากฏขึ้นอีกต่อไป หากคุณลบคุณสมบัตินี้จะไม่สามารถใช้งานได้ในครั้งต่อไปที่คุณโหลดพื้นที่ MiND บนอุปกรณ์มือถือนี้</value>
+    </data>
+    <data name="NetworkErrorWrongPassword" xml:space="preserve">
+        <value>รหัสผ่านไม่ถูกต้อง</value>
+    </data>
+    <data name="NetworkErrorPasswordLength" xml:space="preserve">
+        <value>รหัสผ่านหรือความยาวของคีย์เกิน</value>
+    </data>
+    <data name="BluetoothError" xml:space="preserve">
+        <value>ข้อผิดพลาดของบลูทูธ</value>
+    </data>
+    <data name="RestartApp" xml:space="preserve">
+        <value>โปรดรีสตาร์ทแอป</value>
+    </data>
+    <data name="AreYouSure" xml:space="preserve">
+        <value>คุณแน่ใจไหม?</value>
+    </data>
+    <data name="Visibility" xml:space="preserve">
+        <value>ทัศนวิสัย</value>
+    </data>
+    <data name="PrivateDescriptionOff" xml:space="preserve">
+        <value>ปรากฏสำหรับผู้ใช้รายอื่น</value>
+    </data>
+    <data name="MayChangePlaylistName" xml:space="preserve">
+        <value>คุณสามารถเปลี่ยนชื่อเพลย์ลิสต์ของคุณได้เลย!</value>
+    </data>
+    <data name="NotAuthenticatedToTheCloud" xml:space="preserve">
+        <value>คุณไม่ได้รับการตรวจสอบเข้าสู่ระบบคลาวด์!</value>
+    </data>
+    <data name="SyncingPlaylistsWithCloud" xml:space="preserve">
+        <value>กำลังซิงค์รายการเพลงกับคลาวด์...</value>
+    </data>
+    <data name="SyncingPlaylistsWithCloudSucceed" xml:space="preserve">
+        <value>รายการเพลงถูกซิงค์กับคลาวด์เรียบร้อยแล้ว</value>
+    </data>
+    <data name="SelectPicture" xml:space="preserve">
+        <value>เลือกรูปภาพ</value>
+    </data>
+    <data name="MissingArguments" xml:space="preserve">
+        <value>อาร์กิวเมนต์หายไป</value>
+    </data>
+    <data name="Tracks" xml:space="preserve">
+        <value>เพลง</value>
+    </data>
+    <data name="NoPlaylists" xml:space="preserve">
+        <value>คุณไม่มีรายการเพลง</value>
+    </data>
+    <data name="MyPlaylists" xml:space="preserve">
+        <value>เพลย์ลิสต์ของฉัน</value>
+    </data>
+    <data name="DeletePlaylist" xml:space="preserve">
+        <value>ลบรายการเพลง</value>
+    </data>
+    <data name="PlaylistDeletedSuccessfully" xml:space="preserve">
+        <value>รายการเพลงถูกลบออกแล้ว!</value>
+    </data>
+    <data name="PlaylistSyncedSuccessfully" xml:space="preserve">
+        <value>รายการเพลงถูกซิงค์เรียบร้อยแล้ว!</value>
+    </data>
+    <data name="PlaylistClonedSuccessfully" xml:space="preserve">
+        <value>รายการเพลงถูกคลอนสำเร็จแล้ว! </value>
+    </data>
+    <data name="PlaylistUpdatedSuccessfully" xml:space="preserve">
+        <value>รายการเพลงถูกอัปเดตเรียบร้อยแล้ว!</value>
+    </data>
+    <data name="PlaylistNotFound" xml:space="preserve">
+        <value>ไม่พบรายการเพลง!</value>
+    </data>
+    <data name="ClonePlaylist" xml:space="preserve">
+        <value>คลอนรายการเพลง</value>
+    </data>
+    <data name="Clone" xml:space="preserve">
+        <value>คลอน</value>
+    </data>
+    <data name="IsUpToDate" xml:space="preserve">
+        <value>เป็นเวอร์ชันล่าสุด</value>
+    </data>
+    <data name="Administrators" xml:space="preserve">
+        <value>ผู้ดูแลระบบ</value>
+    </data>
+    <data name="AdminDevices" xml:space="preserve">
+        <value>อุปกรณ์ผู้ดูแล (UUID)</value>
+    </data>
+    <data name="EditPlaylist" xml:space="preserve">
+        <value>แก้ไขเพลย์ลิสต์</value>
+    </data>
+    <data name="EditPlaylistDescription" xml:space="preserve">
+        <value>หากคุณต้องการแก้ไขเพลย์ลิสต์นี้คุณต้องทำสำเนา</value>
+    </data>
+    <data name="MakeCopy" xml:space="preserve">
+        <value>ทำสำเนา</value>
+    </data>
+    <data name="SavePlaylist" xml:space="preserve">
+        <value>บันทึกเพลย์ลิสต์</value>
+    </data>
+    <data name="DeleteTrack" xml:space="preserve">
+        <value>ลบเพลง</value>
+    </data>
+    <data name="NetworkWarningDhcpIsOff" xml:space="preserve">
+        <value>DHCP ปิดอยู่</value>
+    </data>
+    <data name="FileSorting" xml:space="preserve">
+        <value>การจัดเรียงไฟล์</value>
+    </data>
+    <data name="MediaServer" xml:space="preserve">
+        <value>เซิร์ฟเวอร์สื่อ</value>
+    </data>
+    <data name="Expand" xml:space="preserve">
+        <value>ขยาย</value>
+    </data>
+    <data name="ContactMOONSupport" xml:space="preserve">
+        <value>ติดต่อฝ่ายสนับสนุน MOON </value>
+    </data>
+    <data name="ContactMOONSupportDesc" xml:space="preserve">
+        <value>เราจะช่วยเหลือได้อย่างไร?</value>
+    </data>
+    <data name="ContactMOONSupportDetails" xml:space="preserve">
+        <value>ติดต่อ MOON  ทีมสนับสนุน</value>
+    </data>
+    <data name="ContactMOONSupportSubDesc" xml:space="preserve">
+        <value>ส่งรายละเอียดของคุณเพื่อรับความช่วยเหลือ</value>
+    </data>
+    <data name="IncludeOthersPlaylists" xml:space="preserve">
+        <value>รวมเพลย์ลิสต์ของผู้อื่น</value>
+    </data>
+    <data name="AttachMyLogs" xml:space="preserve">
+        <value>แนบไฟล์บันทึกของฉัน</value>
+    </data>
+    <data name="AttachMyLogsDescription" xml:space="preserve">
+        <value>ช่วยเราแก้ปัญหาอย่างรวดเร็วด้วยการแนบไฟล์บันทึกของคุณ</value>
+    </data>
+    <data name="CloudAutoSyncTitle" xml:space="preserve">
+        <value>ซิงค์อัตโนมัติ</value>
+    </data>
+    <data name="CloudMobileName" xml:space="preserve">
+        <value>ชื่ออุปกรณ์เคลื่อนที่</value>
+    </data>
+    <data name="CloudMobilesHubDescription" xml:space="preserve">
+        <value>เปิดใช้งานการเชื่อมโยงอุปกรณ์สำหรับการซิงค์ข้อมูล</value>
+    </data>
+    <data name="CloudMobilesHubTitle" xml:space="preserve">
+        <value>ฮับอุปกรณ์เคลื่อนที่</value>
+    </data>
+    <data name="CloudItemToUpload" xml:space="preserve">
+        <value>เพื่ออัพโหลดบนข้อมูลคลาวด์</value>
+    </data>
+    <data name="CloudItemToDownload" xml:space="preserve">
+        <value>ให้ดาวน์โหลดจากข้อมูลคลาวด์</value>
+    </data>
+    <data name="CloudItemSynced" xml:space="preserve">
+        <value>ซิงค์แล้ว</value>
+    </data>
+    <data name="PrivateTitle" xml:space="preserve">
+        <value>ส่วนตัว</value>
+    </data>
+    <data name="PrivateDescriptionOn" xml:space="preserve">
+        <value>ไม่ปรากฏสำหรับผู้ใช้รายอื่นในเครือข่ายของฉัน</value>
+    </data>
+    <data name="CloudAutoSyncMessage" xml:space="preserve">
+        <value>อัปโหลดและดาวน์โหลดการเปลี่ยนแปลงไปยังเพลย์ลิสต์ที่บันทึกไว้ในระบบคลาวด์โดยอัตโนมัติ คุณสามารถเปลี่ยนการกำหนดค่านี้ได้ตลอดเวลาในการตั้งค่าห้องสมุด</value>
+    </data>
+    <data name="VisibilityDescriptionOff" xml:space="preserve">
+        <value>ไม่ปรากฏอยู่ในรายการ</value>
+    </data>
+    <data name="AutoDetectedCountry" xml:space="preserve">
+        <value>ตรวจพบประเทศโดยอัตโนมัติ</value>
+    </data>
+    <data name="BluetoothFailed" xml:space="preserve">
+        <value>ลองปิดบลูทูธแล้วเปิดใหม่อีกครั้งบนอุปกรณ์เคลื่อนที่นี้</value>
+    </data>
+    <data name="VisibleDescriptionOff" xml:space="preserve">
+        <value>ไม่ปรากฏอยู่ในรายการ</value>
+    </data>
+    <data name="MiND_AppIsOff" xml:space="preserve">
+        <value>แอป MiND ไม่ได้เปิดอยู่</value>
+    </data>
+    <data name="TrackAddedSuccess" xml:space="preserve">
+        <value>เพิ่มแทร็กลงในเพลย์ลิสต์ของคุณเรียบร้อยแล้ว!!</value>
+    </data>
+    <data name="TrackAlreadyInPlaylist" xml:space="preserve">
+        <value>แทร็กนี้มีอยู่ในเพลย์ลิสต์ของคุณแล้ว</value>
+    </data>
+    <data name="Player_AddToMyPlaylists" xml:space="preserve">
+        <value>เพิ่มไปยังเพลย์ลิสต์ที่บันทึกไว้ของฉัน</value>
+    </data>
+    <data name="SharedPlaylists" xml:space="preserve">
+        <value>เพลย์ลิสต์ที่แชร์</value>
+    </data>
+    <data name="Language_TraditionalChinese" xml:space="preserve">
+        <value>ZHO - จีนตัวเต็ม</value>
+    </data>
+    <data name="NotificationUserDescription" xml:space="preserve">
+        <value>การแจ้งเตือนจะช่วยให้ผู้ใช้สามารถรับการสื่อสารและการอัพเดตได้</value>
+    </data>
+    <data name="NearbyDevices" xml:space="preserve">
+        <value>อุปกรณ์ใกล้เคียง</value>
+    </data>
+    <data name="IsPlaylistPublic" xml:space="preserve">
+        <value>เพลย์ลิสต์นี้เป็นสาธารณะใช่ไหม</value>
+    </data>
+    <data name="ClearAll" xml:space="preserve">
+        <value>ลบทั้งหมด</value>
+    </data>
+    <data name="WifiResetHint" xml:space="preserve">
+        <value>ปิดการใช้งานและเปิดใช้งานอินเทอร์เน็ตของอุปกรณ์มือถือของคุณ</value>
+    </data>
+    <data name="Messaging" xml:space="preserve">
+        <value>การส่งข้อความ</value>
+    </data>
+    <data name="MessagingDescription" xml:space="preserve">
+        <value>อนุญาตให้อุปกรณ์มือถือของคุณรับการแจ้งเตือนทางข้อความ</value>
+    </data>
+    <data name="MessagingAppAndFirmware" xml:space="preserve">
+        <value>การแจ้งเตือนการอัปเดตเฟิร์มแวร์และแอป</value>
+    </data>
+    <data name="MessagingNews" xml:space="preserve">
+        <value>การแจ้งเตือนข่าว</value>
+    </data>
+    <data name="Disabled" xml:space="preserve">
+        <value>พิการ</value>
+    </data>
+    <data name="CloudPlaylistsDescription" xml:space="preserve">
+        <value>รวบรวมรายการที่บันทึกไว้ในอุปกรณ์ของคุณและรายการที่เกี่ยวข้องกับอุปกรณ์ของคุณบนคลาวด์ข้อมูล</value>
+    </data>
+</root>

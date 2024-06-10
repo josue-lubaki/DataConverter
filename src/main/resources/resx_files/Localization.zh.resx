@@ -1,0 +1,1998 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>2.0</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="Browser_Missing" xml:space="preserve">
+        <value>您没有任何浏览器可以打开网页</value>
+    </data>
+    
+    <data name="Language_Default" xml:space="preserve">
+        <value>设备的语言</value>
+    </data>  
+    <data name="Language_English" xml:space="preserve">
+        <value>EN - 英语</value>
+    </data>
+    <data name="Language_German" xml:space="preserve">
+        <value>DE - 德语</value>
+    </data>
+    <data name="Language_Espagnol" xml:space="preserve">
+        <value>ES - 西班牙语</value>
+    </data>
+    <data name="Language_French" xml:space="preserve">
+        <value>FR - 法语</value>
+    </data>
+    <data name="Language_Japanese" xml:space="preserve">
+        <value>JA - 日语</value>
+    </data>
+    <data name="Language_Korean" xml:space="preserve">
+        <value>KO - 韩语</value>
+    </data>
+    <data name="Language_Dutch" xml:space="preserve">
+        <value>NL - 荷兰语</value>
+    </data>
+    <data name="Language_Polish" xml:space="preserve">
+        <value>PL - 波兰语</value>
+    </data>
+    <data name="Language_Chinese" xml:space="preserve">
+        <value>ZH - 中文</value>
+    </data>
+    
+    <data name="PlaylistCategory_SavedPlaylists" xml:space="preserve">
+        <value>已保存播放列表</value>
+    </data>
+    <data name="PlaylistCategory_WebRadio" xml:space="preserve">
+        <value>网络电台</value>
+    </data>
+    <data name="PlaylistCategory_MusicService" xml:space="preserve">
+        <value>音乐服务</value>
+    </data>
+    <data name="PlaylistCategory_UPnP" xml:space="preserve">
+        <value>多媒体服务器</value>
+    </data>
+    <data name="PlaylistCategory_MediaStorage" xml:space="preserve">
+        <value>储存设备</value>
+    </data>
+    <data name="USB" xml:space="preserve">
+        <value>USB设备</value>
+    </data>
+    <data name="Library_ConnectionFailed" xml:space="preserve">
+        <value>无法找到根目录</value>
+    </data>
+    <data name="Library_Item_Count" xml:space="preserve">
+        <value>{0} / {1}</value>
+    </data>
+    <data name="General_Loading" xml:space="preserve">
+        <value>加载中，请稍候</value>
+    </data>
+    <data name="General_Cancel" xml:space="preserve">
+        <value>取消</value>
+    </data>
+    <data name="Playlists_PlaylistsTitle" xml:space="preserve">
+        <value>播放列表</value>
+    </data>
+    <data name="General_Error" xml:space="preserve">
+        <value>错误</value>
+    </data>
+    <data name="General_ErrorMessage" xml:space="preserve">
+        <value>无法执行操作</value>
+    </data>
+    <data name="General_LoadingError" xml:space="preserve">
+        <value>无法读取信息</value>
+    </data>
+    <data name="Specific_LoadingError" xml:space="preserve">
+        <value>无法加载{0}</value>
+    </data>
+    <data name="General_Ok" xml:space="preserve">
+        <value>Ok</value>
+    </data>
+    <data name="Playlists_DeletePlaylistTitle" xml:space="preserve">
+        <value>删除播放列表</value>
+    </data>
+    <data name="Playlists_DeletePlaylistConfirmation" xml:space="preserve">
+        <value>真的要删除此播放列表吗</value>
+    </data>
+    <data name="AddTrack_TopButton" xml:space="preserve">
+        <value>置顶</value>
+    </data>
+    <data name="AddTrack_NextButton" xml:space="preserve">
+        <value>下一首</value>
+    </data>
+    <data name="AddTrack_EndButton" xml:space="preserve">
+        <value>结束</value>
+    </data>
+    <data name="AddTrack_ReplaceButton" xml:space="preserve">
+        <value>替换</value>
+    </data>
+    <data name="AddTrack_Title" xml:space="preserve">
+        <value>添加曲目</value>
+    </data>
+    <data name="AddTrack_WorkingTitle" xml:space="preserve">
+        <value>工作中</value>
+    </data>
+    <data name="AddTrack_AddingTracksToQueue" xml:space="preserve">
+        <value>正在把曲目添加到序列，请稍候</value>
+    </data>
+    <data name="General_ErrorBrowsing" xml:space="preserve">
+        <value>浏览错误</value>
+    </data>
+    <data name="AddTrack_EmptyDirectory" xml:space="preserve">
+        <value>内容为空</value>
+    </data>
+    <data name="Input_Title" xml:space="preserve">
+        <value>输入</value>
+    </data>
+    <data name="Input_LoadingError" xml:space="preserve">
+        <value>输入端加载错误</value>
+    </data>
+    <data name="Input_ModificationError" xml:space="preserve">
+        <value>输入端修改时发生错误</value>
+    </data>
+    <data name="Library_Title" xml:space="preserve">
+        <value>媒体库</value>
+    </data>
+    <data name="General_ConnectionLostTitle" xml:space="preserve">
+        <value>失去连接</value>
+    </data>
+    <data name="General_ConnectionLostMessage" xml:space="preserve">
+        <value>对不起，设备连接已断开，请重新再试</value>
+    </data>
+    <data name="Zones_Title" xml:space="preserve">
+        <value>空间</value>
+    </data>
+    <data name="Settings_SettingsSavedTitle" xml:space="preserve">
+        <value>设置保存成功</value>
+    </data>
+    <data name="Settings_SettingsSavedMessage" xml:space="preserve">
+        <value>新设置已保存。MiND将会重新在空间内出现</value>
+    </data>
+    <data name="Settings_UnconfiguredMindMessage" xml:space="preserve">
+        <value>MiND未设置好，请重新设定网络以便体验所有的功能</value>
+    </data>
+    <data name="Settings_ConfigureButton" xml:space="preserve">
+        <value>设置</value>
+    </data>
+    <data name="General_0_Items" xml:space="preserve">
+        <value>{0} 项目</value>
+    </data>
+    <data name="General_0_Item" xml:space="preserve">
+        <value>{0} 项</value>
+    </data>
+    <data name="AddTrack_More" xml:space="preserve">
+        <value>更多...</value>
+    </data>
+    <data name="Queue_Title" xml:space="preserve">
+        <value>排序</value>
+    </data>
+    <data name="Queue_Track_Paused" xml:space="preserve">
+        <value>暂停</value>
+    </data>
+    <data name="Queue_Track_Playing" xml:space="preserve">
+        <value>播放中</value>
+    </data>
+    <data name="Queue_Track_Stopped" xml:space="preserve">
+        <value>停止</value>
+    </data>
+    <data name="Queue_Track_Index" xml:space="preserve">
+        <value>{0} / {1}</value>
+    </data>
+    <data name="Queue_Track" xml:space="preserve">
+        <value>{0} 歌曲</value>
+    </data>
+    <data name="Queue_Tracks" xml:space="preserve">
+        <value>{0} 歌曲</value>
+    </data>
+    <data name="Queue_Track_Index_NoTrack" xml:space="preserve">
+        <value>没有曲目</value>
+    </data>
+    <data name="Queue_Track_UnableToPlay" xml:space="preserve">
+        <value>无法播放此曲目</value>
+    </data>
+    <data name="General_UnsupportedFormat" xml:space="preserve">
+        <value>不支持的格式</value>
+    </data>
+    <data name="Playlist_ExistingPlaylists" xml:space="preserve">
+        <value>已存的播放列表</value>
+    </data>
+    <data name="Library_PlayNow" xml:space="preserve">
+        <value>听歌吧</value>
+    </data>
+    <data name="General_Delete" xml:space="preserve">
+        <value>删除</value>
+    </data>
+    <data name="Settings_ZoneSettings" xml:space="preserve">
+        <value>区域设置</value>
+    </data>
+    <data name="Settings_InfoTitle" xml:space="preserve">
+        <value>信息</value>
+    </data>
+    <data name="Settings_Name" xml:space="preserve">
+        <value>名字</value>
+    </data>
+    <data name="New_Name_Successfully_Saved" xml:space="preserve">
+        <value>新名字已保存</value>
+    </data>
+    <data name="Settings_Model" xml:space="preserve">
+        <value>型号</value>
+    </data>
+    <data name="Settings_Location" xml:space="preserve">
+        <value>地区</value>
+    </data>
+    <data name="Settings_MindVersion" xml:space="preserve">
+        <value>MiND模块版本</value>
+    </data>
+    <data name="Settings_Network" xml:space="preserve">
+        <value>网络</value>
+    </data>
+    <data name="Settings_NetworkSettings" xml:space="preserve">
+        <value>网络设定</value>
+    </data>
+    <data name="General_WifiConnectionLost" xml:space="preserve">
+        <value>无线连接已断开</value>
+    </data>
+    <data name="General_WifiWaitingForConnection" xml:space="preserve">
+        <value>等待无线连接</value>
+    </data>
+    <data name="General_ConnectionFailedTitle" xml:space="preserve">
+        <value>连接失败</value>
+    </data>
+    <data name="General_ConnectionFailedMessage" xml:space="preserve">
+        <value>无法连接到MiND。请检查是否已连接到别的控制器，请关闭程序再试。</value>
+    </data>
+    <data name="General_Retry" xml:space="preserve">
+        <value>重试</value>
+    </data>
+    <data name="Mind_UpdateInProgressTitle" xml:space="preserve">
+        <value>升级进行中</value>
+    </data>
+    <data name="Mind_UpdateInProgressMessage" xml:space="preserve">
+        <value>升级中，预计需时10分钟，敬请耐心等候。</value>
+    </data>
+    <data name="Device_ErrorLoadingMindNetworkSettings" xml:space="preserve">
+        <value>无法加载MiND网络设定</value>
+    </data>
+    <data name="Device_ErrorConnectingToMind" xml:space="preserve">
+        <value>无法连接到MiND</value>
+    </data>
+    <data name="General_MindZones" xml:space="preserve">
+        <value>MIND空间</value>
+    </data>
+    <data name="General_Mediaservers" xml:space="preserve">
+        <value>媒体库</value>
+    </data>
+    <data name="WLANSecurity_WPA" xml:space="preserve">
+        <value>WPA 加密</value>
+    </data>
+    <data name="WLANSecurity_WPA2" xml:space="preserve">
+        <value>WPA2 加密</value>
+    </data>
+    <data name="WLANSecurity_WEP" xml:space="preserve">
+        <value>WEP 加密</value>
+    </data>
+    <data name="WLANSecurity_None" xml:space="preserve">
+        <value>不设密码</value>
+    </data>
+    <data name="Network_Title" xml:space="preserve">
+        <value>网络</value>
+    </data>
+    <data name="Network_Error_NameEmptyTitle" xml:space="preserve">
+        <value>空名字</value>
+    </data>
+    <data name="Network_Error_NameEmptyMessage" xml:space="preserve">
+        <value>MiND的名字不能为空</value>
+    </data>
+    <data name="Network_IPAddress" xml:space="preserve">
+        <value>IP地址</value>
+    </data>
+    <data name="Network_Error_InvalidIPMessage" xml:space="preserve">
+        <value>IP地址非法</value>
+    </data>
+    <data name="Network_SubnetMask" xml:space="preserve">
+        <value>子网掩码</value>
+    </data>
+    <data name="Network_Error_InvalidSubnetMaskMessage" xml:space="preserve">
+        <value>子网掩码无效</value>
+    </data>
+    <data name="Network_Gateway" xml:space="preserve">
+        <value>网关</value>
+    </data>
+    <data name="Network_Error_InvalidGatewayMessage" xml:space="preserve">
+        <value>网关地址非法</value>
+    </data>
+    <data name="Network_DNS" xml:space="preserve">
+        <value>域名</value>
+    </data>
+    <data name="Network_Error_InvalidDNSMessage" xml:space="preserve">
+        <value>域名地址无效</value>
+    </data>
+    <data name="Network_WEPKey" xml:space="preserve">
+        <value>WEP 密码</value>
+    </data>
+    <data name="NetworkErrorEmptyWEPKeyMessage" xml:space="preserve">
+        <value>密码不能为空</value>
+    </data>
+    <data name="Password" xml:space="preserve">
+        <value>密码</value>
+    </data>
+    <data name="Network_Error_EmptyWPAPasswordMessage" xml:space="preserve">
+        <value>密码不能为空</value>
+    </data>
+    <data name="Network_SavingSettingsTitle" xml:space="preserve">
+        <value>密码不能为空</value>
+    </data>
+    <data name="Network_SavingSettingsMessage" xml:space="preserve">
+        <value>设置保存中，请稍候……</value>
+    </data>
+    <data name="Network_GeneralHeader" xml:space="preserve">
+        <value>通用</value>
+    </data>
+    <data name="Network_WirelessHeader" xml:space="preserve">
+        <value>无线</value>
+    </data>
+    <data name="Network_WirelessWifi" xml:space="preserve">
+        <value>无线网络</value>
+    </data>
+    <data name="Network_Security" xml:space="preserve">
+        <value>安全设置</value>
+    </data>
+    <data name="Network_MindName" xml:space="preserve">
+        <value>MiND的名字</value>
+    </data>
+    <data name="Network_WEPIndex" xml:space="preserve">
+        <value>WEP索引</value>
+    </data>
+    <data name="Network_DHCP" xml:space="preserve">
+        <value>动态主机配置协议</value>
+    </data>
+    <data name="Network_IP" xml:space="preserve">
+        <value>IP</value>
+    </data>
+    <data name="Player_NoTrack" xml:space="preserve">
+        <value>没有曲目</value>
+    </data>
+    <data name="Player_ClearQueueTitle" xml:space="preserve">
+        <value>清除列表</value>
+    </data>
+    <data name="General_Clear" xml:space="preserve">
+        <value>清空</value>
+    </data>
+    <data name="Player_ClearQueueMessage" xml:space="preserve">
+        <value>确认要清空列表？</value>
+    </data>
+    <data name="General_Save" xml:space="preserve">
+        <value>保存</value>
+    </data>
+    <data name="General_Done" xml:space="preserve">
+        <value>已完成</value>
+    </data>
+    <data name="General_Edit" xml:space="preserve">
+        <value>编辑</value>
+    </data>
+    <data name="Player_PlaylistName" xml:space="preserve">
+        <value>名字</value>
+    </data>
+    <data name="Player_UnknownInformation" xml:space="preserve">
+        <value>未知内容</value>
+    </data>
+    <data name="Player_RemoveTrack" xml:space="preserve">
+        <value>移除曲目</value>
+    </data>
+    <data name="Player_NowPlaying" xml:space="preserve">
+        <value>正在播放</value>
+    </data>
+    <data name="Metadata_Title" xml:space="preserve">
+        <value>名字</value>
+    </data>
+    <data name="Metadata_Album" xml:space="preserve">
+        <value>专辑</value>
+    </data>
+    <data name="Metadata_Artist" xml:space="preserve">
+        <value>艺术家</value>
+    </data>
+    <data name="Metadata_Genre" xml:space="preserve">
+        <value>流派</value>
+    </data>
+    <data name="Metadata_Composer" xml:space="preserve">
+        <value>作曲家</value>
+    </data>
+    <data name="Metadata_Conductor" xml:space="preserve">
+        <value>指挥者</value>
+    </data>
+    <data name="Metadata_Date" xml:space="preserve">
+        <value>日期</value>
+    </data>
+    <data name="Metadata_Description" xml:space="preserve">
+        <value>描述</value>
+    </data>
+    <data name="Metadata_Slogan" xml:space="preserve">
+        <value>口号</value>
+    </data>
+    <data name="Metadata_Language" xml:space="preserve">
+        <value>语言</value>
+    </data>
+    <data name="Metadata_Place" xml:space="preserve">
+        <value>地方</value>
+    </data>
+    <data name="Metadata_TitleTab1" xml:space="preserve">
+        <value>细节</value>
+    </data>
+    <data name="Metadata_TitleTab2" xml:space="preserve">
+        <value>封面</value>
+    </data>
+    <data name="Actions" xml:space="preserve">
+        <value>动作</value>
+    </data>
+    <data name="Playlists_PlaylistName" xml:space="preserve">
+        <value>名字</value>
+    </data>
+    <data name="Settings_Version" xml:space="preserve">
+        <value>固件版本</value>
+    </data>
+    <data name="General_NoMindFoundTitle" xml:space="preserve">
+        <value>没找到MiND</value>
+    </data>
+    <data name="Settings_ApplicationInformation" xml:space="preserve">
+        <value>程序讯息与设置</value>
+    </data>
+    <data name="Settings_ErrorSavingSettings" xml:space="preserve">
+        <value>无法保存网络设置</value>
+    </data>
+    <data name="General_Add" xml:space="preserve">
+        <value>添加</value>
+    </data>
+    <data name="Settings_EmptyNetworkNameTitle" xml:space="preserve">
+        <value>网络名称</value>
+    </data>
+    <data name="Settings_EmptyNetworkNameMessage" xml:space="preserve">
+        <value>网络名称不能为空</value>
+    </data>
+    <data name="Settings_ExistsingWifis" xml:space="preserve">
+        <value>已保存的无线网络</value>
+    </data>
+    <data name="Settings_FirmwareUpToDate" xml:space="preserve">
+        <value>固件已是最新版本</value>
+    </data>
+    <data name="Settings_FirmwareUpdate" xml:space="preserve">
+        <value>升级</value>
+    </data>
+    <data name="Settings_ApplicationInfoTitle" xml:space="preserve">
+        <value>信息</value>
+    </data>
+    <data name="Settings_ApplicationInfoName" xml:space="preserve">
+        <value>名字</value>
+    </data>
+    <data name="Settings_ApplicationInfoVersion" xml:space="preserve">
+        <value>版本</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheLabel" xml:space="preserve">
+        <value>清空缓存</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheDetails" xml:space="preserve">
+        <value>这将自动清除MiND和图像缓存。</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheConfirm" xml:space="preserve">
+        <value>您确定要清除图像和MiND缓存吗？</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheComplete" xml:space="preserve">
+        <value>MiND和图像缓存已成功清除</value>
+    </data>
+    <data name="General_Yes" xml:space="preserve">
+        <value>是</value>
+    </data>
+    <data name="General_No" xml:space="preserve">
+        <value>否</value>
+    </data>
+    <data name="SettingsTitle" xml:space="preserve">
+        <value>设定</value>
+    </data>
+    <data name="Library_SettingsMusicServices" xml:space="preserve">
+        <value>音乐服务</value>
+    </data>
+    <data name="Library_SettingsVisibleInList" xml:space="preserve">
+        <value>可视化媒体库列表</value>
+    </data>
+    <data name="Username" xml:space="preserve">
+        <value>用户名</value>
+    </data>
+    <data name="Library_SettingsLogin" xml:space="preserve">
+        <value>登陆</value>
+    </data>
+    <data name="Library_SettingsCreateNewAccount" xml:space="preserve">
+        <value>创建新用户</value>
+    </data>
+    <data name="Library_SettingsLogout" xml:space="preserve">
+        <value>登出</value>
+    </data>
+    <data name="Library_SettingsFollowUs" xml:space="preserve">
+        <value>关注我们</value>
+    </data>
+    <data name="General_PowerOffErrorMessage" xml:space="preserve">
+        <value>请重试，刚才发生了错误</value>
+    </data>
+    <data name="General_PowerOffErrorTitle" xml:space="preserve">
+        <value>电源状态未变</value>
+    </data>
+    <data name="Logout_Success" xml:space="preserve">
+        <value>登出成功</value>
+    </data>
+    <data name="Login_Success" xml:space="preserve">
+        <value>登入成功</value>
+    </data>
+    <data name="Confirm_Logout" xml:space="preserve">
+        <value>真的想要登出吗？</value>
+    </data>
+    <data name="Logout_Failed" xml:space="preserve">
+        <value>登出错误</value>
+    </data>
+    <data name="Invalid_Username_Password" xml:space="preserve">
+        <value>无效的用户名或密码</value>
+    </data>
+    <data name="Tap_To_Retry" xml:space="preserve">
+        <value>点击这里重试</value>
+    </data>
+    <data name="NotSupported" xml:space="preserve">
+        <value>不支持</value>
+    </data>
+    <data name="Location" xml:space="preserve">
+        <value>位置</value>
+    </data>
+    <data name="Language" xml:space="preserve">
+        <value>语言</value>
+    </data>
+    <data name="Description" xml:space="preserve">
+        <value>描述</value>
+    </data>
+    <data name="Favourite" xml:space="preserve">
+        <value>收藏夹</value>
+    </data>
+    <data name="NoDescription" xml:space="preserve">
+        <value>描述不可用</value>
+    </data>
+    <data name="RecentSearch" xml:space="preserve">
+        <value>最近搜索</value>
+    </data>
+    <data name="SearchFor" xml:space="preserve">
+        <value>搜索 {0}</value>
+    </data>
+    <data name="ResultFor" xml:space="preserve">
+        <value>结果 {0}</value>
+    </data>
+    <data name="Search" xml:space="preserve">
+        <value>搜索</value>
+    </data>
+    <data name="InternalError" xml:space="preserve">
+        <value>发生了内部错误。请重试。</value>
+    </data>
+    <data name="ShowArtist" xml:space="preserve">
+        <value>展示艺术家</value>
+    </data>
+    <data name="ShowAlbum" xml:space="preserve">
+        <value>展示专辑</value>
+    </data>
+    <data name="MoreInfo" xml:space="preserve">
+        <value>更多信息</value>
+    </data>
+    <data name="NumberOfTracks" xml:space="preserve">
+        <value>{0}首歌</value>
+    </data>
+    <data name="NumberOfTrack" xml:space="preserve">
+        <value>{0}首歌</value>
+    </data>
+    <data name="Size" xml:space="preserve">
+        <value>大小</value>
+    </data>
+    <data name="Metadata_Duration" xml:space="preserve">
+        <value>时长</value>
+    </data>
+    <data name="AirableFormViewTitle" xml:space="preserve">
+        <value>{0} - {1}</value>
+    </data>
+    <data name="AirableRequiredFieldEmptyError" xml:space="preserve">
+        <value>{0} 不能为空</value>
+    </data>
+    <data name="NoTrackAvailableToAddToQueue" xml:space="preserve">
+        <value>暂无可添加到序列的曲目</value>
+    </data>
+    <data name="AppNotConnectedToMiND" xml:space="preserve">
+        <value>程序目前未连接到MiND，请重新连接</value>
+    </data>
+    <data name="CannotAccessMindQueue" xml:space="preserve">
+        <value>APP无法接入MiND队列，请重新连接你的MiND设备。</value>
+    </data>
+    <data name="NoTrackAvailableToSave" xml:space="preserve">
+        <value>当前没有曲目可保存。</value>
+    </data>
+    <data name="SaveQueueError" xml:space="preserve">
+        <value>保存播放列表的时候遇到错误</value>
+    </data>
+    <data name="EmptyPlaylistName" xml:space="preserve">
+        <value>请给播放列表命名，不支持以空白名字保存播放列表。</value>
+    </data>
+    <data name="PlaylistAlreadyExist" xml:space="preserve">
+        <value>{0} 已存在。请问是否想替代或添加到已有播放列表？</value>
+    </data>
+    <data name="GeneralAppend" xml:space="preserve">
+        <value>添加</value>
+    </data>
+    <data name="GeneralReplace" xml:space="preserve">
+        <value>替代</value>
+    </data>
+    <data name="PlaylistHasBeenDeleted" xml:space="preserve">
+        <value>{0} 已删除成功</value>
+    </data>
+    <data name="PlaylistHasBeenSaved" xml:space="preserve">
+        <value>{0} 已保存成功</value>
+    </data>
+    <data name="TrackSuccessfullyAddedToQueue" xml:space="preserve">
+        <value>曲目已成功添加到序列中。</value>
+    </data>
+    <data name="MindQueueFullyLoaded" xml:space="preserve">
+        <value>MiND序列已达最大的容量</value>
+    </data>
+    <data name="UnconfiguredMiND" xml:space="preserve">
+        <value>{0} ({1}) 未设置</value>
+    </data>
+    <data name="UnsolicitedMessageFromMiND" xml:space="preserve">
+        <value>{0}发来的信息</value>
+    </data>
+    <data name="FailedToConnectToMusicService" xml:space="preserve">
+        <value>无法连接到{0}，请重试。</value>
+    </data>
+    <data name="MultiroomMasterNotFound" xml:space="preserve">
+        <value>你的设备已成为到一个多房间群组的组员。请选择群组以继续播放。</value>
+    </data>
+    <data name="MultiroomWithTitle" xml:space="preserve">
+        <value>多房间{0}</value>
+    </data>
+    <data name="CurrentDeviceHasBeenGrouped" xml:space="preserve">
+        <value>{0} 已成为多房间群组中的组员。程序会自动重连到主设备{1}.</value>
+    </data>
+    <data name="Permission" xml:space="preserve">
+        <value>批准</value>
+    </data>
+    <data name="PermissionForWifiReason" xml:space="preserve">
+        <value>MiND程序需要位置权限以获得附近的无线网络</value>
+    </data>
+    <data name="PermissionForBleSearch" xml:space="preserve">
+        <value>MiND 程序需要位置权限以寻找未设置好的MiND</value>
+    </data>
+    <data name="MultiroomVolumeControl" xml:space="preserve">
+        <value>音量</value>
+    </data>
+    <data name="SetPresetTitle" xml:space="preserve">
+        <value>预设为</value>
+    </data>
+    <data name="PresetItem" xml:space="preserve">
+        <value>预设 {0}</value>
+    </data>
+    <data name="PresetSuccessfullySaved" xml:space="preserve">
+        <value>{0} 已成功保存设定 {1}.</value>
+    </data>
+    <data name="TurnedToStandby" xml:space="preserve">
+        <value>{0} 切换到待机模式</value>
+    </data>
+    <data name="VersionAvailable" xml:space="preserve">
+        <value>({0} 可得到)</value>
+    </data>
+    <data name="NewUpdatesAvailable" xml:space="preserve">
+        <value>发现新的升级包</value>
+    </data>
+    <data name="HostUpdateMessage" xml:space="preserve">
+        <value>{0} 正在更新. 升级正在进行中，约需时300秒，请耐心等候</value>
+    </data>
+    <data name="FirstTimeSetupTitle" xml:space="preserve">
+        <value>请选择你的国家</value>
+    </data>
+    <data name="SetupInformation" xml:space="preserve">
+        <value>设置信息</value>
+    </data>
+    <data name="MultiroomErrorContent" xml:space="preserve">
+        <value>多房间功能已关闭</value>
+    </data>
+    <data name="TuneInRadioFriendlyName" xml:space="preserve">
+        <value>无线电</value>
+    </data>
+    <data name="DeezerFriendlyName" xml:space="preserve">
+        <value>Deezer</value>
+    </data>
+    <data name="PodcastsFriendlyName" xml:space="preserve">
+        <value>播客</value>
+    </data>
+    <data name="QobuzFriendlyName" xml:space="preserve">
+        <value>Qobuz</value>
+    </data>
+    <data name="TidalFriendlyName" xml:space="preserve">
+        <value>TIDAL</value>
+    </data>
+    <data name="HighResAudioFriendlyName" xml:space="preserve">
+        <value>HIGHRESAUDIO</value>
+    </data>
+    <data name="ObjectNotAvailable" xml:space="preserve">
+        <value>{0} 无法使用</value>
+    </data>
+    <data name="FreeTrial" xml:space="preserve">
+        <value>免费试用</value>
+    </data>
+    <data name="Check_for_Supported_Localization" xml:space="preserve">
+        <value>目前支持语言</value>
+    </data>
+    <data name="CannotContactMusicService" xml:space="preserve">
+        <value>无法联系{0}服务器。</value>
+    </data>
+    <data name="WrongDataReturnMusicService" xml:space="preserve">
+        <value>从{0}服务器返回错误的数据。</value>
+    </data>
+    <data name="AutomaticRenameError" xml:space="preserve">
+        <value>当前MiND的固件版本不支持自动重命名功能，请先升级.</value>
+    </data>
+    <data name="AutomaticUpdateError" xml:space="preserve">
+        <value>当前MiND的固件版本不支持从应用程序自动升级。请手动升级设备后重试</value>
+    </data>
+    <data name="RescanPortError" xml:space="preserve">
+        <value>网络扫描出现错误。请确保1900端口没有被其它程序占用。请结束其他进程并重试。</value>
+    </data>
+    <data name="Network_AvdancedSettingShow" xml:space="preserve">
+        <value>高级设定</value>
+    </data>
+    <data name="Network_AvdancedSettingHide" xml:space="preserve">
+        <value>隐藏高级设定</value>
+    </data>
+    <data name="Network_OtherWifi" xml:space="preserve">
+        <value>其他Wi-Fi</value>
+    </data>
+    <data name="Settings_Loading" xml:space="preserve">
+        <value>正在加载网络设置选项</value>
+    </data>
+    <data name="Favorite_Remove" xml:space="preserve">
+        <value>已从收藏夹中删除</value>
+    </data>
+    <data name="Favorite_Insert" xml:space="preserve">
+        <value>已添加至收藏夹</value>
+    </data>
+    <data name="Metadata_NumberOfTracksTitle" xml:space="preserve">
+        <value>曲目数量</value>
+    </data>
+    <data name="Player_AddToPlaylist" xml:space="preserve">
+        <value>添加到播放列表</value>
+    </data>
+    <data name="Refresh_Network" xml:space="preserve">
+        <value>下拉以重新扫描网络</value>
+    </data>
+    <data name="Library_ConnectionLost" xml:space="preserve">
+        <value>{0}库已断开连接或已关闭。请选择其他图书馆</value>
+    </data>
+    <data name="Library_Local" xml:space="preserve">
+        <value>本地音乐库</value>
+    </data>
+    <data name="Library_Preparing" xml:space="preserve">
+        <value>本地音乐库扫描中，请稍候。</value>
+    </data>
+    <data name="Library_PreparingFailed" xml:space="preserve">
+        <value>本地音乐库初始化失败。</value>
+    </data>
+    <data name="Library_Connecting" xml:space="preserve">
+        <value>正在连接到 {0} 音乐库，请稍候</value>
+    </data>
+    <data name="Library_Loading" xml:space="preserve">
+        <value>正在加载{0}音乐库，请稍候</value>
+    </data>
+    <data name="Library_Remove" xml:space="preserve">
+        <value>从音乐库移除</value>
+    </data>
+    <data name="Library_Add" xml:space="preserve">
+        <value>添加到音乐库</value>
+    </data>
+    <data name="General_Wait" xml:space="preserve">
+        <value>请稍候</value>
+    </data>
+    <data name="Library_ItemNotAdded" xml:space="preserve">
+        <value>曲目未添加到音乐库</value>
+    </data>
+    <data name="Library_ItemNotRemoved" xml:space="preserve">
+        <value>曲目未从音乐库移除</value>
+    </data>
+    <data name="Favorite_ItemNotAdded" xml:space="preserve">
+        <value>曲目未添加到收藏夹</value>
+    </data>
+    <data name="Favorite_ItemNotRemoved" xml:space="preserve">
+        <value>曲目未从收藏夹移除</value>
+    </data>
+    <data name="NotLoggedInAlert" xml:space="preserve">
+        <value>你没有登录
+请首先登录图书馆列表中的音乐服务设置。</value>
+    </data>
+    <data name="Player_Reloading" xml:space="preserve">
+        <value>重新加载播放器</value>
+    </data>
+    <data name="Player" xml:space="preserve">
+        <value>音乐播放器</value>
+    </data>
+    <data name="Queue_Track_Pause" xml:space="preserve">
+        <value>暂定此曲</value>
+    </data>
+    <data name="Queue_FailedAddTrack" xml:space="preserve">
+        <value>无法添加曲目到队列中</value>
+    </data>
+    <data name="Queue_FailedClear" xml:space="preserve">
+        <value>清空列表失败</value>
+    </data>
+    <data name="NetWork_WifiChanged" xml:space="preserve">
+        <value>无线网络连接已变更</value>
+    </data>
+    <data name="NetWork_WifiStateChangedMessage" xml:space="preserve">
+        <value>无线网络连接已变更，系统正重新启动程序，请稍候</value>
+    </data>
+    <data name="NetWork_WifiNotConnected" xml:space="preserve">
+        <value>无线网络未连接</value>
+    </data>
+    <data name="NetWork_WifiNotConnectedMessage" xml:space="preserve">
+        <value>请将您的设备连接到无线网络</value>
+    </data>
+    <data name="Library_UnauthorizedAcces" xml:space="preserve">
+        <value>该应用程序不允许访问您的媒体库。 请让应用访问您的媒体。</value>
+    </data>
+    <data name="General_Connection" xml:space="preserve">
+        <value>连接</value>
+    </data>
+    <data name="General_ConnectingMiND" xml:space="preserve">
+        <value>连接到MiND设备</value>
+    </data>
+    <data name="General_ConnectingMessage" xml:space="preserve">
+        <value>正在连接到 MiND 设备。</value>
+    </data>
+    <data name="General_ReconnectingMiND" xml:space="preserve">
+        <value>R请稍候，我们正在重新连接到上一个MiND</value>
+    </data>
+    <data name="General_StateRestore" xml:space="preserve">
+        <value>重设状态</value>
+    </data>
+    <data name="General_MiNDDevice" xml:space="preserve">
+        <value>MiND设备</value>
+    </data>
+    <data name="Settings_RenameProgress" xml:space="preserve">
+        <value>重命名进行中</value>
+    </data>
+    <data name="General_Rename" xml:space="preserve">
+        <value>重命名</value>
+    </data>
+    <data name="Settings_UpdateFirmwareAccessNetwork" xml:space="preserve">
+        <value>升级固件以设置网络</value>
+    </data>
+    <data name="Deezer_NextLimitReached" xml:space="preserve">
+        <value>订阅Premium以获得无限制的跳过。</value>
+    </data>
+    <data name="General_Suscribe" xml:space="preserve">
+        <value>订阅</value>
+    </data>
+    <data name="General_ScanNetworkError" xml:space="preserve">
+        <value>无法扫描MiND设备的网络。检查您的Wi-Fi设置。</value>
+    </data>
+    <data name="Queue_Track_Transitioning" xml:space="preserve">
+        <value>过渡</value>
+    </data>
+    <data name="Metadata_Sources" xml:space="preserve">
+        <value>来源</value>
+    </data>
+    <data name="Input_NotLocked" xml:space="preserve">
+        <value>没信号</value>
+    </data>
+    <data name="NowPlayingNotificationName" xml:space="preserve">
+        <value>现在播放通知频道</value>
+    </data>
+    <data name="Settings_FirmwareVersion" xml:space="preserve">
+        <value>固件版本</value>
+    </data>
+    <data name="Inputs_NotSupported" xml:space="preserve">
+        <value>输入不受支持</value>
+    </data>
+    <data name="AppInfo_SleepModeTitle" xml:space="preserve">
+        <value>睡眠模式</value>
+    </data>
+    <data name="AppInfo_SleepModeContent" xml:space="preserve">
+        <value>当您收听某些音乐时，允许您的移动设备进入睡眠模式。</value>
+    </data>
+    <data name="Settings_UnsupportedFirmware" xml:space="preserve">
+        <value>不支持的固件</value>
+    </data>
+    <data name="Settings_VersionOf" xml:space="preserve">
+        <value>{0}版</value>
+    </data>
+    <data name="Playlists_Name" xml:space="preserve">
+        <value>名字</value>
+    </data>
+    <data name="MusicService_Or" xml:space="preserve">
+        <value>要么</value>
+    </data>
+    <data name="MusicService_GoOnWebsiteAndRegister" xml:space="preserve">
+        <value>继续{0}和{1}</value>
+    </data>
+    <data name="MusicService_InvitationToFollowUs" xml:space="preserve">
+        <value>另外，{0}的每日新闻</value>
+    </data>
+    <data name="TrackSuccessfullyAddedToMaxedOutQueue" xml:space="preserve">
+        <value>由于我们已达到队列最大容量，因此某些轨道未添加到队列中。</value>
+    </data>
+    <data name="NoUSB_DeviceFound" xml:space="preserve">
+        <value>找不到USB设备。请确保您的USB设备已连接。</value>
+    </data>
+    <data name="PrivacyPolicy" xml:space="preserve">
+        <value>隐私政策</value>
+    </data>
+    <data name="DataUsage" xml:space="preserve">
+        <value>数据使用</value>
+    </data>
+    <data name="TapToAccessPrivacyPolicy" xml:space="preserve">
+        <value>点击此处打开我们的隐私政策</value>
+    </data>
+    <data name="Biography" xml:space="preserve">
+        <value>传记</value>
+    </data>
+    <data name="AppInfo_NotificationModeTitle" xml:space="preserve">
+        <value>通知</value>
+    </data>
+    <data name="AppInfo_NotificationModeContent" xml:space="preserve">
+        <value>在应用程序的用户界面之外添加MiND控制器的显示。 仅具有MiND2的设备。</value>
+    </data>
+    <data name="Accessibility_MusicServiceSettingsLabel" xml:space="preserve">
+        <value>庫選項按鈕</value>
+    </data>
+    <data name="Accessibility_MusicServiceSettingsHint" xml:space="preserve">
+        <value>按下以打開和編輯庫參數</value>
+    </data>
+    <data name="Accessibility_BackToNowPlayingLabel" xml:space="preserve">
+        <value>按钮返回现在播放。</value>
+    </data>
+    <data name="Accessibility_BackToNowPlayingHint" xml:space="preserve">
+        <value>关闭库列表，然后返回主播放器视图。</value>
+    </data>
+    <data name="Accessibility_SearchLabel" xml:space="preserve">
+        <value>搜索按钮。</value>
+    </data>
+    <data name="Accessibility_SearchHint" xml:space="preserve">
+        <value>搜索此音频源。</value>
+    </data>
+    <data name="Accessibility_MoreOptionsLabel" xml:space="preserve">
+        <value>更多选项按钮。</value>
+    </data>
+    <data name="Accessibility_MoreOptionsHint" xml:space="preserve">
+        <value>打开包含更多选项或信息的弹出窗口。</value>
+    </data>
+    <data name="Accessibility_LibrarySectionTitleLabel" xml:space="preserve">
+        <value>图书馆导航栏目标题。</value>
+    </data>
+    <data name="Accessibility_LibrarySectionTitleHint" xml:space="preserve">
+        <value>按返回导航的根目录。</value>
+    </data>
+    <data name="Accessibility_DeletePlaylistLabel" xml:space="preserve">
+        <value>删除播放列表按钮。</value>
+    </data>
+    <data name="Accessibility_DeletePlaylistHint" xml:space="preserve">
+        <value>这将删除当前播放列表。</value>
+    </data>
+    <data name="Accessibility_HomeButtonLabel" xml:space="preserve">
+        <value>主页按钮。</value>
+    </data>
+    <data name="Accessibility_HomeButtonHint" xml:space="preserve">
+        <value>将返回区域列表。</value>
+    </data>
+    <data name="Accessibility_BrowseButtonLabel" xml:space="preserve">
+        <value>库浏览按钮。</value>
+    </data>
+    <data name="Accessibility_BrowseButtonHint" xml:space="preserve">
+        <value>将打开库列表。</value>
+    </data>
+    <data name="AccessibilityHint_SettingsButton" xml:space="preserve">
+        <value>访问区域和应用程序设置</value>
+    </data>
+    <data name="AccessibilityLabel_General_Button" xml:space="preserve">
+        <value>按键</value>
+    </data>
+    <data name="AccessibilityHint_BackToZoneList" xml:space="preserve">
+        <value>返回区域列表</value>
+    </data>
+    <data name="AccessibilityHint_PowerOff" xml:space="preserve">
+        <value>断电 {0}</value>
+    </data>
+    <data name="AccessibilityHint_ZoneMultiroomButton" xml:space="preserve">
+        <value>控制{0}中的多个房间组</value>
+    </data>
+    <data name="AccessibilityHint_PowerOffMultiroomGroup" xml:space="preserve">
+        <value>关闭多个房间组：{0}</value>
+    </data>
+    <data name="AccessibilityHint_GroupMultiroomButton" xml:space="preserve">
+        <value>控制多房间组：{0}</value>
+    </data>
+    <data name="AccessibilityHint_MultiroomGroup" xml:space="preserve">
+        <value>多房间组：{0}</value>
+    </data>
+    <data name="AccessibilityHint_SaveNetworkSettings" xml:space="preserve">
+        <value>保存网络设置</value>
+    </data>
+    <data name="AccessibilityHint_BackToMindZoneSettings" xml:space="preserve">
+        <value>返回MiND区域设置</value>
+    </data>
+    <data name="AccessibilityHint_BackButton" xml:space="preserve">
+        <value>返回键</value>
+    </data>
+    <data name="Accessibility_PlayButtonLabel" xml:space="preserve">
+        <value>播放按钮。</value>
+    </data>
+    <data name="Accessibility_PlayButtonHint" xml:space="preserve">
+        <value>将在当前播放曲目的播放或暂停之间切换。</value>
+    </data>
+    <data name="Accessibility_StopButtonLabel" xml:space="preserve">
+        <value>停止按钮。</value>
+    </data>
+    <data name="Accessibility_StopButtonHint" xml:space="preserve">
+        <value>将停止当前的比赛赛道。</value>
+    </data>
+    <data name="Accessibility_PauseButtonLabel" xml:space="preserve">
+        <value>暂停按钮。</value>
+    </data>
+    <data name="Accessibility_PauseButtonHint" xml:space="preserve">
+        <value>将在当前播放曲目的播放或暂停之间切换。</value>
+    </data>
+    <data name="Accessibility_VolumeUpButtonLabel" xml:space="preserve">
+        <value>音量增大按钮。</value>
+    </data>
+    <data name="Accessibility_VolumeUpButtonHint" xml:space="preserve">
+        <value>将音量增加一步，即可。</value>
+    </data>
+    <data name="Accessibility_VolumeDownButtonLabel" xml:space="preserve">
+        <value>音量降低按钮。</value>
+    </data>
+    <data name="Accessibility_VolumeDownButtonHint" xml:space="preserve">
+        <value>将音量减少一步，可以保持。</value>
+    </data>
+    <data name="Accessibility_MuteButtonLabel" xml:space="preserve">
+        <value>静音按钮。</value>
+    </data>
+    <data name="Accessibility_MuteButtonHint" xml:space="preserve">
+        <value>将打开或关闭静音。</value>
+    </data>
+    <data name="Accessibility_SkipButtonLabel" xml:space="preserve">
+        <value>跳过按钮。</value>
+    </data>
+    <data name="Accessibility_SkipButtonHint" xml:space="preserve">
+        <value>将跳到队列中的下一首曲目。</value>
+    </data>
+    <data name="Accessibility_PreviousButtonLabel" xml:space="preserve">
+        <value>上一个按钮。</value>
+    </data>
+    <data name="Accessibility_PreviousButtonHint" xml:space="preserve">
+        <value>将重新启动当前播放的歌曲，点击两次以进入队列中的上一首曲目。</value>
+    </data>
+    <data name="Accessibility_InputButtonLabel" xml:space="preserve">
+        <value>输入按钮。</value>
+    </data>
+    <data name="Accessibility_InputButtonHint" xml:space="preserve">
+        <value>将打开一个菜单，以便您可以选择Moon设备上的输入，如果您的设备支持它。</value>
+    </data>
+    <data name="Accessibility_QueueControlsButtonLabel" xml:space="preserve">
+        <value>队列控件按钮。</value>
+    </data>
+    <data name="Accessibility_QueueControlsButtonHint" xml:space="preserve">
+        <value>将打开一个弹出菜单，您可以选择编辑，清除或保存当前播放队列。</value>
+    </data>
+    <data name="Accessibility_QueueActionSheetHint" xml:space="preserve">
+        <value>清除，保存或编辑当前队列。</value>
+    </data>
+    <data name="Accessibility_QueueSlideButtonLabel" xml:space="preserve">
+        <value>队列幻灯片。</value>
+    </data>
+    <data name="Accessibility_QueueSlideButtonHint" xml:space="preserve">
+        <value>将打开队列的滑动面板，以便您可以手动跳过或编辑它。</value>
+    </data>
+    <data name="Accessibility_ShuffleButtonLabel" xml:space="preserve">
+        <value>随机按钮。</value>
+    </data>
+    <data name="Accessibility_ShuffleOffButtonHint" xml:space="preserve">
+        <value>关闭当前队列的混乱。</value>
+    </data>
+    <data name="Accessibility_ShuffleOnButtonHint" xml:space="preserve">
+        <value>当前队列的随机播放已打开。</value>
+    </data>
+    <data name="Accessibility_RepeatButtonLabel" xml:space="preserve">
+        <value>重复按钮。</value>
+    </data>
+    <data name="Accessibility_RepeatOffButtonHint" xml:space="preserve">
+        <value>当前重复模式关闭。</value>
+    </data>
+    <data name="Accessibility_RepeatOneButtonHint" xml:space="preserve">
+        <value>当前重复模式设置为仅重复当前播放曲目。</value>
+    </data>
+    <data name="Accessibility_RepeatAllButtonHint" xml:space="preserve">
+        <value>当前重复模式设置为重复整个队列。</value>
+    </data>
+    <data name="Accessibility_PresetActionSheetHint" xml:space="preserve">
+        <value>将此收音机分配到Moon设备上的预设按钮。</value>
+    </data>
+    <data name="Accessibility_AddtoQueueActionSheetHint" xml:space="preserve">
+        <value>选择将当前选择放在队列中的位置。</value>
+    </data>
+    <data name="Accessibility_MoreLibraryActionSheetHint" xml:space="preserve">
+        <value>库菜单选项</value>
+    </data>
+    <data name="Discovery_WaitMore" xml:space="preserve">
+        <value>等一下......</value>
+    </data>
+    <data name="Discovery_NoMiNDFoundTitle" xml:space="preserve">
+        <value>还是没找到......</value>
+    </data>
+    <data name="Discovery_NoMiNDFound" xml:space="preserve">
+        <value>确保您的MOON设备已通电并连接到网络，然后单击其中一个选项</value>
+    </data>
+    <data name="Discovery_Refresh" xml:space="preserve">
+        <value>重新扫描网络</value>
+    </data>
+    <data name="Discovery_FindUnit" xml:space="preserve">
+        <value>找到我的单位</value>
+    </data>
+    <data name="Discovery_LaunchDiagnosticTool" xml:space="preserve">
+        <value>单击此处启动诊断工具</value>
+    </data>
+    <data name="Discovery_DiagnosticToolTitle" xml:space="preserve">
+        <value>诊断工具</value>
+    </data>
+    <data name="Diagnostic_MoonDeviceTitle" xml:space="preserve">
+        <value>选择您的单位型号</value>
+    </data>
+    <data name="Diagnostic_MoonDeviceSubTitle" xml:space="preserve">
+        <value>您的月球型号应显示在本机的前面板上。</value>
+    </data>
+    <data name="Diagnostic_MoonDeviceNote" xml:space="preserve">
+        <value> *仅显示支持MiND的设备。</value>
+    </data>
+    <data name="Diagnostic_IDontKnow" xml:space="preserve">
+        <value>我不知道</value>
+    </data>
+    <data name="Diagnostic_WhatMiND" xml:space="preserve">
+        <value>选择您的MiND类型。</value>
+    </data>
+    <data name="Diagnostic_CheckListTitle" xml:space="preserve">
+        <value>请检查以下几点：</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Title" xml:space="preserve">
+        <value>您的{0}应该已开启。</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Child1" xml:space="preserve">
+        <value>确保您的{0}有电。</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Child2" xml:space="preserve">
+        <value>确保它不会待命。</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Child3" xml:space="preserve">
+        <value>您应该在前面板上看到蓝灯。</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Title" xml:space="preserve">
+        <value>确保您的{0}位于此网络上：{1}。</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child1" xml:space="preserve">
+        <value>有线或无线网络，您的{0}应与移动设备位于同一网络中。</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child2" xml:space="preserve">
+        <value>要在{0}上手动验证网络名称，请按前面板上的“设置”按钮，然后在“网络”上导航，然后在“信息”上导航。</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child3" xml:space="preserve">
+        <value>我们建议使用有线连接以确保稳定性，但也可以使用无线连接。</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Title" xml:space="preserve">
+        <value>您的{0}未更新。</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child1" xml:space="preserve">
+        <value>导航{0}的“网络”输入。</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child2" xml:space="preserve">
+        <value>选择“网络”输入后，确保没有显示消息</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child3" xml:space="preserve">
+        <value>如果有，请按照显示的说明进行操作。</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child1B" xml:space="preserve">
+        <value>如果您最近发布了更新，请至少让您的MiND有5分钟再次响应。</value>
+    </data>
+    <data name="Diagnostic_Confirm" xml:space="preserve">
+        <value>确认</value>
+    </data>
+    <data name="Diagnostic_AdvancedSearchTitle" xml:space="preserve">
+        <value>继续进行高级搜索过程......</value>
+    </data>
+    <data name="Diagnostic_MulticastSearch" xml:space="preserve">
+        <value>验证MiND搜索协议......</value>
+    </data>
+    <data name="Diagnostic_MulticastSearchWorking" xml:space="preserve">
+        <value>MiND搜索协议正常工作</value>
+    </data>
+    <data name="Diagnostic_SpecificSearch" xml:space="preserve">
+        <value>寻找MiNDs ......</value>
+    </data>
+    <data name="Diagnostic_SpecificSearchWorking" xml:space="preserve">
+        <value>我们发现了什么</value>
+    </data>
+    <data name="Diagnostic_SpecificSearchFailed" xml:space="preserve">
+        <value>我们没有在您的网络上找到任何MiND。</value>
+    </data>
+    <data name="Diagnostic_MulticastSearchNotWorking" xml:space="preserve">
+        <value>无法验证MiND搜索协议。</value>
+    </data>
+    <data name="Diagnostic_SpecificSearchNotWorking" xml:space="preserve">
+        <value>搜索协议已经过验证，但我们在网络上找不到任何MiND。</value>
+    </data>
+    <data name="Diagnostic_GoToNextStep" xml:space="preserve">
+        <value>转到下一步</value>
+    </data>
+    <data name="Diagnostic_FailedTitle" xml:space="preserve">
+        <value>我们无法找到您的MiND</value>
+    </data>
+    <data name="Diagnostic_FailedAdvice1" xml:space="preserve">
+        <value>请拔下/插入设备电源线，然后重试。</value>
+    </data>
+    <data name="Diagnostic_FailedAdvice2" xml:space="preserve">
+        <value>如果不起作用，请尝试恢复出厂设置。 有关指导，请参阅手册。</value>
+    </data>
+    <data name="Diagnostic_ContactSimaudio" xml:space="preserve">
+        <value>联系Simaudio</value>
+    </data>
+    <data name="Diagnostic_PingDescription" xml:space="preserve">
+        <value>如果您有权访问{0}的IP地址，请在此处输入：</value>
+    </data>
+    <data name="Diagnostic_RequestName" xml:space="preserve">
+        <value>姓名：{0}</value>
+    </data>
+    <data name="Diagnostic_RequestModel" xml:space="preserve">
+        <value>型号：{0}</value>
+    </data>
+    <data name="Diagnostic_RequestType" xml:space="preserve">
+        <value>输入：{0}</value>
+    </data>
+    <data name="Diagnostic_ConfirmTextWithMindType" xml:space="preserve">
+        <value>您正在使用{1}选择{0}。</value>
+    </data>
+    <data name="Diagnostic_ConfirmTextNoMindType" xml:space="preserve">
+        <value>您正在选择{0}。</value>
+    </data>
+    <data name="Diagnostic_unknown" xml:space="preserve">
+        <value>不明</value>
+    </data>
+    <data name="Diagnostic_Connect" xml:space="preserve">
+        <value>连</value>
+    </data>
+    <data name="Diagnostic_ISeeDevice" xml:space="preserve">
+        <value>如果您看到{0}，请在上面选择它。</value>
+    </data>
+    <data name="Diagnostic_IdontSeeDevice" xml:space="preserve">
+        <value>我没有看到它。</value>
+    </data>
+    <data name="Diagnostic_WrongIp" xml:space="preserve">
+        <value>我们没有找到您提供的地址的任何信息。 您确定您拥有正确的IP吗？</value>
+    </data>
+    <data name="Diagnostic_MaybeWrongIp" xml:space="preserve">
+        <value>如果它不是您要查找的设备，请确保在再次尝试之前输入了正确的IP。</value>
+    </data>
+    <data name="Diagnostic_RequestResponseTitle" xml:space="preserve">
+        <value>这是我们发现的：</value>
+    </data>
+    <data name="VerificationConfirmation" xml:space="preserve">
+        <value>我已经验证了</value>
+    </data>
+    <data name="Diagnostic_IDontHaveIp" xml:space="preserve">
+        <value>我无法访问我的IP地址。</value>
+    </data>
+    <data name="AppInfo_ManualSearchTitle" xml:space="preserve">
+        <value>手动搜索</value>
+    </data>
+    <data name="AppInfo_ManualSearchContent" xml:space="preserve">
+        <value>如果您拥有IP地址，请在网络上手动搜索MiND。</value>
+    </data>
+    <data name="Diagnostic_Close" xml:space="preserve">
+        <value>关闭诊断工具</value>
+    </data>
+    <data name="AppInfo_ReportBug" xml:space="preserve">
+        <value>报告错误</value>
+    </data>
+    <data name="Diagnostic_FailedAdvice3" xml:space="preserve">
+        <value>您也可以联系Simaudio寻求帮助</value>
+    </data>
+    <data name="Accessibility_DoubleTapToSelectHint" xml:space="preserve">
+        <value>双击选择</value>
+    </data>
+    <data name="Accessibility_DoubleTapToShowDetailsHint" xml:space="preserve">
+        <value>双击以显示更多详细信息</value>
+    </data>
+    <data name="Accessibility_DoubleTapToCollapseDetailsHint" xml:space="preserve">
+        <value>双击以折叠细节</value>
+    </data>
+    <data name="Accessibility_DoubleTapToFindDeviceByIpHint" xml:space="preserve">
+        <value>双击即可找到您的单位。</value>
+    </data>
+    <data name="Accessibility_DoubleTapToFindDeviceByIpDisabledHint" xml:space="preserve">
+        <value>在禁用状态下查找单元按钮。 在相应的文本字段中输入有效的IP地址以启用它。</value>
+    </data>
+    <data name="Accessibility_IpAddressTextFieldHint" xml:space="preserve">
+        <value>IP地址文本字段</value>
+    </data>
+    <data name="Accessibility_MqaEnabledHint" xml:space="preserve">
+        <value>MQA已启用</value>
+    </data>
+    <data name="Accessibility_StreamNotAvailableHint" xml:space="preserve">
+        <value>数据流不可用</value>
+    </data>
+    <data name="Accessibility_TapOnConnectButtonHint" xml:space="preserve">
+        <value>启用连接按钮。 双击“连接”按钮以建立连接。</value>
+    </data>
+    <data name="Accessibility_DoubleTapToPlayHint" xml:space="preserve">
+        <value>双击即可播放。</value>
+    </data>
+    <data name="AppInfo_ReportBug_BetaTester" xml:space="preserve">
+        <value>Beta Tester - 报告错误</value>
+    </data>
+    <data name="AppInfo_ReportBug_Detail" xml:space="preserve">
+        <value>向支持团队提交请求以寻求帮助。</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child1B" xml:space="preserve">
+        <value>如果要使用电缆连接，必须提供：关闭{0}。 插入以太网电缆。 再次打开它。</value>
+    </data>
+    <data name="PlayerControl_Global" xml:space="preserve">
+        <value>全球</value>
+    </data>
+    <data name="Airplay_Casting" xml:space="preserve">
+        <value>从Airplay播放</value>
+    </data>
+    <data name="Settings_RestrictedByAirplay" xml:space="preserve">
+        <value>您的MiND已配置为AirPlay配件。 因此，您应该使用iOS Home应用配置MiND。</value>
+    </data>
+    <data name="Settings_RestrictedByAirplayButAllowGoogleHome" xml:space="preserve">
+        <value>您的MiND已配置为AirPlay配件。 因此，您应该使用iOS Home或Google Home应用配置MiND。</value>
+    </data>
+    <data name="Settings_RestrictedByChromeCast" xml:space="preserve">
+        <value>您的MiND是Chromecast配件。 因此，您应该使用Google Home或iOS Home应用配置MiND。</value>
+    </data>
+    <data name="Settings_OpenGoogleHome" xml:space="preserve">
+        <value>打开Google Home</value>
+    </data>
+    <data name="Settings_iOSHomeApp" xml:space="preserve">
+        <value>Home应用</value>
+    </data>
+    <data name="AppInfo_SubmitLogsTitle" xml:space="preserve">
+        <value>提交日志</value>
+    </data>
+    <data name="AppInfo_SubmitLogsContent" xml:space="preserve">
+        <value>如果您先前创建了支持票证，请从移动设备提交日志。</value>
+    </data>
+    <data name="General_Email" xml:space="preserve">
+        <value>你的邮件：</value>
+    </data>
+    <data name="SubmitLogs_TicketNumber" xml:space="preserve">
+        <value>您的机票号码：</value>
+    </data>
+    <data name="SubmitLogs_Success" xml:space="preserve">
+        <value>感谢您提交日志。 支持团队将尽快与您联系。</value>
+    </data>
+    <data name="SubmitLogs_EmailInvalid" xml:space="preserve">
+        <value>请输入有效的电子邮件地址。</value>
+    </data>
+    <data name="SubmitLogs_TicketNumberInvalid" xml:space="preserve">
+        <value>请输入票号。</value>
+    </data>
+    <data name="Accessibility_EmailTextFieldHint" xml:space="preserve">
+        <value>电子邮件地址文本字段</value>
+    </data>
+    <data name="Accessibility_TicketTextFieldHint" xml:space="preserve">
+        <value>票号文本字段。</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child4" xml:space="preserve">
+        <value>如果您的设备显示为未配置，则在使用此诊断工具之前，应使用有线连接。</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child5" xml:space="preserve">
+        <value>如果设备显示为未配置，则应在使用此诊断工具之前使用有线连接，或使用{0}屏幕设置网络连接。</value>
+    </data>
+    <data name="Settings_TooManyFailedAttemptsUnconfigured" xml:space="preserve">
+        <value>看起来您的设备正在努力连接蓝牙。 我们建议您靠近MiND设备，然后重试或使用有线连接来设置网络连接。</value>
+    </data>
+    <data name="Settings_TooManyFailedAttempts" xml:space="preserve">
+        <value>看来您的设备正在努力连接。 我们建议您使用有线连接或对MiND设备重新通电。</value>
+    </data>
+    <data name="General_SortBy" xml:space="preserve">
+        <value>排序方式 ：</value>
+    </data>
+    <data name="General_Finish" xml:space="preserve">
+        <value>完</value>
+    </data>
+    <data name="AppInfo_ReviewTutorialTitle" xml:space="preserve">
+        <value>应用教程</value>
+    </data>
+    <data name="AppInfo_ReviewTutorialLabel" xml:space="preserve">
+        <value>点按此处查看应用教程。</value>
+    </data>
+    <data name="AppInfo_ReviewNewFeaturesTitle" xml:space="preserve">
+        <value>最新的应用功能</value>
+    </data>
+    <data name="AppInfo_ReviewNewFeaturesLabel" xml:space="preserve">
+        <value>点按此处查看最新的应用功能。</value>
+    </data>
+    <data name="AppInfo_AppGuideTitle" xml:space="preserve">
+        <value>应用指南</value>
+    </data>
+    <data name="Reconnect_Level1" xml:space="preserve">
+        <value>我们正在尝试重新连接MiND设备。</value>
+    </data>
+    <data name="Reconnect_Level2" xml:space="preserve">
+        <value>重新连接所花的时间比平时长，请耐心等待。</value>
+    </data>
+    <data name="Reconnect_UnableConnect" xml:space="preserve">
+        <value>我们无法重新连接到MiND设备。</value>
+    </data>
+    <data name="Reconnect_UnableSync" xml:space="preserve">
+        <value>我们无法同步MiND设备的属性。</value>
+    </data>
+    <data name="General_Sample" xml:space="preserve">
+        <value>样品</value>
+    </data>
+    <data name="Library_History" xml:space="preserve">
+        <value>导航历史</value>
+    </data>
+    <data name="Library_HistoryWithTitle" xml:space="preserve">
+        <value>{0}的导航历史</value>
+    </data>
+    <data name="General_Filter" xml:space="preserve">
+        <value>过滤</value>
+    </data>
+    <data name="AppInfo_Orientation" xml:space="preserve">
+        <value>最喜欢的方向</value>
+    </data>
+    <data name="AppInfo_Landscape" xml:space="preserve">
+        <value>景观</value>
+    </data>
+    <data name="AppInfo_Portrait" xml:space="preserve">
+        <value>肖像</value>
+    </data>
+    <data name="AppInfo_Default" xml:space="preserve">
+        <value>默认</value>
+    </data>
+    <data name="SortLabelValue" xml:space="preserve">
+        <value>分类</value>
+    </data>
+    <data name="Accessibility_HistoryLabel" xml:space="preserve">
+        <value>历史记录按钮</value>
+    </data>
+    <data name="Accessibility_HistoryHint" xml:space="preserve">
+        <value>导航回特定视图</value>
+    </data>
+    <data name="PlayAll" xml:space="preserve">
+        <value>全部播放</value>
+    </data>
+    <data name="QueueAll" xml:space="preserve">
+        <value>全部排队</value>
+    </data>
+    <data name="Accessibility_PlayAll" xml:space="preserve">
+        <value>全部播放按钮</value>
+    </data>
+    <data name="Accessibility_QueueAll" xml:space="preserve">
+        <value>排队所有按钮</value>
+    </data>
+    <data name="PlaySelectedTracks" xml:space="preserve">
+        <value>播放</value>
+    </data>
+    <data name="QueueSelectedTracks" xml:space="preserve">
+        <value>队列</value>
+    </data>
+    <data name="Accessibility_PlaySelectedTracks" xml:space="preserve">
+        <value>播放选定的曲目按钮</value>
+    </data>
+    <data name="Accessibility_QueueSelectedTracks" xml:space="preserve">
+        <value>排队选择的曲目按钮</value>
+    </data>
+    <data name="PlaySelectedTracksDescription" xml:space="preserve">
+        <value>选择以下选项以仅播放选定的曲目或取消选择以播放所有曲目</value>
+    </data>
+    <data name="OpenSpotifyApp" xml:space="preserve">
+        <value>開啟 Spotify 應用程式</value>
+    </data>
+    <data name="GetSpotifyFree" xml:space="preserve">
+        <value>免費使用 Spotify</value>
+    </data>
+    <data name="SpotifyPlaybackOptions" xml:space="preserve">
+        <value>播放选项</value>
+    </data>
+    <data name="ConnectedAs" xml:space="preserve">
+        <value>连接为{0}</value>
+    </data>
+    <data name="ResumePlayback" xml:space="preserve">
+        <value>恢复播放</value>
+    </data>
+    <data name="SpotifyHelpTitle" xml:space="preserve">
+        <value>想來點音樂嗎？</value>
+    </data>
+    <data name="SpotifyHelpDetails" xml:space="preserve">
+        <value>你可使用 Spotify 應用程式作為遙控器，透過喇叭或電視聽歌。</value>
+    </data>
+    <data name="SpotifyLearnMore" xml:space="preserve">
+        <value>了解詳情</value>
+    </data>
+    <data name="SpotifyUserNotLoggedIn" xml:space="preserve">
+        <value>用户尚未登录。</value>
+    </data>
+    <data name="SpotifyNotSupported" xml:space="preserve">
+        <value>不支持Spotify。</value>
+    </data>
+    <data name="PlaybackOptionPlayQueue" xml:space="preserve">
+        <value>播放MiND队列</value>
+    </data>
+    <data name="ServiceVolumeControl" xml:space="preserve">
+        <value>卷{0}</value>
+    </data>
+    <data name="Multiroom" xml:space="preserve">
+        <value>多房间</value>
+    </data>
+    <data name="CheckPermissionLabel" xml:space="preserve">
+        <value>检查权限</value>
+    </data>
+    <data name="CheckPermissionDescription" xml:space="preserve">
+        <value>MiND应用缺少访问本地网络的权限。 在网络上发现MiND设备和UPnP服务器需要此权限。</value>
+    </data>
+    <data name="Diagnostic_AppPermission" xml:space="preserve">
+        <value>确保MiND应用具有iOS权限才能访问附近的设备。</value>
+    </data>
+    <data name="Diagnostic_AppPermissionLocalNetwork" xml:space="preserve">
+        <value>您可以从Apple设备的设置-&gt; MiND向MiND应用授予本地网络权限。</value>
+    </data>
+    <data name="Diagnostic_AppPermissionBluetooth" xml:space="preserve">
+        <value>如果您的{0}未插入以太网或未在Wi-Fi上配置，请从Apple设备的设置-&gt; MiND授予MiND应用程序蓝牙权限，然后打开蓝牙并重新启动该应用程序。</value>
+    </data>
+    <data name="Discovery_NoMiNDFound_iOS14" xml:space="preserve">
+        <value>确保您的MOON设备已通电并已连接到网络。 还要在iOS设置中检查MiND应用是否有权访问本地网络和蓝牙。</value>
+    </data>
+    <data name="ToContinue" xml:space="preserve">
+        <value>按确定继续。</value>
+    </data>
+    <data name="ToDropConnection" xml:space="preserve">
+        <value>按 [取消] 删除当前正在进行的连接。</value>
+    </data>
+    <data name="MiND_ConnexionProgressMessage" xml:space="preserve">
+        <value>正在连接到 MiND...</value>
+    </data>
+    <data name="Identifier" xml:space="preserve">
+        <value>ID</value>
+    </data>
+    <data name="SpotifyFriendlyName" xml:space="preserve">
+        <value>Spotify</value>
+    </data>
+    <data name="MaxCharacter" xml:space="preserve">
+        <value>最多 {0} 个字符</value>
+    </data>
+    <data name="Network_WifiTestTitle" xml:space="preserve">
+        <value>测试无线网络</value>
+    </data>
+    <data name="Network_WifiTest" xml:space="preserve">
+        <value>测试 Wi-Fi 密码</value>
+    </data>
+    <data name="Success" xml:space="preserve">
+        <value>成功</value>
+    </data>
+    <data name="Failure" xml:space="preserve">
+        <value>失败</value>
+    </data>
+    <data name="Reset" xml:space="preserve">
+        <value>重置</value>
+    </data>
+    <data name="Test" xml:space="preserve">
+        <value>测试</value>
+    </data>
+    <data name="Network_WifiTestMessage" xml:space="preserve">
+        <value>看来这个测试以前是成功的。要重试，必须在移动设备上重置测试的 Wi-Fi 配置。请注意，在失败时，如果密码错误，移动设备可能会与测试的 Wi-Fi 断开连接。</value>
+    </data>
+    <data name="Automatic" xml:space="preserve">
+        <value>自动的</value>
+    </data>
+    <data name="Manual" xml:space="preserve">
+        <value>手动</value>
+    </data>
+    <data name="Settings_DataSection" xml:space="preserve">
+        <value>数据</value>
+    </data>
+    <data name="Settings_DataSyncLabel" xml:space="preserve">
+        <value>同步数据</value>
+    </data>
+    <data name="Settings_DataSyncValue" xml:space="preserve">
+        <value>在云数据库上加载保存的播放列表数据</value>
+    </data>
+    <data name="Settings_PersonalizationSection" xml:space="preserve">
+        <value>个性化</value>
+    </data>
+    <data name="DeviceId" xml:space="preserve">
+        <value>设备ID</value>
+    </data>
+    <data name="Secret" xml:space="preserve">
+        <value>秘密</value>
+    </data>
+    <data name="TracksCount" xml:space="preserve">
+        <value>轨道数</value>
+    </data>
+    <data name="FirebaseAuthError" xml:space="preserve">
+        <value>云数据不可用</value>
+    </data>
+    <data name="Download" xml:space="preserve">
+        <value>下载</value>
+    </data>
+    <data name="BugReportFormSupportRequest" xml:space="preserve">
+        <value>支持请求</value>
+    </data>
+    <data name="BugReportFormNamePlaceholder" xml:space="preserve">
+        <value>你的名字</value>
+    </data>
+    <data name="BugReportFormEmailPlaceholder" xml:space="preserve">
+        <value>你的邮件</value>
+    </data>
+    <data name="BugReportFormConfirmEmailPlaceholder" xml:space="preserve">
+        <value>邮件确认</value>
+    </data>
+    <data name="BugReportFormSubjectPlaceholder" xml:space="preserve">
+        <value>您的要求的主题</value>
+    </data>
+    <data name="CountryUSA" xml:space="preserve">
+        <value>美国</value>
+    </data>
+    <data name="CountryCanada" xml:space="preserve">
+        <value>加拿大</value>
+    </data>
+    <data name="Country" xml:space="preserve">
+        <value>国家</value>
+    </data>
+    <data name="Name" xml:space="preserve">
+        <value>姓名</value>
+    </data>
+    <data name="Email" xml:space="preserve">
+        <value>电子邮件</value>
+    </data>
+    <data name="Subject" xml:space="preserve">
+        <value>主题</value>
+    </data>
+    <data name="Message" xml:space="preserve">
+        <value>信息</value>
+    </data>
+    <data name="BugReportFormDescribeYourBug" xml:space="preserve">
+        <value>描述你的错误</value>
+    </data>
+    <data name="Attachment" xml:space="preserve">
+        <value>附件</value>
+    </data>
+    <data name="BugReportFormAttachment" xml:space="preserve">
+        <value>如果可以，请向我们发送您的错误的屏幕截图</value>
+    </data>
+    <data name="BugReportFormSubjectEmptyError" xml:space="preserve">
+        <value>请求主题不应为空</value>
+    </data>
+    <data name="BugReportFormSubmitSuccessTitle" xml:space="preserve">
+        <value>谢谢！</value>
+    </data>
+    <data name="BugReportFormSubmitSuccessMessage" xml:space="preserve">
+        <value>感谢您提交MiND App的错误</value>
+    </data>
+    <data name="BugReportFormEmailEmptyError" xml:space="preserve">
+        <value>电子邮件不能为空</value>
+    </data>
+    <data name="BugReportFormNameEmptyError" xml:space="preserve">
+        <value>请求主题不应为空</value>
+    </data>
+    <data name="BugReportFormDescriptionEmptyError" xml:space="preserve">
+        <value>错误描述不应为空</value>
+    </data>
+    <data name="BugReportFormEmailWrongValueError" xml:space="preserve">
+        <value>电子邮件应具有有效格式</value>
+    </data>
+    <data name="BugReportFormSubjectWrongValueError" xml:space="preserve">
+        <value>错误名称应该是文本</value>
+    </data>
+    <data name="BugReportFormDescriptionWrongValueError" xml:space="preserve">
+        <value>错误描述应该是文本</value>
+    </data>
+    <data name="BugReportFormUploadError" xml:space="preserve">
+        <value>你的文件太大了。 最大上传大小为20MB</value>
+    </data>
+    <data name="BugReportFormEmailConfirmError" xml:space="preserve">
+        <value>电子邮件确认与提供的电子邮件不匹配</value>
+    </data>
+    <data name="Settings_Diagnostic" xml:space="preserve">
+        <value>诊断</value>
+    </data>
+    <data name="Send" xml:space="preserve">
+        <value>发送</value>
+    </data>
+    <data name="MobileDeviceModel" xml:space="preserve">
+        <value>移动设备型号</value>
+    </data>
+    <data name="OSVersion" xml:space="preserve">
+        <value>OS版本</value>
+    </data>
+    <data name="AppVersion" xml:space="preserve">
+        <value>应用版本</value>
+    </data>
+    <data name="Required" xml:space="preserve">
+        <value>必需的</value>
+    </data>
+    <data name="AdditionalInfoSent" xml:space="preserve">
+        <value>发送的其他信息</value>
+    </data>
+    <data name="ImageCount" xml:space="preserve">
+        <value>图像数</value>
+    </data>
+    <data name="BugReportFormSubmitErrorDefaultTitle" xml:space="preserve">
+        <value>意外错误</value>
+    </data>
+    <data name="BugReportFormSubmitErrorDefaultMessage" xml:space="preserve">
+        <value>请稍后再试</value>
+    </data>
+    <data name="BugReportFormSubmitError404Title" xml:space="preserve">
+        <value>错误404</value>
+    </data>
+    <data name="BugReportFormSubmitError404Message" xml:space="preserve">
+        <value>我们找不到您要找的内容</value>
+    </data>
+    <data name="BugReportFormSubmitErrorInternalTitle" xml:space="preserve">
+        <value>错误500</value>
+    </data>
+    <data name="BugReportFormSubmitErrorInternalMessage" xml:space="preserve">
+        <value>我们方面出了问题，请稍后再试</value>
+    </data>
+    <data name="Language_Thai" xml:space="preserve">
+        <value>TH - 泰国</value>
+    </data>
+    <data name="UploadPlaylistsButton" xml:space="preserve">
+        <value>上传</value>
+    </data>
+    <data name="TodayAppCompatibility" xml:space="preserve">
+        <value>在ios14+上弃用</value>
+    </data>
+    <data name="UndefinedValueHint" xml:space="preserve">
+        <value>不明确的。要切换到编辑模式，请点击“铅笔”按钮。</value>
+    </data>
+    <data name="Undefined" xml:space="preserve">
+        <value>不明确的</value>
+    </data>
+    <data name="AppleMusicCompatibility" xml:space="preserve">
+        <value>请注意，MOON不能再保证存储在移动设备上的文件与MiND控制器的兼容性。当iTunes被Apple Music取代时，此功能变得过时了。</value>
+    </data>
+    <data name="DeprecatedMessage" xml:space="preserve">
+        <value>我们不能再保证此功能的兼容性。</value>
+    </data>
+    <data name="Enable" xml:space="preserve">
+        <value>使能够</value>
+    </data>
+    <data name="AppleMusicAlternative" xml:space="preserve">
+        <value>您可以在Music应用程序中继续播放这些文件。 Music的音频可以根据模型通过Airplay，USB或蓝牙传输到您的MiND。</value>
+    </data>
+    <data name="AppleMusicOptions" xml:space="preserve">
+        <value>如果启用此功能，则此警告将不再显示。如果您删除此功能，则下次在此移动设备上加载MiND区域时将无法使用。</value>
+    </data>
+    <data name="NetworkErrorWrongPassword" xml:space="preserve">
+        <value>無效的密碼</value>
+    </data>
+    <data name="NetworkErrorPasswordLength" xml:space="preserve">
+        <value>超過密碼或密鑰長度</value>
+    </data>
+    <data name="BluetoothError" xml:space="preserve">
+        <value>藍牙錯誤</value>
+    </data>
+    <data name="RestartApp" xml:space="preserve">
+        <value>請重啟應用</value>
+    </data>
+    <data name="AreYouSure" xml:space="preserve">
+        <value>你確定嗎？</value>
+    </data>
+    <data name="Visibility" xml:space="preserve">
+        <value>能见度</value>
+    </data>
+    <data name="PrivateDescriptionOff" xml:space="preserve">
+        <value>对其他用户可见</value>
+    </data>
+    <data name="MayChangePlaylistName" xml:space="preserve">
+        <value>你可以更改你的播放列表标题！</value>
+    </data>
+    <data name="NotAuthenticatedToTheCloud" xml:space="preserve">
+        <value>您未经过云端身份验证！</value>
+    </data>
+    <data name="SyncingPlaylistsWithCloud" xml:space="preserve">
+        <value>正在与云端同步播放列表...</value>
+    </data>
+    <data name="SyncingPlaylistsWithCloudSucceed" xml:space="preserve">
+        <value>播放列表已成功与云端同步</value>
+    </data>
+    <data name="SelectPicture" xml:space="preserve">
+        <value>选择图片</value>
+    </data>
+    <data name="MissingArguments" xml:space="preserve">
+        <value>缺少参数</value>
+    </data>
+    <data name="Tracks" xml:space="preserve">
+        <value>曲目</value>
+    </data>
+    <data name="NoPlaylists" xml:space="preserve">
+        <value>你没有播放列表</value>
+    </data>
+    <data name="MyPlaylists" xml:space="preserve">
+        <value>我的播放列表</value>
+    </data>
+    <data name="DeletePlaylist" xml:space="preserve">
+        <value>删除播放列表</value>
+    </data>
+    <data name="PlaylistDeletedSuccessfully" xml:space="preserve">
+        <value>播放列表已成功删除！</value>
+    </data>
+    <data name="PlaylistSyncedSuccessfully" xml:space="preserve">
+        <value>播放列表已成功同步！</value>
+    </data>
+    <data name="PlaylistClonedSuccessfully" xml:space="preserve">
+        <value>播放列表已成功克隆！</value>
+    </data>
+    <data name="PlaylistUpdatedSuccessfully" xml:space="preserve">
+        <value>播放列表已成功更新！</value>
+    </data>
+    <data name="PlaylistNotFound" xml:space="preserve">
+        <value>未找到播放列表！</value>
+    </data>
+    <data name="ClonePlaylist" xml:space="preserve">
+        <value>克隆播放列表</value>
+    </data>
+    <data name="Clone" xml:space="preserve">
+        <value>克隆</value>
+    </data>
+    <data name="IsUpToDate" xml:space="preserve">
+        <value>是最新的</value>
+    </data>
+    <data name="Administrators" xml:space="preserve">
+        <value>管理员</value>
+    </data>
+    <data name="AdminDevices" xml:space="preserve">
+        <value>管理员设备 (UUIDs)</value>
+    </data>
+    <data name="EditPlaylist" xml:space="preserve">
+        <value>编辑播放列表</value>
+    </data>
+    <data name="EditPlaylistDescription" xml:space="preserve">
+        <value>如果您想编辑此播放列表，您需要复制它</value>
+    </data>
+    <data name="MakeCopy" xml:space="preserve">
+        <value>创建副本</value>
+    </data>
+    <data name="SavePlaylist" xml:space="preserve">
+        <value>保存播放列表</value>
+    </data>
+    <data name="DeleteTrack" xml:space="preserve">
+        <value>删除曲目</value>
+    </data>
+    <data name="NetworkWarningDhcpIsOff" xml:space="preserve">
+        <value>DHCP 已關閉。</value>
+    </data>
+    <data name="FileSorting" xml:space="preserve">
+        <value>文件排序</value>
+    </data>
+    <data name="MediaServer" xml:space="preserve">
+        <value>媒體服務器</value>
+    </data>
+    <data name="Expand" xml:space="preserve">
+        <value>扩张</value>
+    </data>
+    <data name="ContactMOONSupport" xml:space="preserve">
+        <value>联系 MOON  支持</value>
+    </data>
+    <data name="ContactMOONSupportDesc" xml:space="preserve">
+        <value>我们可以如何提供帮助？</value>
+    </data>
+    <data name="ContactMOONSupportDetails" xml:space="preserve">
+        <value>联系 MOON  支持团队</value>
+    </data>
+    <data name="ContactMOONSupportSubDesc" xml:space="preserve">
+        <value>提交您的详细信息以获得帮助</value>
+    </data>
+    <data name="IncludeOthersPlaylists" xml:space="preserve">
+        <value>包括其他人的播放列表</value>
+    </data>
+    <data name="AttachMyLogs" xml:space="preserve">
+        <value>附上我的日志文件</value>
+    </data>
+    <data name="AttachMyLogsDescription" xml:space="preserve">
+        <value>附上您的日志文件，帮助我们快速解决问题</value>
+    </data>
+    <data name="CloudAutoSyncTitle" xml:space="preserve">
+        <value>自动同步</value>
+    </data>
+    <data name="CloudMobileName" xml:space="preserve">
+        <value>移动设备名称</value>
+    </data>
+    <data name="CloudMobilesHubDescription" xml:space="preserve">
+        <value>启用设备链接以进行数据同步</value>
+    </data>
+    <data name="CloudMobilesHubTitle" xml:space="preserve">
+        <value>移动设备中心</value>
+    </data>
+    <data name="CloudItemToUpload" xml:space="preserve">
+        <value>待上传至云端数据</value>
+    </data>
+    <data name="CloudItemToDownload" xml:space="preserve">
+        <value>从云端下载数据</value>
+    </data>
+    <data name="CloudItemSynced" xml:space="preserve">
+        <value>已同步</value>
+    </data>
+    <data name="PrivateTitle" xml:space="preserve">
+        <value>私人的</value>
+    </data>
+    <data name="PrivateDescriptionOn" xml:space="preserve">
+        <value>我的网络上的其他用户不可见</value>
+    </data>
+    <data name="CloudAutoSyncMessage" xml:space="preserve">
+        <value>自动上传和下载对云中保存的播放列表的更改。您可以随时在库设置中更改此配置。</value>
+    </data>
+    <data name="VisibilityDescriptionOff" xml:space="preserve">
+        <value>在列表中不可见</value>
+    </data>
+    <data name="AutoDetectedCountry" xml:space="preserve">
+        <value>自动检测到的国家/地区</value>
+    </data>
+    <data name="BluetoothFailed" xml:space="preserve">
+        <value>尝试在此移动设备上关闭然后重新打开蓝牙</value>
+    </data>
+    <data name="VisibleDescriptionOff" xml:space="preserve">
+        <value>在列表中不可见</value>
+    </data>
+    <data name="MiND_AppIsOff" xml:space="preserve">
+        <value>MiND 应用程序未打开</value>
+    </data>
+    <data name="TrackAddedSuccess" xml:space="preserve">
+        <value>曲目已成功添加到您的播放列表！</value>
+    </data>
+    <data name="TrackAlreadyInPlaylist" xml:space="preserve">
+        <value>该曲目已在您的播放列表中。</value>
+    </data>
+    <data name="Player_AddToMyPlaylists" xml:space="preserve">
+        <value>添加到我保存的播放列表</value>
+    </data>
+    <data name="SharedPlaylists" xml:space="preserve">
+        <value>共享播放列表</value>
+    </data>
+    <data name="Language_TraditionalChinese" xml:space="preserve">
+        <value>ZHO - 繁体中文</value>
+    </data>
+    <data name="NotificationUserDescription" xml:space="preserve">
+        <value>通知将使用户能够接收通信和更新。</value>
+    </data>
+    <data name="NearbyDevices" xml:space="preserve">
+        <value>附近的设备</value>
+    </data>
+    <data name="IsPlaylistPublic" xml:space="preserve">
+        <value>该播放列表是公开的吗？</value>
+    </data>
+    <data name="ClearAll" xml:space="preserve">
+        <value>全部清除</value>
+    </data>
+    <data name="WifiResetHint" xml:space="preserve">
+        <value>禁用和启用移动设备的互联网。</value>
+    </data>
+    <data name="Messaging" xml:space="preserve">
+        <value>消息传递</value>
+    </data>
+    <data name="MessagingDescription" xml:space="preserve">
+        <value>允许您的移动设备接收文本通知。</value>
+    </data>
+    <data name="MessagingAppAndFirmware" xml:space="preserve">
+        <value>固件和应用程序更新通知</value>
+    </data>
+    <data name="MessagingNews" xml:space="preserve">
+        <value>新闻通知</value>
+    </data>
+    <data name="Disabled" xml:space="preserve">
+        <value>残疾人</value>
+    </data>
+    <data name="CloudPlaylistsDescription" xml:space="preserve">
+        <value>将您设备上保存的列表以及数据云上与您的设备关联的列表汇集在一起​​。</value>
+    </data>
+</root>

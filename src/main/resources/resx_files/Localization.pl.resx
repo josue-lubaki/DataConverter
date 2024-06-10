@@ -1,0 +1,2001 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>2.0</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    
+    <data name="Language_Default" xml:space="preserve">
+        <value>Langue de l'appareil</value>
+    </data>  
+    <data name="Language_English" xml:space="preserve">
+        <value>EN - Angielski</value>
+    </data>
+    <data name="Language_German" xml:space="preserve">
+        <value>DE - Niemiecki</value>
+    </data>
+    <data name="Language_Espagnol" xml:space="preserve">
+        <value>ES - Hiszpański</value>
+    </data>
+    <data name="Language_French" xml:space="preserve">
+        <value>FR - Francuski</value>
+    </data>
+    <data name="Language_Japanese" xml:space="preserve">
+        <value>JA - Japoński</value>
+    </data>
+    <data name="Language_Korean" xml:space="preserve">
+        <value>KO - Koreański</value>
+    </data>
+    <data name="Language_Dutch" xml:space="preserve">
+        <value>NL - Holenderski</value>
+    </data>
+    <data name="Language_Polish" xml:space="preserve">
+        <value>PL - Polskie</value>
+    </data>
+    <data name="Language_Chinese" xml:space="preserve">
+        <value>ZH - Chiński</value>
+    </data>
+    
+    <data name="Browser_Missing" xml:space="preserve">
+        <value>Nie masz żadnej przeglądarki, aby otworzyć stronę internetową</value>
+    </data>
+    <data name="PlaylistCategory_SavedPlaylists" xml:space="preserve">
+        <value>Zapisane listy odtwarzania</value>
+    </data>
+    <data name="PlaylistCategory_WebRadio" xml:space="preserve">
+        <value>Radio internetowe</value>
+    </data>
+    <data name="PlaylistCategory_MusicService" xml:space="preserve">
+        <value>Serwisy streamingowe</value>
+    </data>
+    <data name="PlaylistCategory_UPnP" xml:space="preserve">
+        <value>Serwery multimedialne UPnP</value>
+    </data>
+    <data name="PlaylistCategory_MediaStorage" xml:space="preserve">
+        <value>Przechowywanie multimediów</value>
+    </data>
+    <data name="USB" xml:space="preserve">
+        <value>USB</value>
+    </data>
+    <data name="Library_ConnectionFailed" xml:space="preserve">
+        <value>Nie można uzyskać menu głównego.</value>
+    </data>
+    <data name="Library_Item_Count" xml:space="preserve">
+        <value>{0} z {1}</value>
+    </data>
+    <data name="General_Loading" xml:space="preserve">
+        <value>Ładuję</value>
+    </data>
+    <data name="General_Cancel" xml:space="preserve">
+        <value>Anuluj</value>
+    </data>
+    <data name="Playlists_PlaylistsTitle" xml:space="preserve">
+        <value>Listy odtwarzania</value>
+    </data>
+    <data name="General_Error" xml:space="preserve">
+        <value>Błąd</value>
+    </data>
+    <data name="General_ErrorMessage" xml:space="preserve">
+        <value>Nie można wykonać operacji</value>
+    </data>
+    <data name="General_LoadingError" xml:space="preserve">
+        <value>Nie można załadować informacji.</value>
+    </data>
+    <data name="Specific_LoadingError" xml:space="preserve">
+        <value>Nie można załadować {0}</value>
+    </data>
+    <data name="General_Ok" xml:space="preserve">
+        <value>OK</value>
+    </data>
+    <data name="Playlists_DeletePlaylistTitle" xml:space="preserve">
+        <value>Usuń listę odtwarzania</value>
+    </data>
+    <data name="Playlists_DeletePlaylistConfirmation" xml:space="preserve">
+        <value>Czy na pewno chcesz usunąć tę listę odtwarzania?</value>
+    </data>
+    <data name="AddTrack_TopButton" xml:space="preserve">
+        <value>Top</value>
+    </data>
+    <data name="AddTrack_NextButton" xml:space="preserve">
+        <value>Kolejny</value>
+    </data>
+    <data name="AddTrack_EndButton" xml:space="preserve">
+        <value>Koniec</value>
+    </data>
+    <data name="AddTrack_ReplaceButton" xml:space="preserve">
+        <value>Zastąpić</value>
+    </data>
+    <data name="AddTrack_Title" xml:space="preserve">
+        <value>Dodaj utwory ...</value>
+    </data>
+    <data name="AddTrack_WorkingTitle" xml:space="preserve">
+        <value>Pracujący</value>
+    </data>
+    <data name="AddTrack_AddingTracksToQueue" xml:space="preserve">
+        <value>Dodawanie utworów do kolejki. Proszę czekać.</value>
+    </data>
+    <data name="General_ErrorBrowsing" xml:space="preserve">
+        <value>Błąd przeglądania</value>
+    </data>
+    <data name="AddTrack_EmptyDirectory" xml:space="preserve">
+        <value>Brak dostępnych treści.</value>
+    </data>
+    <data name="Input_Title" xml:space="preserve">
+        <value>Wejścia</value>
+    </data>
+    <data name="Input_LoadingError" xml:space="preserve">
+        <value>Wystąpił błąd podczas ładowania danych wejściowych</value>
+    </data>
+    <data name="Input_ModificationError" xml:space="preserve">
+        <value>Wystąpił błąd podczas zmiany wejścia</value>
+    </data>
+    <data name="Library_Title" xml:space="preserve">
+        <value>Biblioteka</value>
+    </data>
+    <data name="General_ConnectionLostTitle" xml:space="preserve">
+        <value>Utracono połączenie</value>
+    </data>
+    <data name="General_ConnectionLostMessage" xml:space="preserve">
+        <value>Przepraszamy, straciliśmy połączenie z Twoim urządzeniem, spróbuj połączyć się ponownie.</value>
+    </data>
+    <data name="Zones_Title" xml:space="preserve">
+        <value>Strefy</value>
+    </data>
+    <data name="Settings_SettingsSavedTitle" xml:space="preserve">
+        <value>Ustawienia zapisane</value>
+    </data>
+    <data name="Settings_SettingsSavedMessage" xml:space="preserve">
+        <value>Twoje nowe ustawienia zostały zapisane. MiND pojawi się ponownie w obszarze stref.</value>
+    </data>
+    <data name="Settings_UnconfiguredMindMessage" xml:space="preserve">
+        <value>Ten MiND nie jest jeszcze skonfigurowany. Skonfiguruj ustawienia sieciowe, aby móc korzystać ze wszystkich funkcji.</value>
+    </data>
+    <data name="Settings_ConfigureButton" xml:space="preserve">
+        <value>Konfiguruj</value>
+    </data>
+    <data name="General_0_Items" xml:space="preserve">
+        <value>{0} Przedmioty</value>
+    </data>
+    <data name="General_0_Item" xml:space="preserve">
+        <value>{0} Przedmiot</value>
+    </data>
+    <data name="AddTrack_More" xml:space="preserve">
+        <value>Więcej...</value>
+    </data>
+    <data name="Queue_Title" xml:space="preserve">
+        <value>KOLEJKA</value>
+    </data>
+    <data name="Queue_Track_Paused" xml:space="preserve">
+        <value>PAUZA</value>
+    </data>
+    <data name="Queue_Track_Playing" xml:space="preserve">
+        <value>ODTWARZANIE</value>
+    </data>
+    <data name="Queue_Track_Stopped" xml:space="preserve">
+        <value>ZATRZYMANY</value>
+    </data>
+    <data name="Queue_Track_Index" xml:space="preserve">
+        <value>{0} z {1}</value>
+    </data>
+    <data name="Queue_Track" xml:space="preserve">
+        <value>{0} utwór</value>
+    </data>
+    <data name="Queue_Tracks" xml:space="preserve">
+        <value>{0} utworów</value>
+    </data>
+    <data name="Queue_Track_Index_NoTrack" xml:space="preserve">
+        <value>Brak utworu</value>
+    </data>
+    <data name="Queue_Track_UnableToPlay" xml:space="preserve">
+        <value>Nie można odtworzyć utworu</value>
+    </data>
+    <data name="General_UnsupportedFormat" xml:space="preserve">
+        <value>Format nieobsługiwany</value>
+    </data>
+    <data name="Playlist_ExistingPlaylists" xml:space="preserve">
+        <value>Istniejące listy odtwarzania</value>
+    </data>
+    <data name="Library_PlayNow" xml:space="preserve">
+        <value>Odtwarzaj teraz</value>
+    </data>
+    <data name="General_Delete" xml:space="preserve">
+        <value>Kasuj</value>
+    </data>
+    <data name="Settings_ZoneSettings" xml:space="preserve">
+        <value>Ustawienia strefy</value>
+    </data>
+    <data name="Settings_InfoTitle" xml:space="preserve">
+        <value>Informacje</value>
+    </data>
+    <data name="Settings_Name" xml:space="preserve">
+        <value>Imię</value>
+    </data>
+    <data name="New_Name_Successfully_Saved" xml:space="preserve">
+        <value>Nowa nazwa została pomyślnie zapisana.</value>
+    </data>
+    <data name="Settings_Model" xml:space="preserve">
+        <value>Model</value>
+    </data>
+    <data name="Settings_Location" xml:space="preserve">
+        <value>Lokalizacja</value>
+    </data>
+    <data name="Settings_MindVersion" xml:space="preserve">
+        <value>Wersja modułu MiND</value>
+    </data>
+    <data name="Settings_Network" xml:space="preserve">
+        <value>Sieć</value>
+    </data>
+    <data name="Settings_NetworkSettings" xml:space="preserve">
+        <value>Ustawienia sieci</value>
+    </data>
+    <data name="General_WifiConnectionLost" xml:space="preserve">
+        <value>Utracono połączenie Wi-Fi</value>
+    </data>
+    <data name="General_WifiWaitingForConnection" xml:space="preserve">
+        <value>Oczekiwanie na połączenie Wi-Fi ...</value>
+    </data>
+    <data name="General_ConnectionFailedTitle" xml:space="preserve">
+        <value>Połączenie nieudane</value>
+    </data>
+    <data name="General_ConnectionFailedMessage" xml:space="preserve">
+        <value>Nie można połączyć się z MiND. Sprawdź, czy inny kontroler jest już podłączony i zamknij tę aplikację przed ponowną próbą.</value>
+    </data>
+    <data name="General_Retry" xml:space="preserve">
+        <value>Spróbuj ponownie</value>
+    </data>
+    <data name="Mind_UpdateInProgressTitle" xml:space="preserve">
+        <value>Aktualizacja w toku...</value>
+    </data>
+    <data name="Mind_UpdateInProgressMessage" xml:space="preserve">
+        <value>Twoja jednostka aktualizuje się. Pojawi się ponownie w sieci w około 10 minut. Proszę być cierpliwym.</value>
+    </data>
+    <data name="Device_ErrorLoadingMindNetworkSettings" xml:space="preserve">
+        <value>Nie można załadować ustawień sieciowych MiND</value>
+    </data>
+    <data name="Device_ErrorConnectingToMind" xml:space="preserve">
+        <value>Nie można połączyć się z MiND</value>
+    </data>
+    <data name="General_MindZones" xml:space="preserve">
+        <value>STREFY MIND</value>
+    </data>
+    <data name="General_Mediaservers" xml:space="preserve">
+        <value>BIBLIOTEKI MEDIALNE</value>
+    </data>
+    <data name="WLANSecurity_WPA" xml:space="preserve">
+        <value>WPA</value>
+    </data>
+    <data name="WLANSecurity_WPA2" xml:space="preserve">
+        <value>WPA2</value>
+    </data>
+    <data name="WLANSecurity_WEP" xml:space="preserve">
+        <value>WEP</value>
+    </data>
+    <data name="WLANSecurity_None" xml:space="preserve">
+        <value>Żaden</value>
+    </data>
+    <data name="Network_Title" xml:space="preserve">
+        <value>Sieć</value>
+    </data>
+    <data name="Network_Error_NameEmptyTitle" xml:space="preserve">
+        <value>Pusta nazwa</value>
+    </data>
+    <data name="Network_Error_NameEmptyMessage" xml:space="preserve">
+        <value>Nazwa MiND nie może być pusta</value>
+    </data>
+    <data name="Network_IPAddress" xml:space="preserve">
+        <value>adres IP</value>
+    </data>
+    <data name="Network_Error_InvalidIPMessage" xml:space="preserve">
+        <value>Podano nieprawidłowy adres IP.</value>
+    </data>
+    <data name="Network_SubnetMask" xml:space="preserve">
+        <value>Maska podsieci</value>
+    </data>
+    <data name="Network_Error_InvalidSubnetMaskMessage" xml:space="preserve">
+        <value>Określono nieprawidłową maskę podsieci.</value>
+    </data>
+    <data name="Network_Gateway" xml:space="preserve">
+        <value>Przejście</value>
+    </data>
+    <data name="Network_Error_InvalidGatewayMessage" xml:space="preserve">
+        <value>Podano nieprawidłowy adres bramy.</value>
+    </data>
+    <data name="Network_DNS" xml:space="preserve">
+        <value>DNS</value>
+    </data>
+    <data name="Network_Error_InvalidDNSMessage" xml:space="preserve">
+        <value>Podano nieprawidłowy adres DNS.</value>
+    </data>
+    <data name="Network_WEPKey" xml:space="preserve">
+        <value>Klucz WEP</value>
+    </data>
+    <data name="NetworkErrorEmptyWEPKeyMessage" xml:space="preserve">
+        <value>Klucz wep nie może być pusty</value>
+    </data>
+    <data name="Password" xml:space="preserve">
+        <value>Hasło</value>
+    </data>
+    <data name="Network_Error_EmptyWPAPasswordMessage" xml:space="preserve">
+        <value>Twoje hasło Wi-Fi nie może być puste</value>
+    </data>
+    <data name="Network_SavingSettingsTitle" xml:space="preserve">
+        <value>Zapisywanie ustawień</value>
+    </data>
+    <data name="Network_SavingSettingsMessage" xml:space="preserve">
+        <value>Zapisywanie ustawień, proszę czekać ...</value>
+    </data>
+    <data name="Network_GeneralHeader" xml:space="preserve">
+        <value>Ogólne</value>
+    </data>
+    <data name="Network_WirelessHeader" xml:space="preserve">
+        <value>Bezprzewodowy</value>
+    </data>
+    <data name="Network_WirelessWifi" xml:space="preserve">
+        <value>Wi-Fi</value>
+    </data>
+    <data name="Network_Security" xml:space="preserve">
+        <value>Zabezpieczenia</value>
+    </data>
+    <data name="Network_MindName" xml:space="preserve">
+        <value>Nazwa MiND</value>
+    </data>
+    <data name="Network_WEPIndex" xml:space="preserve">
+        <value>Indeks WEP</value>
+    </data>
+    <data name="Network_DHCP" xml:space="preserve">
+        <value>DHCP</value>
+    </data>
+    <data name="Network_IP" xml:space="preserve">
+        <value>IP</value>
+    </data>
+    <data name="Player_NoTrack" xml:space="preserve">
+        <value>Brak utworu</value>
+    </data>
+    <data name="Player_ClearQueueTitle" xml:space="preserve">
+        <value>Wyczyść kolejkę</value>
+    </data>
+    <data name="General_Clear" xml:space="preserve">
+        <value>Wyczyść</value>
+    </data>
+    <data name="Player_ClearQueueMessage" xml:space="preserve">
+        <value>Czy na pewno chcesz wyczyścić kolejkę?</value>
+    </data>
+    <data name="General_Save" xml:space="preserve">
+        <value>Zapisz</value>
+    </data>
+    <data name="General_Done" xml:space="preserve">
+        <value>Gotowe</value>
+    </data>
+    <data name="General_Edit" xml:space="preserve">
+        <value>Edytuj</value>
+    </data>
+    <data name="Player_PlaylistName" xml:space="preserve">
+        <value>Nazwa</value>
+    </data>
+    <data name="Player_UnknownInformation" xml:space="preserve">
+        <value>Nieznany</value>
+    </data>
+    <data name="Player_RemoveTrack" xml:space="preserve">
+        <value>Usuń ścieżkę</value>
+    </data>
+    <data name="Player_NowPlaying" xml:space="preserve">
+        <value>Teraz odtwarzane</value>
+    </data>
+    <data name="Metadata_Title" xml:space="preserve">
+        <value>Tytuł</value>
+    </data>
+    <data name="Metadata_Album" xml:space="preserve">
+        <value>Album</value>
+    </data>
+    <data name="Metadata_Artist" xml:space="preserve">
+        <value>Artysta</value>
+    </data>
+    <data name="Metadata_Genre" xml:space="preserve">
+        <value>Gatunek muzyczny</value>
+    </data>
+    <data name="Metadata_Composer" xml:space="preserve">
+        <value>Kompozytor</value>
+    </data>
+    <data name="Metadata_Conductor" xml:space="preserve">
+        <value>Konduktor</value>
+    </data>
+    <data name="Metadata_Date" xml:space="preserve">
+        <value>Data</value>
+    </data>
+    <data name="Metadata_Description" xml:space="preserve">
+        <value>Opis</value>
+    </data>
+    <data name="Metadata_Slogan" xml:space="preserve">
+        <value>Hasło reklamowe</value>
+    </data>
+    <data name="Metadata_Language" xml:space="preserve">
+        <value>Język</value>
+    </data>
+    <data name="Metadata_Place" xml:space="preserve">
+        <value>Miejsce</value>
+    </data>
+    <data name="Metadata_TitleTab1" xml:space="preserve">
+        <value>Szczegóły</value>
+    </data>
+    <data name="Metadata_TitleTab2" xml:space="preserve">
+        <value>Okładka albumu</value>
+    </data>
+    <data name="Actions" xml:space="preserve">
+        <value>Działania</value>
+    </data>
+    <data name="Playlists_PlaylistName" xml:space="preserve">
+        <value>Nazwa listy odtwarzania</value>
+    </data>
+    <data name="Settings_Version" xml:space="preserve">
+        <value>Oprogramowanie układowe</value>
+    </data>
+    <data name="General_NoMindFoundTitle" xml:space="preserve">
+        <value>Nie znaleziono MiND</value>
+    </data>
+    <data name="Settings_ApplicationInformation" xml:space="preserve">
+        <value>App. Informacje i ustawienia</value>
+    </data>
+    <data name="Settings_ErrorSavingSettings" xml:space="preserve">
+        <value>Nie można zapisać ustawień sieciowych</value>
+    </data>
+    <data name="General_Add" xml:space="preserve">
+        <value>Dodaj</value>
+    </data>
+    <data name="Settings_EmptyNetworkNameTitle" xml:space="preserve">
+        <value>Nazwa sieci</value>
+    </data>
+    <data name="Settings_EmptyNetworkNameMessage" xml:space="preserve">
+        <value>Nazwa sieci nie może być pusta.</value>
+    </data>
+    <data name="Settings_ExistsingWifis" xml:space="preserve">
+        <value>Dostępne sieci Wi-Fi</value>
+    </data>
+    <data name="Settings_FirmwareUpToDate" xml:space="preserve">
+        <value>Aktualny</value>
+    </data>
+    <data name="Settings_FirmwareUpdate" xml:space="preserve">
+        <value>Aktualizacja</value>
+    </data>
+    <data name="Settings_ApplicationInfoTitle" xml:space="preserve">
+        <value>Informacje</value>
+    </data>
+    <data name="Settings_ApplicationInfoName" xml:space="preserve">
+        <value>Nazwa</value>
+    </data>
+    <data name="Settings_ApplicationInfoVersion" xml:space="preserve">
+        <value>Wersja</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheLabel" xml:space="preserve">
+        <value>Wyczyść pamięć podręczną</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheDetails" xml:space="preserve">
+        <value>Spowoduje to automatyczne wyczyszczenie pamięci podręcznej MiND i obrazów.</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheConfirm" xml:space="preserve">
+        <value>Czy na pewno chcesz wyczyścić obraz i pamięć podręczną MiND?</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheComplete" xml:space="preserve">
+        <value>MiND i pamięć podręczna obrazów zostały pomyślnie wyczyszczone</value>
+    </data>
+    <data name="General_Yes" xml:space="preserve">
+        <value>Tak</value>
+    </data>
+    <data name="General_No" xml:space="preserve">
+        <value>Nie</value>
+    </data>
+    <data name="SettingsTitle" xml:space="preserve">
+        <value>Ustawienia</value>
+    </data>
+    <data name="Library_SettingsMusicServices" xml:space="preserve">
+        <value>Serwisy streamingowe</value>
+    </data>
+    <data name="Library_SettingsVisibleInList" xml:space="preserve">
+        <value>Widoczny na liście bibliotek</value>
+    </data>
+    <data name="Username" xml:space="preserve">
+        <value>Nazwa Użytkownika</value>
+    </data>
+    <data name="Library_SettingsLogin" xml:space="preserve">
+        <value>Zaloguj się</value>
+    </data>
+    <data name="Library_SettingsCreateNewAccount" xml:space="preserve">
+        <value>Utwórz nowe konto</value>
+    </data>
+    <data name="Library_SettingsLogout" xml:space="preserve">
+        <value>Wyloguj</value>
+    </data>
+    <data name="Library_SettingsFollowUs" xml:space="preserve">
+        <value>Podążaj za nami</value>
+    </data>
+    <data name="General_PowerOffErrorMessage" xml:space="preserve">
+        <value>Wystąpił problem podczas próby zmiany stanu zasilania. Spróbuj ponownie później.</value>
+    </data>
+    <data name="General_PowerOffErrorTitle" xml:space="preserve">
+        <value>Stan zasilania nie zmienił się</value>
+    </data>
+    <data name="Logout_Success" xml:space="preserve">
+        <value>Wylogowano pomyślnie</value>
+    </data>
+    <data name="Login_Success" xml:space="preserve">
+        <value>Zalogowano pomyślnie.</value>
+    </data>
+    <data name="Confirm_Logout" xml:space="preserve">
+        <value>Czy na pewno chcesz się wylogować?</value>
+    </data>
+    <data name="Logout_Failed" xml:space="preserve">
+        <value>Błąd podczas wylogowywania.</value>
+    </data>
+    <data name="Invalid_Username_Password" xml:space="preserve">
+        <value>Nieprawidłowa nazwa użytkownika lub hasło</value>
+    </data>
+    <data name="Tap_To_Retry" xml:space="preserve">
+        <value>Dotknij tutaj, aby spróbować ponownie ...</value>
+    </data>
+    <data name="NotSupported" xml:space="preserve">
+        <value>Niewspierany!</value>
+    </data>
+    <data name="Location" xml:space="preserve">
+        <value>Lokalizacja</value>
+    </data>
+    <data name="Language" xml:space="preserve">
+        <value>Język</value>
+    </data>
+    <data name="Description" xml:space="preserve">
+        <value>Opis</value>
+    </data>
+    <data name="Favourite" xml:space="preserve">
+        <value>Ulubiony</value>
+    </data>
+    <data name="NoDescription" xml:space="preserve">
+        <value>Brak dostępnego opisu.</value>
+    </data>
+    <data name="RecentSearch" xml:space="preserve">
+        <value>Ostatnie wyszukiwania</value>
+    </data>
+    <data name="SearchFor" xml:space="preserve">
+        <value>Wyszukiwanie {0}</value>
+    </data>
+    <data name="ResultFor" xml:space="preserve">
+        <value>Wyniki dla {0}</value>
+    </data>
+    <data name="Search" xml:space="preserve">
+        <value>Szukaj</value>
+    </data>
+    <data name="InternalError" xml:space="preserve">
+        <value>Wystąpił błąd wewnętrzny. Prossimy spróbować ponownie.</value>
+    </data>
+    <data name="ShowArtist" xml:space="preserve">
+        <value>Pokaż artystę</value>
+    </data>
+    <data name="ShowAlbum" xml:space="preserve">
+        <value>Pokaż album</value>
+    </data>
+    <data name="MoreInfo" xml:space="preserve">
+        <value>Więcej informacji</value>
+    </data>
+    <data name="NumberOfTracks" xml:space="preserve">
+        <value>{0} Utwory</value>
+    </data>
+    <data name="NumberOfTrack" xml:space="preserve">
+        <value>{0} Ścieżka</value>
+    </data>
+    <data name="Size" xml:space="preserve">
+        <value>Rozmiar</value>
+    </data>
+    <data name="Metadata_Duration" xml:space="preserve">
+        <value>Czas</value>
+    </data>
+    <data name="AirableFormViewTitle" xml:space="preserve">
+        <value>{0} - {1}</value>
+    </data>
+    <data name="AirableRequiredFieldEmptyError" xml:space="preserve">
+        <value>{0} nie może być pusty.</value>
+    </data>
+    <data name="NoTrackAvailableToAddToQueue" xml:space="preserve">
+        <value>Brak dostępnej ścieżki do dodania do kolejki.</value>
+    </data>
+    <data name="AppNotConnectedToMiND" xml:space="preserve">
+        <value>Aplikacja nie jest obecnie podłączona do MiND. Spróbuj ponownie połączyć się z MiND.</value>
+    </data>
+    <data name="CannotAccessMindQueue" xml:space="preserve">
+        <value>Aplikacja nie może uzyskać dostępu do kolejki MiND. Spróbuj ponownie połączyć się z MiND.</value>
+    </data>
+    <data name="NoTrackAvailableToSave" xml:space="preserve">
+        <value>Brak dostępnych ścieżek do zapisania.</value>
+    </data>
+    <data name="SaveQueueError" xml:space="preserve">
+        <value>Wystąpił błąd podczas próby zapisania listy odtwarzania.</value>
+    </data>
+    <data name="EmptyPlaylistName" xml:space="preserve">
+        <value>Nie można zapisać listy odtwarzania z pustą nazwą. Ustaw nazwę.</value>
+    </data>
+    <data name="PlaylistAlreadyExist" xml:space="preserve">
+        <value>{0} już istnieje. Czy chcesz zastąpić lub dołączyć do istniejącej listy odtwarzania?</value>
+    </data>
+    <data name="GeneralAppend" xml:space="preserve">
+        <value>Dodać</value>
+    </data>
+    <data name="GeneralReplace" xml:space="preserve">
+        <value>Zastąpić</value>
+    </data>
+    <data name="PlaylistHasBeenDeleted" xml:space="preserve">
+        <value>{0} zostało usunięte.</value>
+    </data>
+    <data name="PlaylistHasBeenSaved" xml:space="preserve">
+        <value>{0} zostało zapisane.</value>
+    </data>
+    <data name="TrackSuccessfullyAddedToQueue" xml:space="preserve">
+        <value>Utwory zostały pomyślnie dodane do kolejki.</value>
+    </data>
+    <data name="MindQueueFullyLoaded" xml:space="preserve">
+        <value>Kolejka MiND jest ładowana z maksymalną wydajnością.</value>
+    </data>
+    <data name="UnconfiguredMiND" xml:space="preserve">
+        <value>Nieskonfigurowany {0} ({1})</value>
+    </data>
+    <data name="UnsolicitedMessageFromMiND" xml:space="preserve">
+        <value>Niechciana wiadomość od {0}</value>
+    </data>
+    <data name="FailedToConnectToMusicService" xml:space="preserve">
+        <value>Nie udało się połączyć z {0}. Proszę spróbuj ponownie.</value>
+    </data>
+    <data name="MultiroomMasterNotFound" xml:space="preserve">
+        <value>Twoje urządzenie zostało dołączone do grupy multiroom w teybie "slave". Wybierz grupę, aby kontynuować odtwarzanie.</value>
+    </data>
+    <data name="MultiroomWithTitle" xml:space="preserve">
+        <value>Multiroom: {0}</value>
+    </data>
+    <data name="CurrentDeviceHasBeenGrouped" xml:space="preserve">
+        <value>{0} dołączył do grupy multiroom w trybie "slave". Aplikacja automatycznie ponownie połączona z urządzeniem głównym „{1}”.</value>
+    </data>
+    <data name="Permission" xml:space="preserve">
+        <value>Pozwolenie</value>
+    </data>
+    <data name="PermissionForWifiReason" xml:space="preserve">
+        <value>Aplikacja MiND wymaga zezwolenia na lokalizację, aby znaleźć pobliskie sieci Wi-Fi.</value>
+    </data>
+    <data name="PermissionForBleSearch" xml:space="preserve">
+        <value>Aplikacja MiND wymaga zezwolenia na lokalizację, aby znaleźć nieskonfigurowany MiND w pobliżu.</value>
+    </data>
+    <data name="MultiroomVolumeControl" xml:space="preserve">
+        <value>Siła głosu</value>
+    </data>
+    <data name="SetPresetTitle" xml:space="preserve">
+        <value>Ustaw preset ...</value>
+    </data>
+    <data name="PresetItem" xml:space="preserve">
+        <value>Preset {0}</value>
+    </data>
+    <data name="PresetSuccessfullySaved" xml:space="preserve">
+        <value>{0} został pomyślnie zapisany w ustawieniu wstępnym {1}.</value>
+    </data>
+    <data name="TurnedToStandby" xml:space="preserve">
+        <value>{0} włączony do trybu gotowości.</value>
+    </data>
+    <data name="VersionAvailable" xml:space="preserve">
+        <value>(Dostępny {0})</value>
+    </data>
+    <data name="NewUpdatesAvailable" xml:space="preserve">
+        <value>Dostępne nowe aktualizacje</value>
+    </data>
+    <data name="HostUpdateMessage" xml:space="preserve">
+        <value>{0} aktualizuje się. Może to potrwać do 5 minut. Proszę być cierpliwym.</value>
+    </data>
+    <data name="FirstTimeSetupTitle" xml:space="preserve">
+        <value>Wybierz swój kraj</value>
+    </data>
+    <data name="SetupInformation" xml:space="preserve">
+        <value>informacje o konfiguracji.</value>
+    </data>
+    <data name="MultiroomErrorContent" xml:space="preserve">
+        <value>Multiroom jest wyłączony.</value>
+    </data>
+    <data name="TuneInRadioFriendlyName" xml:space="preserve">
+        <value>Radio</value>
+    </data>
+    <data name="DeezerFriendlyName" xml:space="preserve">
+        <value>Deezer</value>
+    </data>
+    <data name="PodcastsFriendlyName" xml:space="preserve">
+        <value>Podcasty</value>
+    </data>
+    <data name="QobuzFriendlyName" xml:space="preserve">
+        <value>Qobuz</value>
+    </data>
+    <data name="TidalFriendlyName" xml:space="preserve">
+        <value>Tidal</value>
+    </data>
+    <data name="HighResAudioFriendlyName" xml:space="preserve">
+        <value>HIGHRESAUDIO</value>
+    </data>
+    <data name="ObjectNotAvailable" xml:space="preserve">
+        <value>{0} niedostępne.</value>
+    </data>
+    <data name="FreeTrial" xml:space="preserve">
+        <value>Wypróbuj za darmo</value>
+    </data>
+    <data name="Check_for_Supported_Localization" xml:space="preserve">
+        <value>Język jest obecnie obsługiwany</value>
+    </data>
+    <data name="CannotContactMusicService" xml:space="preserve">
+        <value>Nie można skontaktować się z serwerem {0}.</value>
+    </data>
+    <data name="WrongDataReturnMusicService" xml:space="preserve">
+        <value>Błędny powrót danych z serwera {0}.</value>
+    </data>
+    <data name="AutomaticRenameError" xml:space="preserve">
+        <value>Twoja aktualna wersja oprogramowania sprzętowego MiND nie obsługuje funkcji automatycznej zmiany nazwy. Najpierw zaktualizuj.</value>
+    </data>
+    <data name="AutomaticUpdateError" xml:space="preserve">
+        <value>Obecna wersja MiND nie obsługuje automatycznych aktualizacji z aplikacji. Zaktualizuj urządzenie ręcznie. Po zakończeniu tego kroku będziesz mógł inicjować przyszłe aktualizacje z aplikacji.</value>
+    </data>
+    <data name="RescanPortError" xml:space="preserve">
+        <value>Wystąpił błąd podczas próby ponownego skanowania sieci. Upewnij się, że inna aplikacja nie używa portu 1900. Zabij wszystkie inne otwarte procesy i ponów próbę.</value>
+    </data>
+    <data name="Network_AvdancedSettingShow" xml:space="preserve">
+        <value>Ustawienia zaawansowane</value>
+    </data>
+    <data name="Network_AvdancedSettingHide" xml:space="preserve">
+        <value>Ukryj ustawienia zaawansowane</value>
+    </data>
+    <data name="Network_OtherWifi" xml:space="preserve">
+        <value>Inne Wi-Fi</value>
+    </data>
+    <data name="Settings_Loading" xml:space="preserve">
+        <value>Ładowanie opcji ustawień sieciowych ...</value>
+    </data>
+    <data name="Favorite_Remove" xml:space="preserve">
+        <value>Usunięto z ulubionych</value>
+    </data>
+    <data name="Favorite_Insert" xml:space="preserve">
+        <value>Dodano do ulubionych</value>
+    </data>
+    <data name="Metadata_NumberOfTracksTitle" xml:space="preserve">
+        <value>Liczba utworów</value>
+    </data>
+    <data name="Player_AddToPlaylist" xml:space="preserve">
+        <value>Dodaj do listy odtwarzania</value>
+    </data>
+    <data name="Refresh_Network" xml:space="preserve">
+        <value>Pociągnij, aby przeskanować sieć</value>
+    </data>
+    <data name="Library_ConnectionLost" xml:space="preserve">
+        <value>Biblioteka {0} została odłączona lub zamyka połączenie. Wybierz inną bibliotekę ...</value>
+    </data>
+    <data name="Library_Local" xml:space="preserve">
+        <value>Lokalna biblioteka</value>
+    </data>
+    <data name="Library_Preparing" xml:space="preserve">
+        <value>Przygotuj lokalną bibliotekę muzyczną, proszę czekać ...</value>
+    </data>
+    <data name="Library_PreparingFailed" xml:space="preserve">
+        <value>Wystąpił błąd podczas przygotowywania lokalnej biblioteki muzycznej.</value>
+    </data>
+    <data name="Library_Connecting" xml:space="preserve">
+        <value>Podłącz do biblioteki {0}, proszę czekać ...</value>
+    </data>
+    <data name="Library_Loading" xml:space="preserve">
+        <value>Ładowanie do biblioteki {0}, proszę czekać ...</value>
+    </data>
+    <data name="Library_Remove" xml:space="preserve">
+        <value>Usuń z biblioteki</value>
+    </data>
+    <data name="Library_Add" xml:space="preserve">
+        <value>Dodaj do biblioteki</value>
+    </data>
+    <data name="General_Wait" xml:space="preserve">
+        <value>Proszę czekać ...</value>
+    </data>
+    <data name="Library_ItemNotAdded" xml:space="preserve">
+        <value>Element nie został dodany do biblioteki</value>
+    </data>
+    <data name="Library_ItemNotRemoved" xml:space="preserve">
+        <value>Przedmiot nie został usunięty z biblioteki</value>
+    </data>
+    <data name="Favorite_ItemNotAdded" xml:space="preserve">
+        <value>Przedmiot nie został dodany do ulubionych</value>
+    </data>
+    <data name="Favorite_ItemNotRemoved" xml:space="preserve">
+        <value>Przedmiot nie został usunięty z ulubionych</value>
+    </data>
+    <data name="NotLoggedInAlert" xml:space="preserve">
+        <value>Nie jesteś zalogowany
+Proszę się najpierw zalogować, uzyskując dostęp do ustawień usługi muzycznej z listy bibliotek.</value>
+    </data>
+    <data name="Player_Reloading" xml:space="preserve">
+        <value>Ponowne ładowanie odtwarzacza</value>
+    </data>
+    <data name="Player" xml:space="preserve">
+        <value>Odtwarzacza</value>
+    </data>
+    <data name="Queue_Track_Pause" xml:space="preserve">
+        <value>PAUZA</value>
+    </data>
+    <data name="Queue_FailedAddTrack" xml:space="preserve">
+        <value>Nie można dodać ścieżek do kolejki.</value>
+    </data>
+    <data name="Queue_FailedClear" xml:space="preserve">
+        <value>Nie udało się wyczyścić kolejki.</value>
+    </data>
+    <data name="NetWork_WifiChanged" xml:space="preserve">
+        <value>Zmieniono połączenie Wi-Fi</value>
+    </data>
+    <data name="NetWork_WifiStateChangedMessage" xml:space="preserve">
+        <value>Zmieniono stan połączenia Wi-Fi, uruchom ponownie aplikację ... Proszę czekać.</value>
+    </data>
+    <data name="NetWork_WifiNotConnected" xml:space="preserve">
+        <value>Brak połączenia z Wi-Fi</value>
+    </data>
+    <data name="NetWork_WifiNotConnectedMessage" xml:space="preserve">
+        <value>Podłącz urządzenie do sieci Wi-Fi ...</value>
+    </data>
+    <data name="Library_UnauthorizedAcces" xml:space="preserve">
+        <value>Aplikacja nie jest upoważniona do dostępu do biblioteki multimediów. Przejdź do ustawień iOS -&gt; Prywatność -&gt; Biblioteka multimediów i przyznaj dostęp do aplikacji MiND.</value>
+    </data>
+    <data name="General_Connection" xml:space="preserve">
+        <value>Połączenie</value>
+    </data>
+    <data name="General_ConnectingMiND" xml:space="preserve">
+        <value>Łączenie z urządzeniem MiND.</value>
+    </data>
+    <data name="General_ConnectingMessage" xml:space="preserve">
+        <value>Trwa połączenie z urządzeniem MiND.</value>
+    </data>
+    <data name="General_ReconnectingMiND" xml:space="preserve">
+        <value>Ponownie łącząc się z ostatnio podłączonym MiND, proszę czekać ...</value>
+    </data>
+    <data name="General_StateRestore" xml:space="preserve">
+        <value>Przywracanie stanu</value>
+    </data>
+    <data name="General_MiNDDevice" xml:space="preserve">
+        <value>Urządzenie MiND</value>
+    </data>
+    <data name="Settings_RenameProgress" xml:space="preserve">
+        <value>Zmień nazwę w toku</value>
+    </data>
+    <data name="General_Rename" xml:space="preserve">
+        <value>Przemianować</value>
+    </data>
+    <data name="Settings_UpdateFirmwareAccessNetwork" xml:space="preserve">
+        <value>Zaktualizuj oprogramowanie sprzętowe, aby uzyskać dostęp do ustawień sieciowych</value>
+    </data>
+    <data name="Deezer_NextLimitReached" xml:space="preserve">
+        <value>Subskrybuj Premium, aby uzyskać nieograniczoną liczbę przeskoków.</value>
+    </data>
+    <data name="General_Suscribe" xml:space="preserve">
+        <value>Subskrybować</value>
+    </data>
+    <data name="General_ScanNetworkError" xml:space="preserve">
+        <value>Nie można skanować sieci dla urządzeń MiND. Sprawdź ustawienia Wi-Fi.</value>
+    </data>
+    <data name="Queue_Track_Transitioning" xml:space="preserve">
+        <value>PRZEJŚCIE</value>
+    </data>
+    <data name="Metadata_Sources" xml:space="preserve">
+        <value>Źródła</value>
+    </data>
+    <data name="Input_NotLocked" xml:space="preserve">
+        <value>Brak sygnału</value>
+    </data>
+    <data name="NowPlayingNotificationName" xml:space="preserve">
+        <value>Teraz odtwarzany kanał powiadomień</value>
+    </data>
+    <data name="Settings_FirmwareVersion" xml:space="preserve">
+        <value>Wersja oprogramowania</value>
+    </data>
+    <data name="Inputs_NotSupported" xml:space="preserve">
+        <value>Wejścia nie są obsługiwane</value>
+    </data>
+    <data name="AppInfo_SleepModeTitle" xml:space="preserve">
+        <value>Tryb uśpienia</value>
+    </data>
+    <data name="AppInfo_SleepModeContent" xml:space="preserve">
+        <value>Pozwól swojemu urządzeniu mobilnemu przejść w tryb uśpienia podczas słuchania muzyki.</value>
+    </data>
+    <data name="Settings_UnsupportedFirmware" xml:space="preserve">
+        <value>Nieobsługiwane oprogramowanie układowe</value>
+    </data>
+    <data name="Settings_VersionOf" xml:space="preserve">
+        <value>Wersja {0}</value>
+    </data>
+    <data name="Playlists_Name" xml:space="preserve">
+        <value>Nazwa</value>
+    </data>
+    <data name="MusicService_Or" xml:space="preserve">
+        <value>Lub</value>
+    </data>
+    <data name="MusicService_GoOnWebsiteAndRegister" xml:space="preserve">
+        <value>Przejdź na stronę {0} i {1}.</value>
+    </data>
+    <data name="MusicService_InvitationToFollowUs" xml:space="preserve">
+        <value>Również {0} do codziennych wiadomości.</value>
+    </data>
+    <data name="TrackSuccessfullyAddedToMaxedOutQueue" xml:space="preserve">
+        <value>Niektóre utwory nie zostały dodane do kolejki, gdy osiągnęliśmy maksymalną pojemność kolejki.</value>
+    </data>
+    <data name="NoUSB_DeviceFound" xml:space="preserve">
+        <value>Nie znaleziono urządzenia USB. Upewnij się, że urządzenie USB jest podłączone.</value>
+    </data>
+    <data name="PrivacyPolicy" xml:space="preserve">
+        <value>Polityka prywatności</value>
+    </data>
+    <data name="DataUsage" xml:space="preserve">
+        <value>Korzystanie z danych.</value>
+    </data>
+    <data name="TapToAccessPrivacyPolicy" xml:space="preserve">
+        <value>Dotknij tutaj, aby otworzyć naszą politykę prywatności.</value>
+    </data>
+    <data name="Biography" xml:space="preserve">
+        <value>Biografia</value>
+    </data>
+    <data name="AppInfo_NotificationModeTitle" xml:space="preserve">
+        <value>Powiadomienie</value>
+    </data>
+    <data name="AppInfo_NotificationModeContent" xml:space="preserve">
+        <value>Dodaj wyświetlacz kontrolera MiND poza interfejsem użytkownika aplikacji. Tylko urządzenia z MiND2.</value>
+    </data>
+    <data name="Accessibility_MusicServiceSettingsLabel" xml:space="preserve">
+        <value>Przycisk opcji biblioteki</value>
+    </data>
+    <data name="Accessibility_MusicServiceSettingsHint" xml:space="preserve">
+        <value>Naciśnij, aby otworzyć i edytować parametry biblioteki</value>
+    </data>
+    <data name="Accessibility_BackToNowPlayingLabel" xml:space="preserve">
+        <value>Przycisk Przejdź do teraz odtwarzanego.</value>
+    </data>
+    <data name="Accessibility_BackToNowPlayingHint" xml:space="preserve">
+        <value>Zamknij listę bibliotek ang wróć do widoku głównego odtwarzacza.</value>
+    </data>
+    <data name="Accessibility_SearchLabel" xml:space="preserve">
+        <value>Przycisk wyszukiwania.</value>
+    </data>
+    <data name="Accessibility_SearchHint" xml:space="preserve">
+        <value>Wyszukaj w tym źródle audio.</value>
+    </data>
+    <data name="Accessibility_MoreOptionsLabel" xml:space="preserve">
+        <value>Przycisk Więcej opcji.</value>
+    </data>
+    <data name="Accessibility_MoreOptionsHint" xml:space="preserve">
+        <value>Otwórz wyskakujące okno z większą ilością opcji lub informacji.</value>
+    </data>
+    <data name="Accessibility_LibrarySectionTitleLabel" xml:space="preserve">
+        <value>Tytuł sekcji nawigacji biblioteki.</value>
+    </data>
+    <data name="Accessibility_LibrarySectionTitleHint" xml:space="preserve">
+        <value>Naciśnij, aby wrócić do katalogu głównego nawigacji.</value>
+    </data>
+    <data name="Accessibility_DeletePlaylistLabel" xml:space="preserve">
+        <value>Usuń przycisk listy odtwarzania.</value>
+    </data>
+    <data name="Accessibility_DeletePlaylistHint" xml:space="preserve">
+        <value>Spowoduje to usunięcie bieżącej listy odtwarzania.</value>
+    </data>
+    <data name="Accessibility_HomeButtonLabel" xml:space="preserve">
+        <value>Przycisk Home.</value>
+    </data>
+    <data name="Accessibility_HomeButtonHint" xml:space="preserve">
+        <value>Wróci na listę stref.</value>
+    </data>
+    <data name="Accessibility_BrowseButtonLabel" xml:space="preserve">
+        <value>Przycisk przeglądania biblioteki.</value>
+    </data>
+    <data name="Accessibility_BrowseButtonHint" xml:space="preserve">
+        <value>Otworzy listę bibliotek.</value>
+    </data>
+    <data name="AccessibilityHint_SettingsButton" xml:space="preserve">
+        <value>Dostęp do stref i ustawień aplikacji.</value>
+    </data>
+    <data name="AccessibilityLabel_General_Button" xml:space="preserve">
+        <value>przycisk</value>
+    </data>
+    <data name="AccessibilityHint_BackToZoneList" xml:space="preserve">
+        <value>Powrót do listy stref.</value>
+    </data>
+    <data name="AccessibilityHint_PowerOff" xml:space="preserve">
+        <value>Wyłącz zasilanie {0}</value>
+    </data>
+    <data name="AccessibilityHint_ZoneMultiroomButton" xml:space="preserve">
+        <value>Kontrola {0} multiroom.</value>
+    </data>
+    <data name="AccessibilityHint_PowerOffMultiroomGroup" xml:space="preserve">
+        <value>Wyłącz grupę multiroom: {0}</value>
+    </data>
+    <data name="AccessibilityHint_GroupMultiroomButton" xml:space="preserve">
+        <value>Grupa kontrolna multiroom: {0}</value>
+    </data>
+    <data name="AccessibilityHint_MultiroomGroup" xml:space="preserve">
+        <value>Grupa Multiroom: {0}</value>
+    </data>
+    <data name="AccessibilityHint_SaveNetworkSettings" xml:space="preserve">
+        <value>Zapisz ustawienia sieciowe.</value>
+    </data>
+    <data name="AccessibilityHint_BackToMindZoneSettings" xml:space="preserve">
+        <value>Powrót do ustawień strefy umysłu.</value>
+    </data>
+    <data name="AccessibilityHint_BackButton" xml:space="preserve">
+        <value>Przycisk powrotu.</value>
+    </data>
+    <data name="Accessibility_PlayButtonLabel" xml:space="preserve">
+        <value>Przycisk Odtwórz.</value>
+    </data>
+    <data name="Accessibility_PlayButtonHint" xml:space="preserve">
+        <value>Przełącza między odtwarzaniem lub pauzą dla bieżącej ścieżki odtwarzania.</value>
+    </data>
+    <data name="Accessibility_StopButtonLabel" xml:space="preserve">
+        <value>Przycisk stopu.</value>
+    </data>
+    <data name="Accessibility_StopButtonHint" xml:space="preserve">
+        <value>Zatrzyma bieżącą ścieżkę odtwarzania.</value>
+    </data>
+    <data name="Accessibility_PauseButtonLabel" xml:space="preserve">
+        <value>Przycisk pauzy.</value>
+    </data>
+    <data name="Accessibility_PauseButtonHint" xml:space="preserve">
+        <value>Przełącza między odtwarzaniem lub pauzą dla bieżącej ścieżki odtwarzania.</value>
+    </data>
+    <data name="Accessibility_VolumeUpButtonLabel" xml:space="preserve">
+        <value>Przycisk zwiększania głośności.</value>
+    </data>
+    <data name="Accessibility_VolumeUpButtonHint" xml:space="preserve">
+        <value>Zwiększy głośność o jeden krok, może zostać przytrzymany.</value>
+    </data>
+    <data name="Accessibility_VolumeDownButtonLabel" xml:space="preserve">
+        <value>Przycisk zmniejszania głośności.</value>
+    </data>
+    <data name="Accessibility_VolumeDownButtonHint" xml:space="preserve">
+        <value>Zmniejszy głośność o jeden krok, może zostać przytrzymany.</value>
+    </data>
+    <data name="Accessibility_MuteButtonLabel" xml:space="preserve">
+        <value>Przycisk wyciszenia.</value>
+    </data>
+    <data name="Accessibility_MuteButtonHint" xml:space="preserve">
+        <value>Włącza lub wyłącza wyciszenie.</value>
+    </data>
+    <data name="Accessibility_SkipButtonLabel" xml:space="preserve">
+        <value>Przycisk pomijania.</value>
+    </data>
+    <data name="Accessibility_SkipButtonHint" xml:space="preserve">
+        <value>Przejdzie do następnego utworu w kolejce.</value>
+    </data>
+    <data name="Accessibility_PreviousButtonLabel" xml:space="preserve">
+        <value>Poprzedni przycisk.</value>
+    </data>
+    <data name="Accessibility_PreviousButtonHint" xml:space="preserve">
+        <value>Ponownie uruchomi aktualnie odtwarzany utwór, uderzy dwa razy, aby przejść do poprzedniego utworu w kolejce.</value>
+    </data>
+    <data name="Accessibility_InputButtonLabel" xml:space="preserve">
+        <value>Przycisk wejścia.</value>
+    </data>
+    <data name="Accessibility_InputButtonHint" xml:space="preserve">
+        <value>Otworzy menu, abyś mógł wybrać wejście na swoim urządzeniu Moon, jeśli twoje urządzenie je obsługuje.</value>
+    </data>
+    <data name="Accessibility_QueueControlsButtonLabel" xml:space="preserve">
+        <value>Przycisk sterowania kolejką.</value>
+    </data>
+    <data name="Accessibility_QueueControlsButtonHint" xml:space="preserve">
+        <value>Otworzy się wyskakujące menu, aby można było edytować, wyczyścić lub zapisać bieżącą kolejkę odtwarzania.</value>
+    </data>
+    <data name="Accessibility_QueueActionSheetHint" xml:space="preserve">
+        <value>Wyczyść, zapisz lub edytuj bieżącą kolejkę.</value>
+    </data>
+    <data name="Accessibility_QueueSlideButtonLabel" xml:space="preserve">
+        <value>Panel slajdów kolejki.</value>
+    </data>
+    <data name="Accessibility_QueueSlideButtonHint" xml:space="preserve">
+        <value>Otworzy przesuwny panel kolejki, abyś mógł przeskoczyć ręcznie lub edytować go.</value>
+    </data>
+    <data name="Accessibility_ShuffleButtonLabel" xml:space="preserve">
+        <value>Przycisk Shuffle.</value>
+    </data>
+    <data name="Accessibility_ShuffleOffButtonHint" xml:space="preserve">
+        <value>Tasowanie bieżącej kolejki jest wyłączone.</value>
+    </data>
+    <data name="Accessibility_ShuffleOnButtonHint" xml:space="preserve">
+        <value>Tasowanie bieżącej kolejki jest włączone.</value>
+    </data>
+    <data name="Accessibility_RepeatButtonLabel" xml:space="preserve">
+        <value>Powtórz przycisk.</value>
+    </data>
+    <data name="Accessibility_RepeatOffButtonHint" xml:space="preserve">
+        <value>Aktualny tryb powtarzania jest wyłączony.</value>
+    </data>
+    <data name="Accessibility_RepeatOneButtonHint" xml:space="preserve">
+        <value>Bieżący tryb powtarzania jest ustawiony na powtarzanie tylko bieżącej ścieżki odtwarzania.</value>
+    </data>
+    <data name="Accessibility_RepeatAllButtonHint" xml:space="preserve">
+        <value>Bieżący tryb powtarzania ustawiony jest na powtarzanie całej kolejki.</value>
+    </data>
+    <data name="Accessibility_PresetActionSheetHint" xml:space="preserve">
+        <value>Przypisz to radio do zaprogramowanego przycisku na urządzeniu Moon.</value>
+    </data>
+    <data name="Accessibility_AddtoQueueActionSheetHint" xml:space="preserve">
+        <value>Wybierz, gdzie umieścić swoją bieżącą selekcję w kolejce.</value>
+    </data>
+    <data name="Accessibility_MoreLibraryActionSheetHint" xml:space="preserve">
+        <value>Opcje menu biblioteki</value>
+    </data>
+    <data name="Discovery_WaitMore" xml:space="preserve">
+        <value>Poczekaj jeszcze trochę ...</value>
+    </data>
+    <data name="Discovery_NoMiNDFoundTitle" xml:space="preserve">
+        <value>Nadal nie znaleziono ...</value>
+    </data>
+    <data name="Discovery_NoMiNDFound" xml:space="preserve">
+        <value>Upewnij się, że urządzenie MOON jest zasilane i podłączone do sieci, a następnie kliknij jedną z tych opcji</value>
+    </data>
+    <data name="Discovery_Refresh" xml:space="preserve">
+        <value>Rescan Network</value>
+    </data>
+    <data name="Discovery_FindUnit" xml:space="preserve">
+        <value>Znajdź moją jednostkę</value>
+    </data>
+    <data name="Discovery_LaunchDiagnosticTool" xml:space="preserve">
+        <value>Kliknij tutaj, aby uruchomić narzędzie diagnostyczne</value>
+    </data>
+    <data name="Discovery_DiagnosticToolTitle" xml:space="preserve">
+        <value>Narzędzie diagnostyczne</value>
+    </data>
+    <data name="Diagnostic_MoonDeviceTitle" xml:space="preserve">
+        <value>Wybierz model swojego urządzenia</value>
+    </data>
+    <data name="Diagnostic_MoonDeviceSubTitle" xml:space="preserve">
+        <value>Twój model księżyca powinien być wyświetlony na płycie przedniej urządzenia.</value>
+    </data>
+    <data name="Diagnostic_MoonDeviceNote" xml:space="preserve">
+        <value> * Wyświetlane są tylko urządzenia obsługujące MiND.</value>
+    </data>
+    <data name="Diagnostic_IDontKnow" xml:space="preserve">
+        <value>Nie wiem</value>
+    </data>
+    <data name="Diagnostic_WhatMiND" xml:space="preserve">
+        <value>Wybierz typ MiND.</value>
+    </data>
+    <data name="Diagnostic_CheckListTitle" xml:space="preserve">
+        <value>Sprawdź następujące punkty:</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Title" xml:space="preserve">
+        <value>Twoje {0} powinno być włączone.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Child1" xml:space="preserve">
+        <value>Upewnij się, że {0} ma moc.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Child2" xml:space="preserve">
+        <value>Upewnij się, że nie stoi w gotowości.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Child3" xml:space="preserve">
+        <value>Na panelu przednim powinno pojawić się niebieskie światło.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Title" xml:space="preserve">
+        <value>Upewnij się, że {0} jest w tej sieci: {1}.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child1" xml:space="preserve">
+        <value>Przewodowe lub Wi-Fi, {0} powinno być w tej samej sieci co Twoje urządzenie mobilne.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child2" xml:space="preserve">
+        <value>Aby ręcznie zweryfikować nazwę sieci w {0}, naciśnij przycisk Setup na panelu przednim, a następnie nawiguj w sieci, a następnie w Info.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child3" xml:space="preserve">
+        <value>Dla zapewnienia stabilności zalecamy połączenie przewodowe, ale bezprzewodowa jest również możliwa.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Title" xml:space="preserve">
+        <value>Twój {0} nie aktualizuje się.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child1" xml:space="preserve">
+        <value>Nawiguj po wejściu „sieci” w {0}.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child2" xml:space="preserve">
+        <value>Upewnij się, że po wybraniu wejścia „sieć” nie są wyświetlane żadne komunikaty</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child3" xml:space="preserve">
+        <value>Jeśli tak, postępuj zgodnie z wyświetlanymi instrukcjami.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child1B" xml:space="preserve">
+        <value>Jeśli niedawno zainicjowałeś aktualizację, poczekaj przynajmniej 5 minut na MiND, aby ponownie zareagować.</value>
+    </data>
+    <data name="Diagnostic_Confirm" xml:space="preserve">
+        <value>Potwierdzać</value>
+    </data>
+    <data name="Diagnostic_AdvancedSearchTitle" xml:space="preserve">
+        <value>Przechodzę do zaawansowanego procesu wyszukiwania ...</value>
+    </data>
+    <data name="Diagnostic_MulticastSearch" xml:space="preserve">
+        <value>Sprawdzanie poprawności protokołu wyszukiwania MiND ...</value>
+    </data>
+    <data name="Diagnostic_MulticastSearchWorking" xml:space="preserve">
+        <value>Działa protokół wyszukiwania MiND</value>
+    </data>
+    <data name="Diagnostic_SpecificSearch" xml:space="preserve">
+        <value>Szukam MiND ...</value>
+    </data>
+    <data name="Diagnostic_SpecificSearchWorking" xml:space="preserve">
+        <value>Znaleźliśmy coś</value>
+    </data>
+    <data name="Diagnostic_SpecificSearchFailed" xml:space="preserve">
+        <value>Nie znaleźliśmy żadnego MiND w twojej sieci.</value>
+    </data>
+    <data name="Diagnostic_MulticastSearchNotWorking" xml:space="preserve">
+        <value>Nie można sprawdzić poprawności protokołu wyszukiwania MiND.</value>
+    </data>
+    <data name="Diagnostic_SpecificSearchNotWorking" xml:space="preserve">
+        <value>Zatwierdzono protokół wyszukiwania, ale nie znaleźliśmy żadnego MiND w sieci.</value>
+    </data>
+    <data name="Diagnostic_GoToNextStep" xml:space="preserve">
+        <value>Przejdź do następnego kroku</value>
+    </data>
+    <data name="Diagnostic_FailedTitle" xml:space="preserve">
+        <value>Nie możemy znaleźć Twojego MiND</value>
+    </data>
+    <data name="Diagnostic_FailedAdvice1" xml:space="preserve">
+        <value>Odłącz / podłącz kabel zasilający urządzenia i spróbuj ponownie.</value>
+    </data>
+    <data name="Diagnostic_FailedAdvice2" xml:space="preserve">
+        <value>Jeśli nie działa, spróbuj przywrócić ustawienia fabryczne urządzenia. Wskazówki można znaleźć w instrukcji obsługi.</value>
+    </data>
+    <data name="Diagnostic_ContactSimaudio" xml:space="preserve">
+        <value>Skontaktuj się z Simaudio</value>
+    </data>
+    <data name="Diagnostic_PingDescription" xml:space="preserve">
+        <value>Jeśli masz dostęp do adresu IP swojego {0}, wpisz go tutaj:</value>
+    </data>
+    <data name="Diagnostic_RequestName" xml:space="preserve">
+        <value>Nazwa: {0}</value>
+    </data>
+    <data name="Diagnostic_RequestModel" xml:space="preserve">
+        <value>Model: {0}</value>
+    </data>
+    <data name="Diagnostic_RequestType" xml:space="preserve">
+        <value>Wpisz: {0}</value>
+    </data>
+    <data name="Diagnostic_ConfirmTextWithMindType" xml:space="preserve">
+        <value>Wybierasz {0} za pomocą {1}.</value>
+    </data>
+    <data name="Diagnostic_ConfirmTextNoMindType" xml:space="preserve">
+        <value>Wybierasz {0}.</value>
+    </data>
+    <data name="Diagnostic_unknown" xml:space="preserve">
+        <value>nieznany</value>
+    </data>
+    <data name="Diagnostic_Connect" xml:space="preserve">
+        <value>Połączyć</value>
+    </data>
+    <data name="Diagnostic_ISeeDevice" xml:space="preserve">
+        <value>Jeśli zobaczysz {0}, wybierz go powyżej.</value>
+    </data>
+    <data name="Diagnostic_IdontSeeDevice" xml:space="preserve">
+        <value>Nie widzę tego</value>
+    </data>
+    <data name="Diagnostic_WrongIp" xml:space="preserve">
+        <value>Nie znaleźliśmy niczego z podanym adresem. Czy na pewno masz poprawny adres IP?</value>
+    </data>
+    <data name="Diagnostic_MaybeWrongIp" xml:space="preserve">
+        <value>Jeśli nie jest to urządzenie, którego szukasz, upewnij się, że podałeś poprawny adres IP przed ponowną próbą.</value>
+    </data>
+    <data name="Diagnostic_RequestResponseTitle" xml:space="preserve">
+        <value>Oto, co znaleźliśmy:</value>
+    </data>
+    <data name="VerificationConfirmation" xml:space="preserve">
+        <value>Zweryfikowałem</value>
+    </data>
+    <data name="Diagnostic_IDontHaveIp" xml:space="preserve">
+        <value>Nie mam dostępu do mojego adresu IP.</value>
+    </data>
+    <data name="AppInfo_ManualSearchTitle" xml:space="preserve">
+        <value>Wyszukiwanie ręczne</value>
+    </data>
+    <data name="AppInfo_ManualSearchContent" xml:space="preserve">
+        <value>Ręcznie wyszukaj MiND w sieci, jeśli masz adres IP.</value>
+    </data>
+    <data name="Diagnostic_Close" xml:space="preserve">
+        <value>Zamknij narzędzie diagnostyczne</value>
+    </data>
+    <data name="AppInfo_ReportBug" xml:space="preserve">
+        <value>Zgłoś błąd</value>
+    </data>
+    <data name="Diagnostic_FailedAdvice3" xml:space="preserve">
+        <value>Możesz również skontaktować się z Simaudio w celu uzyskania pomocy.</value>
+    </data>
+    <data name="Accessibility_DoubleTapToSelectHint" xml:space="preserve">
+        <value>Kliknij dwukrotnie, aby wybrać</value>
+    </data>
+    <data name="Accessibility_DoubleTapToShowDetailsHint" xml:space="preserve">
+        <value>Kliknij dwukrotnie, aby wyświetlić więcej szczegółów</value>
+    </data>
+    <data name="Accessibility_DoubleTapToCollapseDetailsHint" xml:space="preserve">
+        <value>Kliknij dwukrotnie, aby zwinąć szczegóły</value>
+    </data>
+    <data name="Accessibility_DoubleTapToFindDeviceByIpHint" xml:space="preserve">
+        <value>Kliknij dwukrotnie, aby znaleźć swoją jednostkę.</value>
+    </data>
+    <data name="Accessibility_DoubleTapToFindDeviceByIpDisabledHint" xml:space="preserve">
+        <value>Przycisk jednostki wyszukiwania w stanie wyłączonym. Wprowadź poprawny adres IP w odpowiednim polu tekstowym, aby go włączyć.</value>
+    </data>
+    <data name="Accessibility_IpAddressTextFieldHint" xml:space="preserve">
+        <value>Pole tekstowe adresu IP</value>
+    </data>
+    <data name="Accessibility_MqaEnabledHint" xml:space="preserve">
+        <value>MQA włączony</value>
+    </data>
+    <data name="Accessibility_StreamNotAvailableHint" xml:space="preserve">
+        <value>Strumień danych niedostępny</value>
+    </data>
+    <data name="Accessibility_TapOnConnectButtonHint" xml:space="preserve">
+        <value>Włączony przycisk połączenia. Kliknij dwukrotnie przycisk Połącz, aby nawiązać połączenie.</value>
+    </data>
+    <data name="Accessibility_DoubleTapToPlayHint" xml:space="preserve">
+        <value>Kliknij dwukrotnie, aby go odtworzyć.</value>
+    </data>
+    <data name="AppInfo_ReportBug_BetaTester" xml:space="preserve">
+        <value>Beta tester - Zgłoś błąd</value>
+    </data>
+    <data name="AppInfo_ReportBug_Detail" xml:space="preserve">
+        <value>Prześlij prośbę o pomoc do zespołu wsparcia.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child1B" xml:space="preserve">
+        <value>Obowiązkowe, jeśli chcesz użyć połączenia kablowego: wyłącz {0}. Podłącz kabel Ethernet. Włącz ponownie.</value>
+    </data>
+    <data name="PlayerControl_Global" xml:space="preserve">
+        <value>Światowy</value>
+    </data>
+    <data name="Airplay_Casting" xml:space="preserve">
+        <value>Gra z Airplay</value>
+    </data>
+    <data name="Settings_RestrictedByAirplay" xml:space="preserve">
+        <value>Twój MiND jest skonfigurowany jako akcesorium AirPlay. Dlatego do skonfigurowania MiND należy użyć aplikacji iOS Home.</value>
+    </data>
+    <data name="Settings_RestrictedByAirplayButAllowGoogleHome" xml:space="preserve">
+        <value>Twój MiND jest skonfigurowany jako akcesorium AirPlay. Dlatego do skonfigurowania MiND należy użyć aplikacji iOS Home lub Google Home.</value>
+    </data>
+    <data name="Settings_RestrictedByChromeCast" xml:space="preserve">
+        <value>Twój MiND jest akcesorium Chromecast. Dlatego do skonfigurowania MiND należy użyć aplikacji Google Home lub iOS Home.</value>
+    </data>
+    <data name="Settings_OpenGoogleHome" xml:space="preserve">
+        <value>Otwórz Google Home</value>
+    </data>
+    <data name="Settings_iOSHomeApp" xml:space="preserve">
+        <value>Aplikacja Home</value>
+    </data>
+    <data name="AppInfo_SubmitLogsTitle" xml:space="preserve">
+        <value>Prześlij dzienniki</value>
+    </data>
+    <data name="AppInfo_SubmitLogsContent" xml:space="preserve">
+        <value>Prześlij dzienniki z urządzenia mobilnego, jeśli wcześniej utworzyłeś zgłoszenie do pomocy technicznej.</value>
+    </data>
+    <data name="General_Email" xml:space="preserve">
+        <value>Twój email:</value>
+    </data>
+    <data name="SubmitLogs_TicketNumber" xml:space="preserve">
+        <value>Twój numer biletu:</value>
+    </data>
+    <data name="SubmitLogs_Success" xml:space="preserve">
+        <value>Dziękujemy za przesłanie dzienników. Zespół wsparcia skontaktuje się z Tobą jak najszybciej.</value>
+    </data>
+    <data name="SubmitLogs_EmailInvalid" xml:space="preserve">
+        <value>Proszę wpisać aktualny adres e-mail.</value>
+    </data>
+    <data name="SubmitLogs_TicketNumberInvalid" xml:space="preserve">
+        <value>Proszę podać numer biletu</value>
+    </data>
+    <data name="Accessibility_EmailTextFieldHint" xml:space="preserve">
+        <value>Pole tekstowe adresu e-mail</value>
+    </data>
+    <data name="Accessibility_TicketTextFieldHint" xml:space="preserve">
+        <value>Pole tekstowe numeru biletu.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child4" xml:space="preserve">
+        <value>Jeśli urządzenie wyświetla się jako nieskonfigurowane, przed użyciem tego narzędzia diagnostycznego należy użyć połączenia przewodowego.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child5" xml:space="preserve">
+        <value>Jeśli urządzenie wyświetla się jako nieskonfigurowane, przed użyciem tego narzędzia diagnostycznego należy użyć połączenia przewodowego lub użyć ekranu {0} do skonfigurowania połączenia sieciowego.</value>
+    </data>
+    <data name="Settings_TooManyFailedAttemptsUnconfigured" xml:space="preserve">
+        <value>Wygląda na to, że Twoje urządzenie ma problemy z połączeniem za pomocą Bluetooth. Zalecamy zbliżenie się do urządzenia MiND i spróbuj ponownie lub użyć połączenia przewodowego do skonfigurowania połączenia sieciowego.</value>
+    </data>
+    <data name="Settings_TooManyFailedAttempts" xml:space="preserve">
+        <value>Wygląda na to, że Twoje urządzenie ma problemy z połączeniem. Zalecamy korzystanie z połączenia przewodowego lub wyłącz i włącz urządzenie MiND.</value>
+    </data>
+    <data name="General_SortBy" xml:space="preserve">
+        <value>Sortuj według :</value>
+    </data>
+    <data name="General_Finish" xml:space="preserve">
+        <value>koniec</value>
+    </data>
+    <data name="AppInfo_ReviewTutorialTitle" xml:space="preserve">
+        <value>Samouczek aplikacji</value>
+    </data>
+    <data name="AppInfo_ReviewTutorialLabel" xml:space="preserve">
+        <value>Kliknij tutaj, aby przejrzeć samouczek aplikacji.</value>
+    </data>
+    <data name="AppInfo_ReviewNewFeaturesTitle" xml:space="preserve">
+        <value>Najnowsze funkcje aplikacji</value>
+    </data>
+    <data name="AppInfo_ReviewNewFeaturesLabel" xml:space="preserve">
+        <value>Kliknij tutaj, aby przejrzeć najnowsze funkcje aplikacji.</value>
+    </data>
+    <data name="AppInfo_AppGuideTitle" xml:space="preserve">
+        <value>Przewodnik po aplikacjach</value>
+    </data>
+    <data name="Reconnect_Level1" xml:space="preserve">
+        <value>Próbujemy ponownie połączyć się z urządzeniem MiND.</value>
+    </data>
+    <data name="Reconnect_Level2" xml:space="preserve">
+        <value>Ponowne połączenie trwa dłużej niż zwykle. Prosimy o cierpliwość.</value>
+    </data>
+    <data name="Reconnect_UnableConnect" xml:space="preserve">
+        <value>Nie możemy ponownie połączyć się z urządzeniem MiND.</value>
+    </data>
+    <data name="Reconnect_UnableSync" xml:space="preserve">
+        <value>Nie jesteśmy w stanie zsynchronizować właściwości urządzenia MiND.</value>
+    </data>
+    <data name="General_Sample" xml:space="preserve">
+        <value>PRÓBA</value>
+    </data>
+    <data name="Library_History" xml:space="preserve">
+        <value>Historia nawigacji</value>
+    </data>
+    <data name="Library_HistoryWithTitle" xml:space="preserve">
+        <value>Historia nawigacji dla {0}</value>
+    </data>
+    <data name="General_Filter" xml:space="preserve">
+        <value>Filtr</value>
+    </data>
+    <data name="AppInfo_Orientation" xml:space="preserve">
+        <value>Ulubiona orientacja</value>
+    </data>
+    <data name="AppInfo_Landscape" xml:space="preserve">
+        <value>Krajobraz</value>
+    </data>
+    <data name="AppInfo_Portrait" xml:space="preserve">
+        <value>Portret</value>
+    </data>
+    <data name="AppInfo_Default" xml:space="preserve">
+        <value>Domyślna</value>
+    </data>
+    <data name="SortLabelValue" xml:space="preserve">
+        <value>Sortować</value>
+    </data>
+    <data name="Accessibility_HistoryLabel" xml:space="preserve">
+        <value>Przycisk Historia</value>
+    </data>
+    <data name="Accessibility_HistoryHint" xml:space="preserve">
+        <value>Wróć do określonego widoku</value>
+    </data>
+    <data name="PlayAll" xml:space="preserve">
+        <value>Odtwórz wszystko</value>
+    </data>
+    <data name="QueueAll" xml:space="preserve">
+        <value>Ustaw w kolejce wszystko</value>
+    </data>
+    <data name="Accessibility_PlayAll" xml:space="preserve">
+        <value>Odtwórz wszystko przycisk</value>
+    </data>
+    <data name="Accessibility_QueueAll" xml:space="preserve">
+        <value>Przycisk kolejki wszystkich</value>
+    </data>
+    <data name="PlaySelectedTracks" xml:space="preserve">
+        <value>Grać</value>
+    </data>
+    <data name="QueueSelectedTracks" xml:space="preserve">
+        <value>Kolejka</value>
+    </data>
+    <data name="Accessibility_PlaySelectedTracks" xml:space="preserve">
+        <value>Przycisk Odtwórz wybrane utwory</value>
+    </data>
+    <data name="Accessibility_QueueSelectedTracks" xml:space="preserve">
+        <value>Przycisk kolejkowania wybranych utworów</value>
+    </data>
+    <data name="PlaySelectedTracksDescription" xml:space="preserve">
+        <value>Wybierz poniższe opcje, aby odtwarzać tylko wybrane utwory, lub odznacz, aby odtwarzać wszystkie</value>
+    </data>
+    <data name="OpenSpotifyApp" xml:space="preserve">
+        <value>Otwórz aplikację Spotify</value>
+    </data>
+    <data name="GetSpotifyFree" xml:space="preserve">
+        <value>Pobierz Spotify Free</value>
+    </data>
+    <data name="SpotifyPlaybackOptions" xml:space="preserve">
+        <value>opcje odtwarzania</value>
+    </data>
+    <data name="ConnectedAs" xml:space="preserve">
+        <value>Połączono jako {0}</value>
+    </data>
+    <data name="ResumePlayback" xml:space="preserve">
+        <value>Wznowić odtwarzanie</value>
+    </data>
+    <data name="SpotifyHelpTitle" xml:space="preserve">
+        <value>Chcesz posłuchać muzyki?</value>
+    </data>
+    <data name="SpotifyHelpDetails" xml:space="preserve">
+        <value>Odtwórz muzykę na swoich głośnikach, wykorzystując aplikację Spotify jako pilota.</value>
+    </data>
+    <data name="SpotifyLearnMore" xml:space="preserve">
+        <value>Dowiedz się więcej</value>
+    </data>
+    <data name="SpotifyUserNotLoggedIn" xml:space="preserve">
+        <value>Użytkownik nie jest zalogowany.</value>
+    </data>
+    <data name="SpotifyNotSupported" xml:space="preserve">
+        <value>Spotify nie jest obsługiwane.</value>
+    </data>
+    <data name="PlaybackOptionPlayQueue" xml:space="preserve">
+        <value>Zagraj w kolejkę MiND</value>
+    </data>
+    <data name="ServiceVolumeControl" xml:space="preserve">
+        <value>Głośność {0}</value>
+    </data>
+    <data name="Multiroom" xml:space="preserve">
+        <value>Pokój wieloosobowy</value>
+    </data>
+    <data name="CheckPermissionLabel" xml:space="preserve">
+        <value>Sprawdź uprawnienia</value>
+    </data>
+    <data name="CheckPermissionDescription" xml:space="preserve">
+        <value>Aplikacja MiND nie ma uprawnień dostępu do sieci lokalnej. To uprawnienie jest wymagane do wykrywania urządzeń MiND i serwerów UPnP w Twojej sieci.</value>
+    </data>
+    <data name="Diagnostic_AppPermission" xml:space="preserve">
+        <value>Upewnij się, że aplikacja MiND ma uprawnienia iOS do dostępu do pobliskich urządzeń.</value>
+    </data>
+    <data name="Diagnostic_AppPermissionLocalNetwork" xml:space="preserve">
+        <value>Możesz przyznać uprawnienia do sieci lokalnej aplikacji MiND z poziomu ustawień urządzenia Apple -&gt; MiND.</value>
+    </data>
+    <data name="Diagnostic_AppPermissionBluetooth" xml:space="preserve">
+        <value>Jeśli urządzenie {0} nie jest podłączone do sieci Ethernet ani skonfigurowane w sieci Wi-Fi, przyznaj uprawnienia Bluetooth aplikacji MiND w ustawieniach urządzenia Apple -&gt; MiND, a następnie włącz Bluetooth i uruchom ponownie aplikację.</value>
+    </data>
+    <data name="Discovery_NoMiNDFound_iOS14" xml:space="preserve">
+        <value>Upewnij się, że Twoje urządzenie MOON jest zasilane i podłączone do sieci. Sprawdź również, czy aplikacja MiND ma uprawnienia dostępu do sieci lokalnej i Bluetooth w ustawieniach iOS.</value>
+    </data>
+    <data name="ToContinue" xml:space="preserve">
+        <value>Naciśnij [ok], aby kontynuować.</value>
+    </data>
+    <data name="ToDropConnection" xml:space="preserve">
+        <value>Naciśnij [anuluj], aby przerwać bieżące połączenie.</value>
+    </data>
+    <data name="MiND_ConnexionProgressMessage" xml:space="preserve">
+        <value>Łączenie z MiND...</value>
+    </data>
+    <data name="Identifier" xml:space="preserve">
+        <value>ID</value>
+    </data>
+    <data name="SpotifyFriendlyName" xml:space="preserve">
+        <value>Spotify</value>
+    </data>
+    <data name="MaxCharacter" xml:space="preserve">
+        <value>Maksymalnie {0} znaków</value>
+    </data>
+    <data name="Network_WifiTestTitle" xml:space="preserve">
+        <value>Przetestuj Wi-Fi</value>
+    </data>
+    <data name="Network_WifiTest" xml:space="preserve">
+        <value>Przetestuj hasło Wi-Fi</value>
+    </data>
+    <data name="Success" xml:space="preserve">
+        <value>Sukces</value>
+    </data>
+    <data name="Failure" xml:space="preserve">
+        <value>Niepowodzenie</value>
+    </data>
+    <data name="Reset" xml:space="preserve">
+        <value>Resetowanie</value>
+    </data>
+    <data name="Test" xml:space="preserve">
+        <value>Test</value>
+    </data>
+    <data name="Network_WifiTestMessage" xml:space="preserve">
+        <value>Wygląda na to, że ten test wcześniej się powiódł. Aby spróbować ponownie, testowana konfiguracja Wi-Fi musi zostać zresetowana na urządzeniu mobilnym. Należy pamiętać, że w przypadku niepowodzenia, jeśli hasło jest błędne, urządzenie mobilne może zostać odłączone od testowanego Wi-Fi.</value>
+    </data>
+    <data name="Automatic" xml:space="preserve">
+        <value>Automatyczny</value>
+    </data>
+    <data name="Manual" xml:space="preserve">
+        <value>Manuel</value>
+    </data>
+    <data name="Settings_DataSection" xml:space="preserve">
+        <value>Dane</value>
+    </data>
+    <data name="Settings_DataSyncLabel" xml:space="preserve">
+        <value>Synchronizuj dane</value>
+    </data>
+    <data name="Settings_DataSyncValue" xml:space="preserve">
+        <value>Załaduj zapisane listy odtwarzania do bazy danych w chmurze</value>
+    </data>
+    <data name="Settings_PersonalizationSection" xml:space="preserve">
+        <value>Personalizacja</value>
+    </data>
+    <data name="DeviceId" xml:space="preserve">
+        <value>Identyfikator urzadzenia</value>
+    </data>
+    <data name="Secret" xml:space="preserve">
+        <value>Sekret</value>
+    </data>
+    <data name="TracksCount" xml:space="preserve">
+        <value>Liczba utworów</value>
+    </data>
+    <data name="FirebaseAuthError" xml:space="preserve">
+        <value>Dane w chmurze niedostępne</value>
+    </data>
+    <data name="Download" xml:space="preserve">
+        <value>Ściągnij</value>
+    </data>
+    <data name="BugReportFormSupportRequest" xml:space="preserve">
+        <value>Żądanie wsparcia</value>
+    </data>
+    <data name="BugReportFormNamePlaceholder" xml:space="preserve">
+        <value>Twoje imię</value>
+    </data>
+    <data name="BugReportFormEmailPlaceholder" xml:space="preserve">
+        <value>Twój email</value>
+    </data>
+    <data name="BugReportFormConfirmEmailPlaceholder" xml:space="preserve">
+        <value>Potwierdzenie email</value>
+    </data>
+    <data name="BugReportFormSubjectPlaceholder" xml:space="preserve">
+        <value>Temat zapytania</value>
+    </data>
+    <data name="CountryCanada" xml:space="preserve">
+        <value>Kanada</value>
+    </data>
+    <data name="CountryUSA" xml:space="preserve">
+        <value>USA</value>
+    </data>
+    <data name="Country" xml:space="preserve">
+        <value>Kraj</value>
+    </data>
+    <data name="Name" xml:space="preserve">
+        <value>Nazwa</value>
+    </data>
+    <data name="Email" xml:space="preserve">
+        <value>E-mail</value>
+    </data>
+    <data name="Subject" xml:space="preserve">
+        <value>Temat</value>
+    </data>
+    <data name="Message" xml:space="preserve">
+        <value>Wiadomość</value>
+    </data>
+    <data name="BugReportFormDescribeYourBug" xml:space="preserve">
+        <value>Opisz swój błąd</value>
+    </data>
+    <data name="Attachment" xml:space="preserve">
+        <value>Załącznik</value>
+    </data>
+    <data name="BugReportFormAttachment" xml:space="preserve">
+        <value>Wyślij nam zrzut ekranu swojego błędu, jeśli możesz</value>
+    </data>
+    <data name="BugReportFormSubjectEmptyError" xml:space="preserve">
+        <value>Temat zapytania nie powinien być pusty</value>
+    </data>
+    <data name="BugReportFormSubmitSuccessTitle" xml:space="preserve">
+        <value>Dziękuję Ci!</value>
+    </data>
+    <data name="BugReportFormSubmitSuccessMessage" xml:space="preserve">
+        <value>Dziękujemy za zgłoszenie błędu do aplikacji MiND</value>
+    </data>
+    <data name="BugReportFormEmailEmptyError" xml:space="preserve">
+        <value>Adres e-mail nie może być pusty</value>
+    </data>
+    <data name="BugReportFormNameEmptyError" xml:space="preserve">
+        <value>Twoje imię nie powinno być puste</value>
+    </data>
+    <data name="BugReportFormDescriptionEmptyError" xml:space="preserve">
+        <value>Opis błędu nie powinien być pusty</value>
+    </data>
+    <data name="BugReportFormEmailWrongValueError" xml:space="preserve">
+        <value>Adres e-mail powinien mieć prawidłowy format</value>
+    </data>
+    <data name="BugReportFormSubjectWrongValueError" xml:space="preserve">
+        <value>Nazwa błędu powinna być tekstem</value>
+    </data>
+    <data name="BugReportFormDescriptionWrongValueError" xml:space="preserve">
+        <value>Opis błędu powinien być tekstem</value>
+    </data>
+    <data name="BugReportFormUploadError" xml:space="preserve">
+        <value>Twoje pliki są za duże. Maksymalny rozmiar przesyłanego pliku to 20 MB</value>
+    </data>
+    <data name="BugReportFormEmailConfirmError" xml:space="preserve">
+        <value>Potwierdzenie e-maila nie zgadza się z podanym adresem e-mail</value>
+    </data>
+    <data name="Settings_Diagnostic" xml:space="preserve">
+        <value>Diagnostyczny</value>
+    </data>
+    <data name="Send" xml:space="preserve">
+        <value>Wysłać</value>
+    </data>
+    <data name="MobileDeviceModel" xml:space="preserve">
+        <value>Model urządzenia mobilnego</value>
+    </data>
+    <data name="OSVersion" xml:space="preserve">
+        <value>Wersja OS</value>
+    </data>
+    <data name="AppVersion" xml:space="preserve">
+        <value>Wersja aplikacji</value>
+    </data>
+    <data name="Required" xml:space="preserve">
+        <value>Wymagany</value>
+    </data>
+    <data name="AdditionalInfoSent" xml:space="preserve">
+        <value>Wysłane dodatkowe informacje</value>
+    </data>
+    <data name="ImageCount" xml:space="preserve">
+        <value>Liczba zdjęć</value>
+    </data>
+    <data name="BugReportFormSubmitErrorDefaultTitle" xml:space="preserve">
+        <value>Nieoczekiwany błąd</value>
+    </data>
+    <data name="BugReportFormSubmitErrorDefaultMessage" xml:space="preserve">
+        <value>Spróbuj ponownie później</value>
+    </data>
+    <data name="BugReportFormSubmitError404Title" xml:space="preserve">
+        <value>Błąd 404</value>
+    </data>
+    <data name="BugReportFormSubmitError404Message" xml:space="preserve">
+        <value>Nie znaleźliśmy tego, czego szukałeś</value>
+    </data>
+    <data name="BugReportFormSubmitErrorInternalTitle" xml:space="preserve">
+        <value>Błąd 500</value>
+    </data>
+    <data name="BugReportFormSubmitErrorInternalMessage" xml:space="preserve">
+        <value>Coś poszło nie tak po naszej stronie, spróbuj ponownie później</value>
+    </data>
+    <data name="Language_Thai" xml:space="preserve">
+        <value>TH - Tajski</value>
+    </data>
+    <data name="UploadPlaylistsButton" xml:space="preserve">
+        <value>Wgrywać</value>
+    </data>
+    <data name="TodayAppCompatibility" xml:space="preserve">
+        <value>Przestarzały na iOS14+</value>
+    </data>
+    <data name="UndefinedValueHint" xml:space="preserve">
+        <value>Nieokreślony. Aby przełączyć tryb edycji, dotknij przycisku ołówka.</value>
+    </data>
+    <data name="Undefined" xml:space="preserve">
+        <value>Nieokreślony</value>
+    </data>
+    <data name="AppleMusicCompatibility" xml:space="preserve">
+        <value>Należy pamiętać, że MOON nie może już zagwarantować kompatybilności plików przechowywanych na urządzeniu mobilnym z kontrolerem MiND. Kiedy iTunes został zastąpiony przez Apple Music, ta funkcja stała się przestarzała.</value>
+    </data>
+    <data name="DeprecatedMessage" xml:space="preserve">
+        <value>Nie możemy już zagwarantować kompatybilności tej funkcji.</value>
+    </data>
+    <data name="Enable" xml:space="preserve">
+        <value>Włączać</value>
+    </data>
+    <data name="AppleMusicAlternative" xml:space="preserve">
+        <value>Możesz kontynuować odtwarzanie tych plików w aplikacji Music. Audio od Music może być przekazywane do MiND przez AirPlay, USB lub Bluetooth, w zależności od modelu.</value>
+    </data>
+    <data name="AppleMusicOptions" xml:space="preserve">
+        <value>Jeśli włączysz tę funkcję, to ostrzeżenie nie będzie już wyświetlane. Jeśli usuniesz tę funkcję, nie będzie ona dostępna, następnym razem, gdy załadujesz strefę MiND na tym urządzeniu mobilnym.</value>
+    </data>
+    <data name="NetworkErrorWrongPassword" xml:space="preserve">
+        <value>Nieprawidłowe hasło</value>
+    </data>
+    <data name="NetworkErrorPasswordLength" xml:space="preserve">
+        <value>Przekroczono długość hasła lub klucza</value>
+    </data>
+    <data name="BluetoothError" xml:space="preserve">
+        <value>Błąd Bluetootha</value>
+    </data>
+    <data name="RestartApp" xml:space="preserve">
+        <value>Proszę ponownie uruchomić aplikację</value>
+    </data>
+    <data name="AreYouSure" xml:space="preserve">
+        <value>Jesteś pewny?</value>
+    </data>
+    <data name="Visibility" xml:space="preserve">
+        <value>Widoczność</value>
+    </data>
+    <data name="PrivateDescriptionOff" xml:space="preserve">
+        <value>Widoczne dla innych użytkowników</value>
+    </data>
+    <data name="MayChangePlaylistName" xml:space="preserve">
+        <value>Możesz zmienić tytuł swojej listy odtwarzania!</value>
+    </data>
+    <data name="NotAuthenticatedToTheCloud" xml:space="preserve">
+        <value>Nie jesteś uwierzytelniony w chmurze!</value>
+    </data>
+    <data name="SyncingPlaylistsWithCloud" xml:space="preserve">
+        <value>Synchronizowanie list odtwarzania z chmurą...</value>
+    </data>
+    <data name="SyncingPlaylistsWithCloudSucceed" xml:space="preserve">
+        <value>Listy odtwarzania zostały pomyślnie zsynchronizowane z chmurą</value>
+    </data>
+    <data name="SelectPicture" xml:space="preserve">
+        <value>Wybierz obraz</value>
+    </data>
+    <data name="MissingArguments" xml:space="preserve">
+        <value>Brakujące argumenty</value>
+    </data>
+    <data name="Tracks" xml:space="preserve">
+        <value>Utwory</value>
+    </data>
+    <data name="NoPlaylists" xml:space="preserve">
+        <value>Nie masz żadnych list odtwarzania</value>
+    </data>
+    <data name="MyPlaylists" xml:space="preserve">
+        <value>Moje listy odtwarzania</value>
+    </data>
+    <data name="DeletePlaylist" xml:space="preserve">
+        <value>Usuń listę odtwarzania</value>
+    </data>
+    <data name="PlaylistDeletedSuccessfully" xml:space="preserve">
+        <value>Lista odtwarzania została pomyślnie usunięta!</value>
+    </data>
+    <data name="PlaylistSyncedSuccessfully" xml:space="preserve">
+        <value>Lista odtwarzania została pomyślnie zsynchronizowana!</value>
+    </data>
+    <data name="PlaylistClonedSuccessfully" xml:space="preserve">
+        <value>Lista odtwarzania została pomyślnie sklonowana!</value>
+    </data>
+    <data name="PlaylistUpdatedSuccessfully" xml:space="preserve">
+        <value>Lista odtwarzania została pomyślnie zaktualizowana!</value>
+    </data>
+    <data name="PlaylistNotFound" xml:space="preserve">
+        <value>Nie znaleziono listy odtwarzania!</value>
+    </data>
+    <data name="ClonePlaylist" xml:space="preserve">
+        <value>Sklonuj listę odtwarzania</value>
+    </data>
+    <data name="Clone" xml:space="preserve">
+        <value>Sklonować</value>
+    </data>
+    <data name="IsUpToDate" xml:space="preserve">
+        <value>Jest aktualne</value>
+    </data>
+    <data name="Administrators" xml:space="preserve">
+        <value>Administratorzy</value>
+    </data>
+    <data name="AdminDevices" xml:space="preserve">
+        <value>Urządzenia administratora (UUID-y)</value>
+    </data>
+    <data name="EditPlaylist" xml:space="preserve">
+        <value>Edytuj playlistę</value>
+    </data>
+    <data name="EditPlaylistDescription" xml:space="preserve">
+        <value>Jeśli chcesz edytować tę listę odtwarzania, musisz ją skopiować</value>
+    </data>
+    <data name="MakeCopy" xml:space="preserve">
+        <value>Utwórz kopię</value>
+    </data>
+    <data name="SavePlaylist" xml:space="preserve">
+        <value>Zapisz playlistę</value>
+    </data>
+    <data name="DeleteTrack" xml:space="preserve">
+        <value>Usuń utwór</value>
+    </data>
+    <data name="NetworkWarningDhcpIsOff" xml:space="preserve">
+        <value>DHCP jest wyłączone.</value>
+    </data>
+    <data name="FileSorting" xml:space="preserve">
+        <value>Sortowanie plików</value>
+    </data>
+    <data name="MediaServer" xml:space="preserve">
+        <value>Serwer mediów</value>
+    </data>
+    <data name="Expand" xml:space="preserve">
+        <value>Zwiększać</value>
+    </data>
+    <data name="ContactMOONSupport" xml:space="preserve">
+        <value>Skontaktuj się z pomocą techniczną MOON </value>
+    </data>
+    <data name="ContactMOONSupportDesc" xml:space="preserve">
+        <value>Jak możemy być pomocni?</value>
+    </data>
+    <data name="ContactMOONSupportDetails" xml:space="preserve">
+        <value>Skontaktuj się z zespołem wsparcia MOON </value>
+    </data>
+    <data name="ContactMOONSupportSubDesc" xml:space="preserve">
+        <value>Prześlij swoje dane, aby uzyskać pomoc</value>
+    </data>
+    <data name="IncludeOthersPlaylists" xml:space="preserve">
+        <value>Dołącz playlisty innych osób</value>
+    </data>
+    <data name="AttachMyLogs" xml:space="preserve">
+        <value>Załącz mój plik logów</value>
+    </data>
+    <data name="AttachMyLogsDescription" xml:space="preserve">
+        <value>Pomóż nam szybko rozwiązać problem, załączając plik dziennika</value>
+    </data>
+    <data name="CloudAutoSyncTitle" xml:space="preserve">
+        <value>Automatyczna synchronizacja</value>
+    </data>
+    <data name="CloudMobileName" xml:space="preserve">
+        <value>Nazwa urządzenia mobilnego</value>
+    </data>
+    <data name="CloudMobilesHubDescription" xml:space="preserve">
+        <value>Włącz łącze urządzeń do synchronizacji danych</value>
+    </data>
+    <data name="CloudMobilesHubTitle" xml:space="preserve">
+        <value>Centrum urządzeń mobilnych</value>
+    </data>
+    <data name="CloudItemToUpload" xml:space="preserve">
+        <value>Do przesłania na dane w chmurze</value>
+    </data>
+    <data name="CloudItemToDownload" xml:space="preserve">
+        <value>Do pobrania z danych w chmurze</value>
+    </data>
+    <data name="CloudItemSynced" xml:space="preserve">
+        <value>Zsynchronizowany</value>
+    </data>
+    <data name="PrivateTitle" xml:space="preserve">
+        <value>Prywatny</value>
+    </data>
+    <data name="PrivateDescriptionOn" xml:space="preserve">
+        <value>Niewidoczne dla innych użytkowników w mojej sieci</value>
+    </data>
+    <data name="CloudAutoSyncMessage" xml:space="preserve">
+        <value>Automatycznie przesyłaj i pobieraj zmiany w zapisanych listach odtwarzania w chmurze. Możesz zmienić tę konfigurację w dowolnym momencie w Ustawieniach Biblioteki.</value>
+    </data>
+    <data name="VisibilityDescriptionOff" xml:space="preserve">
+        <value>Niewidoczne na liście</value>
+    </data>
+    <data name="AutoDetectedCountry" xml:space="preserve">
+        <value>Kraj wykryty automatycznie</value>
+    </data>
+    <data name="BluetoothFailed" xml:space="preserve">
+        <value>Spróbuj wyłączyć i ponownie włączyć Bluetooth na tym urządzeniu mobilnym</value>
+    </data>
+    <data name="VisibleDescriptionOff" xml:space="preserve">
+        <value>Niewidoczne na liście</value>
+    </data>
+    <data name="MiND_AppIsOff" xml:space="preserve">
+        <value>Aplikacja MiND nie jest włączona</value>
+    </data>
+    <data name="TrackAddedSuccess" xml:space="preserve">
+        <value>Utwór został pomyślnie dodany do Twojej listy odtwarzania!!</value>
+    </data>
+    <data name="TrackAlreadyInPlaylist" xml:space="preserve">
+        <value>Ten utwór jest już na Twojej liście odtwarzania.</value>
+    </data>
+    <data name="Player_AddToMyPlaylists" xml:space="preserve">
+        <value>Dodaj do moich zapisanych list odtwarzania</value>
+    </data>
+    <data name="SharedPlaylists" xml:space="preserve">
+        <value>Udostępnione listy odtwarzania</value>
+    </data>
+    <data name="Language_TraditionalChinese" xml:space="preserve">
+        <value>ZHO – chiński tradycyjny</value>
+    </data>
+    <data name="NotificationUserDescription" xml:space="preserve">
+        <value>Powiadomienia umożliwią użytkownikowi otrzymywanie komunikatów i aktualizacji.</value>
+    </data>
+    <data name="NearbyDevices" xml:space="preserve">
+        <value>Urządzenia w pobliżu</value>
+    </data>
+    <data name="IsPlaylistPublic" xml:space="preserve">
+        <value>Czy ta playlista jest publiczna?</value>
+    </data>
+    <data name="ClearAll" xml:space="preserve">
+        <value>Wyczyść wszystko</value>
+    </data>
+    <data name="WifiResetHint" xml:space="preserve">
+        <value>Wyłącz i włącz Internet na swoim urządzeniu mobilnym.</value>
+    </data>
+    <data name="Messaging" xml:space="preserve">
+        <value>Wiadomości</value>
+    </data>
+    <data name="MessagingDescription" xml:space="preserve">
+        <value>Zezwól swojemu urządzeniu mobilnemu na otrzymywanie powiadomień tekstowych.</value>
+    </data>
+    <data name="MessagingAppAndFirmware" xml:space="preserve">
+        <value>Powiadomienia o aktualizacjach oprogramowania i aplikacji</value>
+    </data>
+    <data name="MessagingNews" xml:space="preserve">
+        <value>Powiadomienia o nowościach</value>
+    </data>
+    <data name="Enabled" xml:space="preserve">
+        <value>Włączony</value>
+    </data>
+    <data name="Disabled" xml:space="preserve">
+        <value>Wyłączony</value>
+    </data>
+    <data name="CloudPlaylistsDescription" xml:space="preserve">
+        <value>Łączy w chmurze danych listy zapisane na Twoim urządzeniu i te powiązane z Twoim urządzeniem.</value>
+    </data>
+</root>

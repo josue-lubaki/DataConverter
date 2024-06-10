@@ -1,0 +1,2002 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>2.0</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    
+    <data name="Language_Default" xml:space="preserve">
+        <value>장치의 언어</value>
+    </data>  
+    <data name="Language_English" xml:space="preserve">
+        <value>EN - 영어</value>
+    </data>
+    <data name="Language_German" xml:space="preserve">
+        <value>DE - 독일 사람</value>
+    </data>
+    <data name="Language_Espagnol" xml:space="preserve">
+        <value>ES - 스페인의</value>
+    </data>
+    <data name="Language_French" xml:space="preserve">
+        <value>FR - 프랑스 국민</value>
+    </data>
+    <data name="Language_Japanese" xml:space="preserve">
+        <value>JA - 일본어</value>
+    </data>
+    <data name="Language_Korean" xml:space="preserve">
+        <value>KO - 한국어</value>
+    </data>
+    <data name="Language_Dutch" xml:space="preserve">
+        <value>NL - 네덜란드 사람</value>
+    </data>
+    <data name="Language_Polish" xml:space="preserve">
+        <value>PL - 광택</value>
+    </data>
+    <data name="Language_Chinese" xml:space="preserve">
+        <value>ZH - 중국말</value>
+    </data>
+    
+    <data name="Browser_Missing" xml:space="preserve">
+        <value>웹 페이지를 열 수있는 브라우저가 없습니다.</value>
+    </data>
+    <data name="PlaylistCategory_SavedPlaylists" xml:space="preserve">
+        <value>저장된 재생 목록</value>
+    </data>
+    <data name="PlaylistCategory_WebRadio" xml:space="preserve">
+        <value>웹 라디오</value>
+    </data>
+    <data name="PlaylistCategory_MusicService" xml:space="preserve">
+        <value>음악 서비스</value>
+    </data>
+    <data name="PlaylistCategory_UPnP" xml:space="preserve">
+        <value>UPnP 미디어 서버</value>
+    </data>
+    <data name="PlaylistCategory_MediaStorage" xml:space="preserve">
+        <value>미디어 저장소</value>
+    </data>
+    <data name="USB" xml:space="preserve">
+        <value>USB</value>
+    </data>
+    <data name="Library_ConnectionFailed" xml:space="preserve">
+        <value>루트 메뉴를 가져올 수 없습니다.</value>
+    </data>
+    <data name="Library_Item_Count" xml:space="preserve">
+        <value>{1} 중 {0}</value>
+    </data>
+    <data name="General_Loading" xml:space="preserve">
+        <value>로드 중</value>
+    </data>
+    <data name="General_Cancel" xml:space="preserve">
+        <value>취소</value>
+    </data>
+    <data name="Playlists_PlaylistsTitle" xml:space="preserve">
+        <value>재생 목록</value>
+    </data>
+    <data name="General_Error" xml:space="preserve">
+        <value>오류</value>
+    </data>
+    <data name="General_ErrorMessage" xml:space="preserve">
+        <value>작업을 수행 할 수 없습니다.</value>
+    </data>
+    <data name="General_LoadingError" xml:space="preserve">
+        <value>정보를로드 할 수 없습니다.</value>
+    </data>
+    <data name="Specific_LoadingError" xml:space="preserve">
+        <value>{0}을 (를)로드 할 수 없습니다.</value>
+    </data>
+    <data name="General_Ok" xml:space="preserve">
+        <value>승인</value>
+    </data>
+    <data name="Playlists_DeletePlaylistTitle" xml:space="preserve">
+        <value>재생 목록 삭제</value>
+    </data>
+    <data name="Playlists_DeletePlaylistConfirmation" xml:space="preserve">
+        <value>이 재생 목록을 삭제 하시겠습니까?</value>
+    </data>
+    <data name="AddTrack_TopButton" xml:space="preserve">
+        <value>상단</value>
+    </data>
+    <data name="AddTrack_NextButton" xml:space="preserve">
+        <value>다음 것</value>
+    </data>
+    <data name="AddTrack_EndButton" xml:space="preserve">
+        <value>종료</value>
+    </data>
+    <data name="AddTrack_ReplaceButton" xml:space="preserve">
+        <value>바꾸다</value>
+    </data>
+    <data name="AddTrack_Title" xml:space="preserve">
+        <value>트랙 추가 ...</value>
+    </data>
+    <data name="AddTrack_WorkingTitle" xml:space="preserve">
+        <value>일</value>
+    </data>
+    <data name="AddTrack_AddingTracksToQueue" xml:space="preserve">
+        <value>대기열에 트랙 추가하기. 기다려주십시오.</value>
+    </data>
+    <data name="General_ErrorBrowsing" xml:space="preserve">
+        <value>찾아보기 오류</value>
+    </data>
+    <data name="AddTrack_EmptyDirectory" xml:space="preserve">
+        <value>사용할 수있는 콘텐츠가 없습니다.</value>
+    </data>
+    <data name="Input_Title" xml:space="preserve">
+        <value>투입물</value>
+    </data>
+    <data name="Input_LoadingError" xml:space="preserve">
+        <value>입력을로드하는 중 오류가 발생했습니다.</value>
+    </data>
+    <data name="Input_ModificationError" xml:space="preserve">
+        <value>입력을 변경할 때 오류가 발생했습니다.</value>
+    </data>
+    <data name="Library_Title" xml:space="preserve">
+        <value>도서관</value>
+    </data>
+    <data name="General_ConnectionLostTitle" xml:space="preserve">
+        <value>연결이 끊어졌습니다.</value>
+    </data>
+    <data name="General_ConnectionLostMessage" xml:space="preserve">
+        <value>죄송합니다. 기기와의 연결이 끊어졌습니다. 다시 연결 해보십시오.</value>
+    </data>
+    <data name="Zones_Title" xml:space="preserve">
+        <value>구역</value>
+    </data>
+    <data name="Settings_SettingsSavedTitle" xml:space="preserve">
+        <value>설정이 저장되었습니다</value>
+    </data>
+    <data name="Settings_SettingsSavedMessage" xml:space="preserve">
+        <value>새 설정이 저장되었습니다. MiND가 존 영역에 다시 나타납니다.</value>
+    </data>
+    <data name="Settings_UnconfiguredMindMessage" xml:space="preserve">
+        <value>이 미드는 아직 구성되지 않았습니다. 모든 기능을 즐길 수 있도록 네트워크 설정을 구성하십시오.</value>
+    </data>
+    <data name="Settings_ConfigureButton" xml:space="preserve">
+        <value>구성</value>
+    </data>
+    <data name="General_0_Items" xml:space="preserve">
+        <value>{0} 항목</value>
+    </data>
+    <data name="General_0_Item" xml:space="preserve">
+        <value>{0} 항목</value>
+    </data>
+    <data name="AddTrack_More" xml:space="preserve">
+        <value>더...</value>
+    </data>
+    <data name="Queue_Title" xml:space="preserve">
+        <value>열</value>
+    </data>
+    <data name="Queue_Track_Paused" xml:space="preserve">
+        <value>일시 중지됨</value>
+    </data>
+    <data name="Queue_Track_Playing" xml:space="preserve">
+        <value>연주하기</value>
+    </data>
+    <data name="Queue_Track_Stopped" xml:space="preserve">
+        <value>멈춘</value>
+    </data>
+    <data name="Queue_Track_Index" xml:space="preserve">
+        <value>{1} 중 {0}</value>
+    </data>
+    <data name="Queue_Track" xml:space="preserve">
+        <value>{0} 트랙</value>
+    </data>
+    <data name="Queue_Tracks" xml:space="preserve">
+        <value>{0} 트랙</value>
+    </data>
+    <data name="Queue_Track_Index_NoTrack" xml:space="preserve">
+        <value>트랙 없음</value>
+    </data>
+    <data name="Queue_Track_UnableToPlay" xml:space="preserve">
+        <value>트랙을 재생할 수 없습니다.</value>
+    </data>
+    <data name="General_UnsupportedFormat" xml:space="preserve">
+        <value>지원되지 않는 형식</value>
+    </data>
+    <data name="Playlist_ExistingPlaylists" xml:space="preserve">
+        <value>기존 재생 목록</value>
+    </data>
+    <data name="Library_PlayNow" xml:space="preserve">
+        <value>지금 플레이</value>
+    </data>
+    <data name="General_Delete" xml:space="preserve">
+        <value>지우다</value>
+    </data>
+    <data name="Settings_ZoneSettings" xml:space="preserve">
+        <value>영역 설정</value>
+    </data>
+    <data name="Settings_InfoTitle" xml:space="preserve">
+        <value>정보</value>
+    </data>
+    <data name="Settings_Name" xml:space="preserve">
+        <value>이름</value>
+    </data>
+    <data name="New_Name_Successfully_Saved" xml:space="preserve">
+        <value>새 이름이 저장되었습니다.</value>
+    </data>
+    <data name="Settings_Model" xml:space="preserve">
+        <value>모델</value>
+    </data>
+    <data name="Settings_Location" xml:space="preserve">
+        <value>위치</value>
+    </data>
+    <data name="Settings_MindVersion" xml:space="preserve">
+        <value>미드 모듈 버전</value>
+    </data>
+    <data name="Settings_Network" xml:space="preserve">
+        <value>회로망</value>
+    </data>
+    <data name="Settings_NetworkSettings" xml:space="preserve">
+        <value>네트워크 설정</value>
+    </data>
+    <data name="General_WifiConnectionLost" xml:space="preserve">
+        <value>Wi-Fi 연결이 끊어짐</value>
+    </data>
+    <data name="General_WifiWaitingForConnection" xml:space="preserve">
+        <value>Wi-Fi 연결을 기다리는 중 ...</value>
+    </data>
+    <data name="General_ConnectionFailedTitle" xml:space="preserve">
+        <value>연결에 실패</value>
+    </data>
+    <data name="General_ConnectionFailedMessage" xml:space="preserve">
+        <value>MiND에 연결할 수 없습니다. 다른 컨트롤러가 이미 연결되어 있는지 확인한 다음 다시 시도하기 전에 해당 응용 프로그램을 닫으십시오.</value>
+    </data>
+    <data name="General_Retry" xml:space="preserve">
+        <value>다시 해 보다</value>
+    </data>
+    <data name="Mind_UpdateInProgressTitle" xml:space="preserve">
+        <value>업데이트 진행 중 ...</value>
+    </data>
+    <data name="Mind_UpdateInProgressMessage" xml:space="preserve">
+        <value>유닛이 업데이트 중입니다. 약 10 분 안에 네트워크에 다시 나타납니다. 기다려주십시오.</value>
+    </data>
+    <data name="Device_ErrorLoadingMindNetworkSettings" xml:space="preserve">
+        <value>미드 네트워크 설정을로드 할 수 없습니다.</value>
+    </data>
+    <data name="Device_ErrorConnectingToMind" xml:space="preserve">
+        <value>MiND에 연결할 수 없습니다.</value>
+    </data>
+    <data name="General_MindZones" xml:space="preserve">
+        <value>미네소타 존</value>
+    </data>
+    <data name="General_Mediaservers" xml:space="preserve">
+        <value>미디어 라이브러리</value>
+    </data>
+    <data name="WLANSecurity_WPA" xml:space="preserve">
+        <value>WPA</value>
+    </data>
+    <data name="WLANSecurity_WPA2" xml:space="preserve">
+        <value>WPA2</value>
+    </data>
+    <data name="WLANSecurity_WEP" xml:space="preserve">
+        <value>WEP</value>
+    </data>
+    <data name="WLANSecurity_None" xml:space="preserve">
+        <value>없음</value>
+    </data>
+    <data name="Network_Title" xml:space="preserve">
+        <value>회로망</value>
+    </data>
+    <data name="Network_Error_NameEmptyTitle" xml:space="preserve">
+        <value>빈 이름</value>
+    </data>
+    <data name="Network_Error_NameEmptyMessage" xml:space="preserve">
+        <value>MiND 이름은 비워 둘 수 없습니다.</value>
+    </data>
+    <data name="Network_IPAddress" xml:space="preserve">
+        <value>IP 주소</value>
+    </data>
+    <data name="Network_Error_InvalidIPMessage" xml:space="preserve">
+        <value>잘못된 IP 주소가 지정되었습니다.</value>
+    </data>
+    <data name="Network_SubnetMask" xml:space="preserve">
+        <value>서브넷 마스크</value>
+    </data>
+    <data name="Network_Error_InvalidSubnetMaskMessage" xml:space="preserve">
+        <value>잘못된 서브넷 마스크가 지정되었습니다.</value>
+    </data>
+    <data name="Network_Gateway" xml:space="preserve">
+        <value>게이트웨이</value>
+    </data>
+    <data name="Network_Error_InvalidGatewayMessage" xml:space="preserve">
+        <value>잘못된 게이트웨이 주소가 지정되었습니다.</value>
+    </data>
+    <data name="Network_DNS" xml:space="preserve">
+        <value>DNS</value>
+    </data>
+    <data name="Network_Error_InvalidDNSMessage" xml:space="preserve">
+        <value>잘못된 DNS 주소가 지정되었습니다.</value>
+    </data>
+    <data name="Network_WEPKey" xml:space="preserve">
+        <value>WEP 키</value>
+    </data>
+    <data name="NetworkErrorEmptyWEPKeyMessage" xml:space="preserve">
+        <value>wep 키는 비워 둘 수 없습니다.</value>
+    </data>
+    <data name="Password" xml:space="preserve">
+        <value>암호</value>
+    </data>
+    <data name="Network_Error_EmptyWPAPasswordMessage" xml:space="preserve">
+        <value>Wi-Fi 비밀번호는 반드시 입력해야합니다.</value>
+    </data>
+    <data name="Network_SavingSettingsTitle" xml:space="preserve">
+        <value>설정 저장 중</value>
+    </data>
+    <data name="Network_SavingSettingsMessage" xml:space="preserve">
+        <value>설정을 저장하는 중입니다. 잠시 기다려주십시오 ...</value>
+    </data>
+    <data name="Network_GeneralHeader" xml:space="preserve">
+        <value>일반</value>
+    </data>
+    <data name="Network_WirelessHeader" xml:space="preserve">
+        <value>무선 전화</value>
+    </data>
+    <data name="Network_WirelessWifi" xml:space="preserve">
+        <value>와이파이</value>
+    </data>
+    <data name="Network_Security" xml:space="preserve">
+        <value>보안</value>
+    </data>
+    <data name="Network_MindName" xml:space="preserve">
+        <value>미드 네임</value>
+    </data>
+    <data name="Network_WEPIndex" xml:space="preserve">
+        <value>WEP 색인</value>
+    </data>
+    <data name="Network_DHCP" xml:space="preserve">
+        <value>DHCP</value>
+    </data>
+    <data name="Network_IP" xml:space="preserve">
+        <value>IP</value>
+    </data>
+    <data name="Player_NoTrack" xml:space="preserve">
+        <value>트랙 없음</value>
+    </data>
+    <data name="Player_ClearQueueTitle" xml:space="preserve">
+        <value>대기열 지우기</value>
+    </data>
+    <data name="General_Clear" xml:space="preserve">
+        <value>명확한</value>
+    </data>
+    <data name="Player_ClearQueueMessage" xml:space="preserve">
+        <value>대기열을 지우시겠습니까?</value>
+    </data>
+    <data name="General_Save" xml:space="preserve">
+        <value>구하다</value>
+    </data>
+    <data name="General_Done" xml:space="preserve">
+        <value>끝난</value>
+    </data>
+    <data name="General_Edit" xml:space="preserve">
+        <value>편집하다</value>
+    </data>
+    <data name="Player_PlaylistName" xml:space="preserve">
+        <value>이름</value>
+    </data>
+    <data name="Player_UnknownInformation" xml:space="preserve">
+        <value>알 수 없는</value>
+    </data>
+    <data name="Player_RemoveTrack" xml:space="preserve">
+        <value>트랙 제거</value>
+    </data>
+    <data name="Player_NowPlaying" xml:space="preserve">
+        <value>지금 재생 중</value>
+    </data>
+    <data name="Metadata_Title" xml:space="preserve">
+        <value>표제</value>
+    </data>
+    <data name="Metadata_Album" xml:space="preserve">
+        <value>앨범</value>
+    </data>
+    <data name="Metadata_Artist" xml:space="preserve">
+        <value>예술가</value>
+    </data>
+    <data name="Metadata_Genre" xml:space="preserve">
+        <value>유형</value>
+    </data>
+    <data name="Metadata_Composer" xml:space="preserve">
+        <value>작곡가</value>
+    </data>
+    <data name="Metadata_Conductor" xml:space="preserve">
+        <value>지휘자</value>
+    </data>
+    <data name="Metadata_Date" xml:space="preserve">
+        <value>날짜</value>
+    </data>
+    <data name="Metadata_Description" xml:space="preserve">
+        <value>기술</value>
+    </data>
+    <data name="Metadata_Slogan" xml:space="preserve">
+        <value>슬로건</value>
+    </data>
+    <data name="Metadata_Language" xml:space="preserve">
+        <value>언어</value>
+    </data>
+    <data name="Metadata_Place" xml:space="preserve">
+        <value>장소</value>
+    </data>
+    <data name="Metadata_TitleTab1" xml:space="preserve">
+        <value>세부</value>
+    </data>
+    <data name="Metadata_TitleTab2" xml:space="preserve">
+        <value>앨범 커버</value>
+    </data>
+    <data name="Actions" xml:space="preserve">
+        <value>행위</value>
+    </data>
+    <data name="Playlists_PlaylistName" xml:space="preserve">
+        <value>재생 목록 이름</value>
+    </data>
+    <data name="Settings_Version" xml:space="preserve">
+        <value>펌웨어</value>
+    </data>
+    <data name="General_NoMindFoundTitle" xml:space="preserve">
+        <value>MiND가 없습니다.</value>
+    </data>
+    <data name="Settings_ApplicationInformation" xml:space="preserve">
+        <value>앱. 정보 및 설정</value>
+    </data>
+    <data name="Settings_ErrorSavingSettings" xml:space="preserve">
+        <value>네트워크 설정을 저장할 수 없습니다.</value>
+    </data>
+    <data name="General_Add" xml:space="preserve">
+        <value>더하다</value>
+    </data>
+    <data name="Settings_EmptyNetworkNameTitle" xml:space="preserve">
+        <value>네트워크 이름</value>
+    </data>
+    <data name="Settings_EmptyNetworkNameMessage" xml:space="preserve">
+        <value>네트워크 이름은 비워 둘 수 없습니다.</value>
+    </data>
+    <data name="Settings_ExistsingWifis" xml:space="preserve">
+        <value>기존 Wi-Fis</value>
+    </data>
+    <data name="Settings_FirmwareUpToDate" xml:space="preserve">
+        <value>최신 정보</value>
+    </data>
+    <data name="Settings_FirmwareUpdate" xml:space="preserve">
+        <value>최신 정보</value>
+    </data>
+    <data name="Settings_ApplicationInfoTitle" xml:space="preserve">
+        <value>정보</value>
+    </data>
+    <data name="Settings_ApplicationInfoName" xml:space="preserve">
+        <value>이름</value>
+    </data>
+    <data name="Settings_ApplicationInfoVersion" xml:space="preserve">
+        <value>번역</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheLabel" xml:space="preserve">
+        <value>캐시 지우기</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheDetails" xml:space="preserve">
+        <value>그러면 MiND 및 이미지 캐시가 자동으로 지워집니다.</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheConfirm" xml:space="preserve">
+        <value>이미지와 MiND 캐시를 지우시겠습니까?</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheComplete" xml:space="preserve">
+        <value>MiND 및 이미지 캐시가 성공적으로 지워졌습니다</value>
+    </data>
+    <data name="General_Yes" xml:space="preserve">
+        <value>예</value>
+    </data>
+    <data name="General_No" xml:space="preserve">
+        <value>아니</value>
+    </data>
+    <data name="SettingsTitle" xml:space="preserve">
+        <value>설정</value>
+    </data>
+    <data name="Library_SettingsMusicServices" xml:space="preserve">
+        <value>음악 서비스</value>
+    </data>
+    <data name="Library_SettingsVisibleInList" xml:space="preserve">
+        <value>라이브러리 목록에 표시됨</value>
+    </data>
+    <data name="Username" xml:space="preserve">
+        <value>사용자 이름</value>
+    </data>
+    <data name="Library_SettingsLogin" xml:space="preserve">
+        <value>로그인</value>
+    </data>
+    <data name="Library_SettingsCreateNewAccount" xml:space="preserve">
+        <value>새로운 계정을 생성</value>
+    </data>
+    <data name="Library_SettingsLogout" xml:space="preserve">
+        <value>로그 아웃</value>
+    </data>
+    <data name="Library_SettingsFollowUs" xml:space="preserve">
+        <value>우리를 따르라.</value>
+    </data>
+    <data name="General_PowerOffErrorMessage" xml:space="preserve">
+        <value>전원 상태를 변경하는 중에 문제가 발생했습니다. 잠시 후 다시 시도하십시오.</value>
+    </data>
+    <data name="General_PowerOffErrorTitle" xml:space="preserve">
+        <value>전원 상태가 변경되지 않았습니다.</value>
+    </data>
+    <data name="Logout_Success" xml:space="preserve">
+        <value>성공적으로 로그 아웃되었습니다.</value>
+    </data>
+    <data name="Login_Success" xml:space="preserve">
+        <value>로그인되었습니다.</value>
+    </data>
+    <data name="Confirm_Logout" xml:space="preserve">
+        <value>정말로 로그 아웃 하시겠습니까?</value>
+    </data>
+    <data name="Logout_Failed" xml:space="preserve">
+        <value>로그 아웃을 수행하는 동안 오류가 발생했습니다.</value>
+    </data>
+    <data name="Invalid_Username_Password" xml:space="preserve">
+        <value>잘못된 사용자 이름 또는 비밀번호</value>
+    </data>
+    <data name="Tap_To_Retry" xml:space="preserve">
+        <value>다시 시도하려면 여기를 누르십시오.</value>
+    </data>
+    <data name="NotSupported" xml:space="preserve">
+        <value>지원되지 않음!</value>
+    </data>
+    <data name="Location" xml:space="preserve">
+        <value>위치</value>
+    </data>
+    <data name="Language" xml:space="preserve">
+        <value>언어</value>
+    </data>
+    <data name="Description" xml:space="preserve">
+        <value>기술</value>
+    </data>
+    <data name="Favourite" xml:space="preserve">
+        <value>인기 있는 말</value>
+    </data>
+    <data name="NoDescription" xml:space="preserve">
+        <value>가능한 설명이 없습니다.</value>
+    </data>
+    <data name="RecentSearch" xml:space="preserve">
+        <value>최근 검색</value>
+    </data>
+    <data name="SearchFor" xml:space="preserve">
+        <value>{0} 검색 중</value>
+    </data>
+    <data name="ResultFor" xml:space="preserve">
+        <value>{0}에 대한 검색 결과</value>
+    </data>
+    <data name="Search" xml:space="preserve">
+        <value>수색</value>
+    </data>
+    <data name="InternalError" xml:space="preserve">
+        <value>내부 오류가 발생했습니다. 다시 시도하십시오.</value>
+    </data>
+    <data name="ShowArtist" xml:space="preserve">
+        <value>아티스트 표시</value>
+    </data>
+    <data name="ShowAlbum" xml:space="preserve">
+        <value>앨범보기</value>
+    </data>
+    <data name="MoreInfo" xml:space="preserve">
+        <value>더 많은 정보</value>
+    </data>
+    <data name="NumberOfTracks" xml:space="preserve">
+        <value>{0} 트랙</value>
+    </data>
+    <data name="NumberOfTrack" xml:space="preserve">
+        <value>{0} 트랙</value>
+    </data>
+    <data name="Size" xml:space="preserve">
+        <value>크기</value>
+    </data>
+    <data name="Metadata_Duration" xml:space="preserve">
+        <value>지속</value>
+    </data>
+    <data name="AirableFormViewTitle" xml:space="preserve">
+        <value>{0} - {1}</value>
+    </data>
+    <data name="AirableRequiredFieldEmptyError" xml:space="preserve">
+        <value>{0}은 (는) 비워 둘 수 없습니다.</value>
+    </data>
+    <data name="NoTrackAvailableToAddToQueue" xml:space="preserve">
+        <value>대기열에 추가 할 수있는 트랙이 없습니다.</value>
+    </data>
+    <data name="AppNotConnectedToMiND" xml:space="preserve">
+        <value>앱이 현재 MiND에 연결되어 있지 않습니다. MiND에 다시 연결하십시오.</value>
+    </data>
+    <data name="CannotAccessMindQueue" xml:space="preserve">
+        <value>앱이 MiND 대기열에 액세스 할 수 없습니다. MiND에 다시 연결하십시오.</value>
+    </data>
+    <data name="NoTrackAvailableToSave" xml:space="preserve">
+        <value>저장할 트랙이 없습니다.</value>
+    </data>
+    <data name="SaveQueueError" xml:space="preserve">
+        <value>재생 목록을 저장하는 중에 오류가 발생했습니다.</value>
+    </data>
+    <data name="EmptyPlaylistName" xml:space="preserve">
+        <value>빈 이름으로 재생 목록을 저장할 수 없습니다. 이름을 설정하십시오.</value>
+    </data>
+    <data name="PlaylistAlreadyExist" xml:space="preserve">
+        <value>{0}이 (가) 이미 있습니다. 기존 재생 목록을 바꾸거나 추가 하시겠습니까?</value>
+    </data>
+    <data name="GeneralAppend" xml:space="preserve">
+        <value>추가</value>
+    </data>
+    <data name="GeneralReplace" xml:space="preserve">
+        <value>바꾸다</value>
+    </data>
+    <data name="PlaylistHasBeenDeleted" xml:space="preserve">
+        <value>{0}이 (가) 삭제되었습니다.</value>
+    </data>
+    <data name="PlaylistHasBeenSaved" xml:space="preserve">
+        <value>{0}이 (가) 저장되었습니다.</value>
+    </data>
+    <data name="TrackSuccessfullyAddedToQueue" xml:space="preserve">
+        <value>트랙이 성공적으로 대기열에 추가되었습니다.</value>
+    </data>
+    <data name="MindQueueFullyLoaded" xml:space="preserve">
+        <value>MiND 대기열이 최대 용량으로로드됩니다.</value>
+    </data>
+    <data name="UnconfiguredMiND" xml:space="preserve">
+        <value>구성되지 않은 {0} ({1})</value>
+    </data>
+    <data name="UnsolicitedMessageFromMiND" xml:space="preserve">
+        <value>{0}의 요청하지 않은 메시지</value>
+    </data>
+    <data name="FailedToConnectToMusicService" xml:space="preserve">
+        <value>{0}에 연결하지 못했습니다. 다시 시도하십시오.</value>
+    </data>
+    <data name="MultiroomMasterNotFound" xml:space="preserve">
+        <value>귀하의 유닛이 멀티 룸 그룹에 가입했습니다. 재생을 계속하려면 그룹을 선택하십시오.</value>
+    </data>
+    <data name="MultiroomWithTitle" xml:space="preserve">
+        <value>멀티 룸 : {0}</value>
+    </data>
+    <data name="CurrentDeviceHasBeenGrouped" xml:space="preserve">
+        <value>{0}은 (는) 멀티 룸 그룹에 참여했습니다. 앱이 자동으로 마스터 장치 "{1}"에 다시 연결되었습니다.</value>
+    </data>
+    <data name="Permission" xml:space="preserve">
+        <value>허가</value>
+    </data>
+    <data name="PermissionForWifiReason" xml:space="preserve">
+        <value>MiND 앱은 인근 Wi-Fi 네트워크를 찾기 위해 위치 권한이 필요합니다.</value>
+    </data>
+    <data name="PermissionForBleSearch" xml:space="preserve">
+        <value>MiND 앱은 미지의 미드 미드를 찾기 위해 위치 권한이 필요합니다.</value>
+    </data>
+    <data name="MultiroomVolumeControl" xml:space="preserve">
+        <value>음량</value>
+    </data>
+    <data name="SetPresetTitle" xml:space="preserve">
+        <value>사전 설정 ...</value>
+    </data>
+    <data name="PresetItem" xml:space="preserve">
+        <value>프리셋 {0}</value>
+    </data>
+    <data name="PresetSuccessfullySaved" xml:space="preserve">
+        <value>{0}이 (가) 사전 설정 {1}에 성공적으로 저장되었습니다.</value>
+    </data>
+    <data name="TurnedToStandby" xml:space="preserve">
+        <value>{0}이 (가) 대기 모드로 전환되었습니다.</value>
+    </data>
+    <data name="VersionAvailable" xml:space="preserve">
+        <value>(사용할 수있는 {0} 개)</value>
+    </data>
+    <data name="NewUpdatesAvailable" xml:space="preserve">
+        <value>새 업데이트를 사용할 수 있습니다.</value>
+    </data>
+    <data name="HostUpdateMessage" xml:space="preserve">
+        <value>{0}이 (가) 업데이트 중입니다. 최대 5 분이 소요될 수 있습니다. 기다려주십시오.</value>
+    </data>
+    <data name="FirstTimeSetupTitle" xml:space="preserve">
+        <value>당신의 나라를 선택하세요</value>
+    </data>
+    <data name="SetupInformation" xml:space="preserve">
+        <value>설정 정보.</value>
+    </data>
+    <data name="MultiroomErrorContent" xml:space="preserve">
+        <value>멀티 룸이 사용 중지되었습니다.</value>
+    </data>
+    <data name="TuneInRadioFriendlyName" xml:space="preserve">
+        <value>라디오</value>
+    </data>
+    <data name="DeezerFriendlyName" xml:space="preserve">
+        <value>Deezer</value>
+    </data>
+    <data name="PodcastsFriendlyName" xml:space="preserve">
+        <value>포드 캐스트</value>
+    </data>
+    <data name="QobuzFriendlyName" xml:space="preserve">
+        <value>Qobuz</value>
+    </data>
+    <data name="TidalFriendlyName" xml:space="preserve">
+        <value>TIDAL</value>
+    </data>
+    <data name="HighResAudioFriendlyName" xml:space="preserve">
+        <value>HIGHRESAUDIO</value>
+    </data>
+    <data name="ObjectNotAvailable" xml:space="preserve">
+        <value>{0}을 (를) 사용할 수 없습니다.</value>
+    </data>
+    <data name="FreeTrial" xml:space="preserve">
+        <value>무료로 사용해보십시오.</value>
+    </data>
+    <data name="Check_for_Supported_Localization" xml:space="preserve">
+        <value>언어는 현재 지원됩니다.</value>
+    </data>
+    <data name="CannotContactMusicService" xml:space="preserve">
+        <value>{0} 서버에 연결할 수 없습니다.</value>
+    </data>
+    <data name="WrongDataReturnMusicService" xml:space="preserve">
+        <value>{0} 서버에서 잘못된 데이터가 반환되었습니다.</value>
+    </data>
+    <data name="AutomaticRenameError" xml:space="preserve">
+        <value>현재 MiND 장치 펌웨어 버전은 자동 이름 바꾸기 기능을 지원하지 않습니다. 먼저 업데이트하십시오.</value>
+    </data>
+    <data name="AutomaticUpdateError" xml:space="preserve">
+        <value>현재 MiND 버전은 애플리케이션의 자동 업데이트를 지원하지 않습니다. 기기를 수동으로 업데이트하십시오. 이 단계를 완료하면 응용 프로그램에서 향후 업데이트를 시작할 수 있습니다.</value>
+    </data>
+    <data name="RescanPortError" xml:space="preserve">
+        <value>네트워크를 다시 검사하는 중 오류가 발생했습니다. 다른 응용 프로그램이 포트 1900을 사용하지 않는지 확인하십시오. 열려있는 다른 모든 프로세스를 종료하고 다시 시도하십시오.</value>
+    </data>
+    <data name="Network_AvdancedSettingShow" xml:space="preserve">
+        <value>고급 설정</value>
+    </data>
+    <data name="Network_AvdancedSettingHide" xml:space="preserve">
+        <value>고급 설정 숨기기</value>
+    </data>
+    <data name="Network_OtherWifi" xml:space="preserve">
+        <value>기타 와이파이</value>
+    </data>
+    <data name="Settings_Loading" xml:space="preserve">
+        <value>네트워크 설정 옵션로드 중 ...</value>
+    </data>
+    <data name="Favorite_Remove" xml:space="preserve">
+        <value>즐겨찾기에서 삭제됨</value>
+    </data>
+    <data name="Favorite_Insert" xml:space="preserve">
+        <value>즐겨찾기에 추가됨</value>
+    </data>
+    <data name="Metadata_NumberOfTracksTitle" xml:space="preserve">
+        <value>트랙 수</value>
+    </data>
+    <data name="Player_AddToPlaylist" xml:space="preserve">
+        <value>재생 목록에 추가</value>
+    </data>
+    <data name="Refresh_Network" xml:space="preserve">
+        <value>네트워크 다시 검사로 이동</value>
+    </data>
+    <data name="Library_ConnectionLost" xml:space="preserve">
+        <value>{0} 라이브러리가 연결이 끊어 졌거나 연결이 끊어졌습니다. 다른 라이브러리를 선택하십시오 ...</value>
+    </data>
+    <data name="Library_Local" xml:space="preserve">
+        <value>지역 도서관</value>
+    </data>
+    <data name="Library_Preparing" xml:space="preserve">
+        <value>지역 음악 라이브러리 준비 중입니다. 잠시 기다려주십시오 ...</value>
+    </data>
+    <data name="Library_PreparingFailed" xml:space="preserve">
+        <value>로컬 음악 라이브러리를 준비하는 중에 오류가 발생했습니다.</value>
+    </data>
+    <data name="Library_Connecting" xml:space="preserve">
+        <value>{0} 라이브러리에 연결 중입니다. 잠시 기다려주십시오 ...</value>
+    </data>
+    <data name="Library_Loading" xml:space="preserve">
+        <value>{0} 라이브러리에로드 중입니다. 잠시 기다려주십시오 ...</value>
+    </data>
+    <data name="Library_Remove" xml:space="preserve">
+        <value>라이브러리에서 제거</value>
+    </data>
+    <data name="Library_Add" xml:space="preserve">
+        <value>라이브러리에 추가</value>
+    </data>
+    <data name="General_Wait" xml:space="preserve">
+        <value>기다려주십시오 ...</value>
+    </data>
+    <data name="Library_ItemNotAdded" xml:space="preserve">
+        <value>항목이 라이브러리에 추가되지 않았습니다.</value>
+    </data>
+    <data name="Library_ItemNotRemoved" xml:space="preserve">
+        <value>항목이 도서관에서 삭제되지 않았습니다.</value>
+    </data>
+    <data name="Favorite_ItemNotAdded" xml:space="preserve">
+        <value>항목이 즐겨 찾기에 추가되지 않았습니다.</value>
+    </data>
+    <data name="Favorite_ItemNotRemoved" xml:space="preserve">
+        <value>항목이 즐겨 찾기에서 삭제되지 않았습니다.</value>
+    </data>
+    <data name="NotLoggedInAlert" xml:space="preserve">
+        <value>로그인하지 않았습니다.
+먼저 도서관 목록에서 음악 서비스 설정에 액세스하여 로그인하십시오.</value>
+    </data>
+    <data name="Player_Reloading" xml:space="preserve">
+        <value>플레이어를 다시로드 중입니다.</value>
+    </data>
+    <data name="Player" xml:space="preserve">
+        <value>음악 플레이어</value>
+    </data>
+    <data name="Queue_Track_Pause" xml:space="preserve">
+        <value>PAUSE TRACK</value>
+    </data>
+    <data name="Queue_FailedAddTrack" xml:space="preserve">
+        <value>대기열에 트랙을 추가하는 데 실패했습니다.</value>
+    </data>
+    <data name="Queue_FailedClear" xml:space="preserve">
+        <value>대기열을 지우지 못했습니다.</value>
+    </data>
+    <data name="NetWork_WifiChanged" xml:space="preserve">
+        <value>Wi-Fi 연결 변경됨</value>
+    </data>
+    <data name="NetWork_WifiStateChangedMessage" xml:space="preserve">
+        <value>Wi-Fi 연결 상태가 변경되고 응용 프로그램이 다시 시작됩니다 ... 잠시 기다려주십시오.</value>
+    </data>
+    <data name="NetWork_WifiNotConnected" xml:space="preserve">
+        <value>Wi-Fi에 연결되지 않음</value>
+    </data>
+    <data name="NetWork_WifiNotConnectedMessage" xml:space="preserve">
+        <value>Wi-Fi 네트워크에 기기 연결 ...</value>
+    </data>
+    <data name="Library_UnauthorizedAcces" xml:space="preserve">
+        <value>응용 프로그램에 미디어 라이브러리 액세스 권한이 없습니다. iOS 설정 -&gt; 개인 정보 -&gt; 미디어 라이브러리로 이동하여 MiND 앱에 대한 액세스 권한을 부여하십시오.</value>
+    </data>
+    <data name="General_Connection" xml:space="preserve">
+        <value>연결</value>
+    </data>
+    <data name="General_ConnectingMiND" xml:space="preserve">
+        <value>MiND 장치에 연결 중입니다.</value>
+    </data>
+    <data name="General_ConnectingMessage" xml:space="preserve">
+        <value>MiND 장치에 대한 연결이 진행 중입니다.</value>
+    </data>
+    <data name="General_ReconnectingMiND" xml:space="preserve">
+        <value>마지막으로 연결된 MiND에 다시 연결 중입니다. 잠시 기다려주십시오 ...</value>
+    </data>
+    <data name="General_StateRestore" xml:space="preserve">
+        <value>상태 복원 중</value>
+    </data>
+    <data name="General_MiNDDevice" xml:space="preserve">
+        <value>미드 장치</value>
+    </data>
+    <data name="Settings_RenameProgress" xml:space="preserve">
+        <value>진행중인 이름 바꾸기</value>
+    </data>
+    <data name="General_Rename" xml:space="preserve">
+        <value>이름 바꾸기</value>
+    </data>
+    <data name="Settings_UpdateFirmwareAccessNetwork" xml:space="preserve">
+        <value>네트워크 설정에 액세스하려면 펌웨어를 업데이트하십시오.</value>
+    </data>
+    <data name="Deezer_NextLimitReached" xml:space="preserve">
+        <value>무제한 건너 뛰기를 받으려면 프리미엄을 구독하십시오.</value>
+    </data>
+    <data name="General_Suscribe" xml:space="preserve">
+        <value>구독하기</value>
+    </data>
+    <data name="General_ScanNetworkError" xml:space="preserve">
+        <value>네트워크에서 MiND 장치를 검색 할 수 없습니다. Wi-Fi 설정을 확인하십시오.</value>
+    </data>
+    <data name="Queue_Track_Transitioning" xml:space="preserve">
+        <value>전환</value>
+    </data>
+    <data name="Metadata_Sources" xml:space="preserve">
+        <value>출처</value>
+    </data>
+    <data name="Input_NotLocked" xml:space="preserve">
+        <value>신호 없음</value>
+    </data>
+    <data name="NowPlayingNotificationName" xml:space="preserve">
+        <value>알림 채널을 재생 중입니다.</value>
+    </data>
+    <data name="Settings_FirmwareVersion" xml:space="preserve">
+        <value>펌웨어 버전</value>
+    </data>
+    <data name="Inputs_NotSupported" xml:space="preserve">
+        <value>입력이 지원되지 않습니다.</value>
+    </data>
+    <data name="AppInfo_SleepModeTitle" xml:space="preserve">
+        <value>수면 모드</value>
+    </data>
+    <data name="AppInfo_SleepModeContent" xml:space="preserve">
+        <value>음악을들을 때 휴대 전화가 절전 모드로 전환되도록하십시오.</value>
+    </data>
+    <data name="Settings_UnsupportedFirmware" xml:space="preserve">
+        <value>지원되지 않는 펌웨어</value>
+    </data>
+    <data name="Settings_VersionOf" xml:space="preserve">
+        <value>{0} 버전</value>
+    </data>
+    <data name="Playlists_Name" xml:space="preserve">
+        <value>이름</value>
+    </data>
+    <data name="MusicService_Or" xml:space="preserve">
+        <value>또는</value>
+    </data>
+    <data name="MusicService_GoOnWebsiteAndRegister" xml:space="preserve">
+        <value>{0} 웹 사이트와 {1} (으)로 이동하십시오.</value>
+    </data>
+    <data name="MusicService_InvitationToFollowUs" xml:space="preserve">
+        <value>또한 일일 뉴스의 경우 {0}입니다.</value>
+    </data>
+    <data name="TrackSuccessfullyAddedToMaxedOutQueue" xml:space="preserve">
+        <value>우리가 대기열 최대 용량에 도달했기 때문에 일부 트랙이 대기열에 추가되지 않았습니다.</value>
+    </data>
+    <data name="NoUSB_DeviceFound" xml:space="preserve">
+        <value>USB 장치가 없습니다. USB 장치가 연결되어 있는지 확인하십시오.</value>
+    </data>
+    <data name="PrivacyPolicy" xml:space="preserve">
+        <value>개인 정보 정책</value>
+    </data>
+    <data name="DataUsage" xml:space="preserve">
+        <value>데이터 사용</value>
+    </data>
+    <data name="TapToAccessPrivacyPolicy" xml:space="preserve">
+        <value>개인 정보 보호 정책을 열려면 여기를 누르십시오.</value>
+    </data>
+    <data name="Biography" xml:space="preserve">
+        <value>전기</value>
+    </data>
+    <data name="AppInfo_NotificationModeTitle" xml:space="preserve">
+        <value>공고</value>
+    </data>
+    <data name="AppInfo_NotificationModeContent" xml:space="preserve">
+        <value>앱의 사용자 인터페이스 외부에 MiND 컨트롤러 디스플레이를 추가합니다. MiND2 만있는 장치.</value>
+    </data>
+    <data name="Accessibility_MusicServiceSettingsLabel" xml:space="preserve">
+        <value>라이브러리 옵션 버튼</value>
+    </data>
+    <data name="Accessibility_MusicServiceSettingsHint" xml:space="preserve">
+        <value>라이브러리 매개변수를 열고 편집하려면 누르십시오.</value>
+    </data>
+    <data name="Accessibility_BackToNowPlayingLabel" xml:space="preserve">
+        <value>버튼 돌아 가기 지금 재생 중입니다.</value>
+    </data>
+    <data name="Accessibility_BackToNowPlayingHint" xml:space="preserve">
+        <value>메인 플레이어보기에서 다시 라이브러리 목록을 닫습니다.</value>
+    </data>
+    <data name="Accessibility_SearchLabel" xml:space="preserve">
+        <value>검색 버튼.</value>
+    </data>
+    <data name="Accessibility_SearchHint" xml:space="preserve">
+        <value>이 오디오 소스를 검색하십시오.</value>
+    </data>
+    <data name="Accessibility_MoreOptionsLabel" xml:space="preserve">
+        <value>추가 옵션 단추.</value>
+    </data>
+    <data name="Accessibility_MoreOptionsHint" xml:space="preserve">
+        <value>더 많은 옵션이나 정보가있는 팝업 창을 엽니 다.</value>
+    </data>
+    <data name="Accessibility_LibrarySectionTitleLabel" xml:space="preserve">
+        <value>라이브러리 탐색 섹션 제목.</value>
+    </data>
+    <data name="Accessibility_LibrarySectionTitleHint" xml:space="preserve">
+        <value>탐색의 루트에서 뒤로 이동하려면 누릅니다.</value>
+    </data>
+    <data name="Accessibility_DeletePlaylistLabel" xml:space="preserve">
+        <value>재생 목록 삭제 버튼.</value>
+    </data>
+    <data name="Accessibility_DeletePlaylistHint" xml:space="preserve">
+        <value>현재 재생 목록이 삭제됩니다.</value>
+    </data>
+    <data name="Accessibility_HomeButtonLabel" xml:space="preserve">
+        <value>홈 버튼.</value>
+    </data>
+    <data name="Accessibility_HomeButtonHint" xml:space="preserve">
+        <value>지역 목록으로 돌아갑니다.</value>
+    </data>
+    <data name="Accessibility_BrowseButtonLabel" xml:space="preserve">
+        <value>라이브러리 탐색 버튼.</value>
+    </data>
+    <data name="Accessibility_BrowseButtonHint" xml:space="preserve">
+        <value>라이브러리 목록을 엽니 다.</value>
+    </data>
+    <data name="AccessibilityHint_SettingsButton" xml:space="preserve">
+        <value>영역 및 앱 설정에 대한 액세스.</value>
+    </data>
+    <data name="AccessibilityLabel_General_Button" xml:space="preserve">
+        <value>단추</value>
+    </data>
+    <data name="AccessibilityHint_BackToZoneList" xml:space="preserve">
+        <value>영역 목록으로 돌아갑니다.</value>
+    </data>
+    <data name="AccessibilityHint_PowerOff" xml:space="preserve">
+        <value>{0} 전원을 끄십시오.</value>
+    </data>
+    <data name="AccessibilityHint_ZoneMultiroomButton" xml:space="preserve">
+        <value>{0} 멀티 룸을 제어하십시오.</value>
+    </data>
+    <data name="AccessibilityHint_PowerOffMultiroomGroup" xml:space="preserve">
+        <value>멀티 룸 그룹의 전원을 끄십시오 : {0}</value>
+    </data>
+    <data name="AccessibilityHint_GroupMultiroomButton" xml:space="preserve">
+        <value>다중 룸 그룹 제어 : {0}</value>
+    </data>
+    <data name="AccessibilityHint_MultiroomGroup" xml:space="preserve">
+        <value>멀티 룸 그룹 : {0}</value>
+    </data>
+    <data name="AccessibilityHint_SaveNetworkSettings" xml:space="preserve">
+        <value>네트워크 설정을 저장하십시오.</value>
+    </data>
+    <data name="AccessibilityHint_BackToMindZoneSettings" xml:space="preserve">
+        <value>마인드 존 설정으로 돌아 가기.</value>
+    </data>
+    <data name="AccessibilityHint_BackButton" xml:space="preserve">
+        <value>뒤로 버튼.</value>
+    </data>
+    <data name="Accessibility_PlayButtonLabel" xml:space="preserve">
+        <value>재생 버튼.</value>
+    </data>
+    <data name="Accessibility_PlayButtonHint" xml:space="preserve">
+        <value>현재 재생중인 트랙의 재생 또는 일시 중지 사이를 토글합니다.</value>
+    </data>
+    <data name="Accessibility_StopButtonLabel" xml:space="preserve">
+        <value>중지 버튼.</value>
+    </data>
+    <data name="Accessibility_StopButtonHint" xml:space="preserve">
+        <value>현재 재생중인 트랙을 멈 춥니 다.</value>
+    </data>
+    <data name="Accessibility_PauseButtonLabel" xml:space="preserve">
+        <value>일시 정지 버튼.</value>
+    </data>
+    <data name="Accessibility_PauseButtonHint" xml:space="preserve">
+        <value>현재 재생중인 트랙의 재생 또는 일시 중지 사이를 토글합니다.</value>
+    </data>
+    <data name="Accessibility_VolumeUpButtonLabel" xml:space="preserve">
+        <value>볼륨 높이기 버튼.</value>
+    </data>
+    <data name="Accessibility_VolumeUpButtonHint" xml:space="preserve">
+        <value>볼륨을 한 단계 증가시켜 내려 놓을 수 있습니다.</value>
+    </data>
+    <data name="Accessibility_VolumeDownButtonLabel" xml:space="preserve">
+        <value>볼륨 낮추기 버튼.</value>
+    </data>
+    <data name="Accessibility_VolumeDownButtonHint" xml:space="preserve">
+        <value>볼륨을 한 단계 낮추고 길게 누를 수 있습니다.</value>
+    </data>
+    <data name="Accessibility_MuteButtonLabel" xml:space="preserve">
+        <value>음소거 버튼.</value>
+    </data>
+    <data name="Accessibility_MuteButtonHint" xml:space="preserve">
+        <value>음소거를 켜거나 끕니다.</value>
+    </data>
+    <data name="Accessibility_SkipButtonLabel" xml:space="preserve">
+        <value>건너 뛰기 버튼.</value>
+    </data>
+    <data name="Accessibility_SkipButtonHint" xml:space="preserve">
+        <value>대기열에있는 다음 트랙으로 건너 뜁니다.</value>
+    </data>
+    <data name="Accessibility_PreviousButtonLabel" xml:space="preserve">
+        <value>이전 버튼.</value>
+    </data>
+    <data name="Accessibility_PreviousButtonHint" xml:space="preserve">
+        <value>현재 재생중인 노래를 다시 시작하고 두 번 누르면 대기열의 이전 트랙으로 이동합니다.</value>
+    </data>
+    <data name="Accessibility_InputButtonLabel" xml:space="preserve">
+        <value>입력 버튼.</value>
+    </data>
+    <data name="Accessibility_InputButtonHint" xml:space="preserve">
+        <value>장치가 지원하는 경우 달 장치에서 입력을 선택할 수 있도록 메뉴가 열립니다.</value>
+    </data>
+    <data name="Accessibility_QueueControlsButtonLabel" xml:space="preserve">
+        <value>큐 제어 단추.</value>
+    </data>
+    <data name="Accessibility_QueueControlsButtonHint" xml:space="preserve">
+        <value>현재 재생중인 큐를 편집, 지우거나 저장하도록 선택할 수있는 팝업 메뉴가 열립니다.</value>
+    </data>
+    <data name="Accessibility_QueueActionSheetHint" xml:space="preserve">
+        <value>현재 대기열을 지우거나 저장 또는 편집하십시오.</value>
+    </data>
+    <data name="Accessibility_QueueSlideButtonLabel" xml:space="preserve">
+        <value>대기열 슬라이드 패널.</value>
+    </data>
+    <data name="Accessibility_QueueSlideButtonHint" xml:space="preserve">
+        <value>대기열의 슬라이딩 패널을 열어 수동으로 건너 뛰거나 편집 할 수 있습니다.</value>
+    </data>
+    <data name="Accessibility_ShuffleButtonLabel" xml:space="preserve">
+        <value>셔플 버튼.</value>
+    </data>
+    <data name="Accessibility_ShuffleOffButtonHint" xml:space="preserve">
+        <value>현재 대기열의 섞기가 꺼져 있습니다.</value>
+    </data>
+    <data name="Accessibility_ShuffleOnButtonHint" xml:space="preserve">
+        <value>현재 대기열의 섞기가 켜져 있습니다.</value>
+    </data>
+    <data name="Accessibility_RepeatButtonLabel" xml:space="preserve">
+        <value>반복 버튼.</value>
+    </data>
+    <data name="Accessibility_RepeatOffButtonHint" xml:space="preserve">
+        <value>현재 반복 모드가 꺼져 있습니다.</value>
+    </data>
+    <data name="Accessibility_RepeatOneButtonHint" xml:space="preserve">
+        <value>현재 재생중인 트랙 만 반복하도록 설정된 현재 반복 모드입니다.</value>
+    </data>
+    <data name="Accessibility_RepeatAllButtonHint" xml:space="preserve">
+        <value>현재 반복 모드가 전체 대기열을 반복하도록 설정됩니다.</value>
+    </data>
+    <data name="Accessibility_PresetActionSheetHint" xml:space="preserve">
+        <value>이 라디오를 달 장치의 사전 설정 단추에 지정하십시오.</value>
+    </data>
+    <data name="Accessibility_AddtoQueueActionSheetHint" xml:space="preserve">
+        <value>대기열에 현재 선택 항목을 둘 위치를 선택하십시오.</value>
+    </data>
+    <data name="Accessibility_MoreLibraryActionSheetHint" xml:space="preserve">
+        <value>라이브러리 메뉴 옵션</value>
+    </data>
+    <data name="Discovery_WaitMore" xml:space="preserve">
+        <value>조금만 더 ...</value>
+    </data>
+    <data name="Discovery_NoMiNDFoundTitle" xml:space="preserve">
+        <value>여전히 찾을 수 없습니다 ...</value>
+    </data>
+    <data name="Discovery_NoMiNDFound" xml:space="preserve">
+        <value>MOON 장치의 전원이 켜져 있고 네트워크에 연결되어 있는지 확인한 후 다음 옵션 중 하나를 클릭하십시오</value>
+    </data>
+    <data name="Discovery_Refresh" xml:space="preserve">
+        <value>네트워크 재검색</value>
+    </data>
+    <data name="Discovery_FindUnit" xml:space="preserve">
+        <value>내 유닛 찾기</value>
+    </data>
+    <data name="Discovery_LaunchDiagnosticTool" xml:space="preserve">
+        <value>진단 도구를 시작하려면 여기를 클릭하십시오</value>
+    </data>
+    <data name="Discovery_DiagnosticToolTitle" xml:space="preserve">
+        <value>진단 도구</value>
+    </data>
+    <data name="Diagnostic_MoonDeviceTitle" xml:space="preserve">
+        <value>단위 모델을 선택하십시오</value>
+    </data>
+    <data name="Diagnostic_MoonDeviceSubTitle" xml:space="preserve">
+        <value>달 모델은 장치의 전면 플레이트에 표시되어야합니다.</value>
+    </data>
+    <data name="Diagnostic_MoonDeviceNote" xml:space="preserve">
+        <value> * MiND 가능 장치 만 표시됩니다.</value>
+    </data>
+    <data name="Diagnostic_IDontKnow" xml:space="preserve">
+        <value>몰라</value>
+    </data>
+    <data name="Diagnostic_WhatMiND" xml:space="preserve">
+        <value>MiND 유형을 선택하십시오.</value>
+    </data>
+    <data name="Diagnostic_CheckListTitle" xml:space="preserve">
+        <value>다음 사항을 확인하십시오.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Title" xml:space="preserve">
+        <value>{0}이 켜져 있어야합니다.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Child1" xml:space="preserve">
+        <value>{0}에 전원이 공급되는지 확인하십시오.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Child2" xml:space="preserve">
+        <value>대기 상태가 아닌지 확인하십시오.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Child3" xml:space="preserve">
+        <value>전면 패널에 파란색 표시등이 나타납니다.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Title" xml:space="preserve">
+        <value>{0}이 (가)이 네트워크에 있는지 확인하십시오 : {1}.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child1" xml:space="preserve">
+        <value>유선 또는 Wi-Fi, {0}은 (는) 모바일 장치와 동일한 네트워크에 있어야합니다.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child2" xml:space="preserve">
+        <value>{0}에서 네트워크 이름을 수동으로 확인하려면 전면 패널에서 설정 버튼을 누른 다음 네트워크, 정보를 차례로 탐색하십시오.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child3" xml:space="preserve">
+        <value>안정성을 위해 유선 연결을 권장하지만 무선도 가능합니다.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Title" xml:space="preserve">
+        <value>{0}이 (가) 업데이트되지 않습니다.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child1" xml:space="preserve">
+        <value>{0}의 "네트워크"입력을 탐색하십시오.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child2" xml:space="preserve">
+        <value>네트워크입력이 선택되면 메시지가 표시되지 않는지 확인하십시오</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child3" xml:space="preserve">
+        <value>있는 경우 표시된 지시 사항을 따르십시오.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child1B" xml:space="preserve">
+        <value>최근에 업데이트를 시작한 경우 MiND가 다시 응답 할 수 있도록 5 분 이상 기다리십시오.</value>
+    </data>
+    <data name="Diagnostic_Confirm" xml:space="preserve">
+        <value>확인</value>
+    </data>
+    <data name="Diagnostic_AdvancedSearchTitle" xml:space="preserve">
+        <value>고급 검색 프로세스 진행 ...</value>
+    </data>
+    <data name="Diagnostic_MulticastSearch" xml:space="preserve">
+        <value>MiND 검색 프로토콜 확인 ...</value>
+    </data>
+    <data name="Diagnostic_MulticastSearchWorking" xml:space="preserve">
+        <value>MiND 검색 프로토콜 작동</value>
+    </data>
+    <data name="Diagnostic_SpecificSearch" xml:space="preserve">
+        <value>MiND 찾기 ...</value>
+    </data>
+    <data name="Diagnostic_SpecificSearchWorking" xml:space="preserve">
+        <value>우리는 뭔가를 발견</value>
+    </data>
+    <data name="Diagnostic_SpecificSearchFailed" xml:space="preserve">
+        <value>네트워크에서 MiND를 찾지 못했습니다.</value>
+    </data>
+    <data name="Diagnostic_MulticastSearchNotWorking" xml:space="preserve">
+        <value>MiND 검색 프로토콜을 확인할 수 없습니다.</value>
+    </data>
+    <data name="Diagnostic_SpecificSearchNotWorking" xml:space="preserve">
+        <value>검색 프로토콜의 유효성이 검사되었지만 네트워크에서 MiND를 찾지 못했습니다.</value>
+    </data>
+    <data name="Diagnostic_GoToNextStep" xml:space="preserve">
+        <value>다음 단계로 가십시오</value>
+    </data>
+    <data name="Diagnostic_FailedTitle" xml:space="preserve">
+        <value>귀하의 MiND를 찾을 수 없습니다</value>
+    </data>
+    <data name="Diagnostic_FailedAdvice1" xml:space="preserve">
+        <value>장치 전원 케이블을 분리 / 연결 한 후 다시 시도하십시오.</value>
+    </data>
+    <data name="Diagnostic_FailedAdvice2" xml:space="preserve">
+        <value>작동하지 않으면 장치를 공장 초기화하십시오. 지침은 설명서를 참조하십시오.</value>
+    </data>
+    <data name="Diagnostic_ContactSimaudio" xml:space="preserve">
+        <value>Simaudio에 문의</value>
+    </data>
+    <data name="Diagnostic_PingDescription" xml:space="preserve">
+        <value>{0}의 IP 주소에 액세스 할 수 있으면 여기에 입력하십시오.</value>
+    </data>
+    <data name="Diagnostic_RequestName" xml:space="preserve">
+        <value>이름 : {0}</value>
+    </data>
+    <data name="Diagnostic_RequestModel" xml:space="preserve">
+        <value>모델 : {0}</value>
+    </data>
+    <data name="Diagnostic_RequestType" xml:space="preserve">
+        <value>유형 : {0}</value>
+    </data>
+    <data name="Diagnostic_ConfirmTextWithMindType" xml:space="preserve">
+        <value>{1}의 {0}을 (를) 선택하고 있습니다.</value>
+    </data>
+    <data name="Diagnostic_ConfirmTextNoMindType" xml:space="preserve">
+        <value>{0}을 (를) 선택하고 있습니다.</value>
+    </data>
+    <data name="Diagnostic_unknown" xml:space="preserve">
+        <value>벙어리</value>
+    </data>
+    <data name="Diagnostic_Connect" xml:space="preserve">
+        <value>잇다</value>
+    </data>
+    <data name="Diagnostic_ISeeDevice" xml:space="preserve">
+        <value>{0}이 (가) 있으면 위에서 선택하십시오.</value>
+    </data>
+    <data name="Diagnostic_IdontSeeDevice" xml:space="preserve">
+        <value>나는 그것을 보지 못한다.</value>
+    </data>
+    <data name="Diagnostic_WrongIp" xml:space="preserve">
+        <value>입력하신 주소와 일치하는 내용이 없습니다. 올바른 IP를 가지고 있습니까?</value>
+    </data>
+    <data name="Diagnostic_MaybeWrongIp" xml:space="preserve">
+        <value>원하는 장치가 아닌 경우 다시 시도하기 전에 올바른 IP를 입력했는지 확인하십시오.</value>
+    </data>
+    <data name="Diagnostic_RequestResponseTitle" xml:space="preserve">
+        <value>우리가 찾은 것은 다음과 같습니다.</value>
+    </data>
+    <data name="VerificationConfirmation" xml:space="preserve">
+        <value>나는 확인했다</value>
+    </data>
+    <data name="Diagnostic_IDontHaveIp" xml:space="preserve">
+        <value>내 IP 주소에 액세스 할 수 없습니다.</value>
+    </data>
+    <data name="AppInfo_ManualSearchTitle" xml:space="preserve">
+        <value>수동 검색</value>
+    </data>
+    <data name="AppInfo_ManualSearchContent" xml:space="preserve">
+        <value>IP 주소가있는 경우 네트워크에서 MiND를 수동으로 검색하십시오.</value>
+    </data>
+    <data name="Diagnostic_Close" xml:space="preserve">
+        <value>진단 도구 닫기</value>
+    </data>
+    <data name="AppInfo_ReportBug" xml:space="preserve">
+        <value>버그 신고</value>
+    </data>
+    <data name="Diagnostic_FailedAdvice3" xml:space="preserve">
+        <value>Simaudio에 도움을 요청할 수도 있습니다.</value>
+    </data>
+    <data name="Accessibility_DoubleTapToSelectHint" xml:space="preserve">
+        <value>두 번 탭하여 선택</value>
+    </data>
+    <data name="Accessibility_DoubleTapToShowDetailsHint" xml:space="preserve">
+        <value>자세한 내용을 보려면 두 번 탭하세요.</value>
+    </data>
+    <data name="Accessibility_DoubleTapToCollapseDetailsHint" xml:space="preserve">
+        <value>세부 정보를 접으려면 두 번 탭하세요.</value>
+    </data>
+    <data name="Accessibility_DoubleTapToFindDeviceByIpHint" xml:space="preserve">
+        <value>단위를 찾으려면 두 번 탭하십시오.</value>
+    </data>
+    <data name="Accessibility_DoubleTapToFindDeviceByIpDisabledHint" xml:space="preserve">
+        <value>비활성화 상태의 검색 단위 버튼. 해당 텍스트 필드에 유효한 IP 주소를 입력하여 활성화하십시오.</value>
+    </data>
+    <data name="Accessibility_IpAddressTextFieldHint" xml:space="preserve">
+        <value>IP 주소 텍스트 필드</value>
+    </data>
+    <data name="Accessibility_MqaEnabledHint" xml:space="preserve">
+        <value>MQA 사용</value>
+    </data>
+    <data name="Accessibility_StreamNotAvailableHint" xml:space="preserve">
+        <value>사용할 수없는 데이터 스트림</value>
+    </data>
+    <data name="Accessibility_TapOnConnectButtonHint" xml:space="preserve">
+        <value>연결 버튼이 활성화되었습니다. 연결 버튼을 두 번 눌러 연결합니다.</value>
+    </data>
+    <data name="Accessibility_DoubleTapToPlayHint" xml:space="preserve">
+        <value>재생하려면 두 번 탭하세요.</value>
+    </data>
+    <data name="AppInfo_ReportBug_BetaTester" xml:space="preserve">
+        <value>베타 테스터-버그 신고</value>
+    </data>
+    <data name="AppInfo_ReportBug_Detail" xml:space="preserve">
+        <value>지원 팀에 지원 요청을 제출하십시오.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child1B" xml:space="preserve">
+        <value>케이블 연결을 사용하려면 필수 : {0}을 끄십시오. 이더넷 케이블을 연결하십시오. 다시 켜십시오.</value>
+    </data>
+    <data name="PlayerControl_Global" xml:space="preserve">
+        <value>글로벌</value>
+    </data>
+    <data name="Airplay_Casting" xml:space="preserve">
+        <value>Airplay에서 재생</value>
+    </data>
+    <data name="Settings_RestrictedByAirplay" xml:space="preserve">
+        <value>MiND가 AirPlay 액세서리로 구성되어 있습니다. 따라서 iOS Home 앱을 사용하여 MiND를 구성해야합니다.</value>
+    </data>
+    <data name="Settings_RestrictedByAirplayButAllowGoogleHome" xml:space="preserve">
+        <value>MiND가 AirPlay 액세서리로 구성되어 있습니다. 따라서 iOS Home 또는 Google Home 앱을 사용하여 MiND를 구성해야합니다.</value>
+    </data>
+    <data name="Settings_RestrictedByChromeCast" xml:space="preserve">
+        <value>MiND는 Chromecast 액세서리입니다. 따라서 Google Home 또는 iOS Home 앱을 사용하여 MiND를 구성해야합니다.</value>
+    </data>
+    <data name="Settings_OpenGoogleHome" xml:space="preserve">
+        <value>Google Home 열기</value>
+    </data>
+    <data name="Settings_iOSHomeApp" xml:space="preserve">
+        <value>Home 앱</value>
+    </data>
+    <data name="AppInfo_SubmitLogsTitle" xml:space="preserve">
+        <value>로그 제출</value>
+    </data>
+    <data name="AppInfo_SubmitLogsContent" xml:space="preserve">
+        <value>이전에 지원 티켓을 만든 경우 모바일 장치에서 로그를 제출하십시오.</value>
+    </data>
+    <data name="General_Email" xml:space="preserve">
+        <value>귀하의 이메일:</value>
+    </data>
+    <data name="SubmitLogs_TicketNumber" xml:space="preserve">
+        <value>티켓 번호 :</value>
+    </data>
+    <data name="SubmitLogs_Success" xml:space="preserve">
+        <value>로그를 제출해 주셔서 감사합니다. 지원팀이 최대한 빨리 연락을 드릴 것입니다.</value>
+    </data>
+    <data name="SubmitLogs_EmailInvalid" xml:space="preserve">
+        <value>유효한 이메일 주소를 입력하세요.</value>
+    </data>
+    <data name="SubmitLogs_TicketNumberInvalid" xml:space="preserve">
+        <value>티켓 번호를 입력하십시오.</value>
+    </data>
+    <data name="Accessibility_EmailTextFieldHint" xml:space="preserve">
+        <value>이메일 주소 텍스트 필드</value>
+    </data>
+    <data name="Accessibility_TicketTextFieldHint" xml:space="preserve">
+        <value>티켓 번호 텍스트 필드.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child4" xml:space="preserve">
+        <value>장치가 구성되지 않은 것으로 표시되면이 진단 도구를 사용하기 전에 유선 연결을 사용해야합니다.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child5" xml:space="preserve">
+        <value>장치가 구성되지 않은 것으로 표시되면이 진단 도구를 사용하기 전에 유선 연결을 사용하거나 {0} 화면을 사용하여 네트워크 연결을 설정해야합니다.</value>
+    </data>
+    <data name="Settings_TooManyFailedAttemptsUnconfigured" xml:space="preserve">
+        <value>장치가 블루투스 연결에 어려움을 겪고있는 것 같습니다. MiND 장치에 가까이 다가 가서 다시 시도하거나 유선 연결을 사용하여 네트워크 연결을 설정하는 것이 좋습니다.</value>
+    </data>
+    <data name="Settings_TooManyFailedAttempts" xml:space="preserve">
+        <value>장치 연결에 어려움을 겪고있는 것 같습니다. 유선 연결을 사용하거나 MiND 장치의 전원을 껐다 켜는 것이 좋습니다.</value>
+    </data>
+    <data name="General_SortBy" xml:space="preserve">
+        <value>정렬 : </value>
+    </data>
+    <data name="General_Finish" xml:space="preserve">
+        <value>끝</value>
+    </data>
+    <data name="AppInfo_ReviewTutorialTitle" xml:space="preserve">
+        <value>앱 튜토리얼</value>
+    </data>
+    <data name="AppInfo_ReviewTutorialLabel" xml:space="preserve">
+        <value>앱 자습서를 검토하려면 여기를 누르십시오.</value>
+    </data>
+    <data name="AppInfo_ReviewNewFeaturesTitle" xml:space="preserve">
+        <value>최신 앱 기능</value>
+    </data>
+    <data name="AppInfo_ReviewNewFeaturesLabel" xml:space="preserve">
+        <value>최신 앱 기능을 검토하려면 여기를 누르십시오.</value>
+    </data>
+    <data name="AppInfo_AppGuideTitle" xml:space="preserve">
+        <value>앱 가이드</value>
+    </data>
+    <data name="Reconnect_Level1" xml:space="preserve">
+        <value>MiND 장치와 다시 연결하려고합니다.</value>
+    </data>
+    <data name="Reconnect_Level2" xml:space="preserve">
+        <value>다시 연결하는 데 평소보다 오래 걸리므로 기다려주십시오.</value>
+    </data>
+    <data name="Reconnect_UnableConnect" xml:space="preserve">
+        <value>MiND 장치에 다시 연결할 수 없습니다.</value>
+    </data>
+    <data name="Reconnect_UnableSync" xml:space="preserve">
+        <value>MiND 장치의 속성을 동기화 할 수 없습니다.</value>
+    </data>
+    <data name="General_Sample" xml:space="preserve">
+        <value>견본</value>
+    </data>
+    <data name="Library_History" xml:space="preserve">
+        <value>탐색 기록</value>
+    </data>
+    <data name="Library_HistoryWithTitle" xml:space="preserve">
+        <value>{0}의 탐색 기록</value>
+    </data>
+    <data name="General_Filter" xml:space="preserve">
+        <value>필터</value>
+    </data>
+    <data name="AppInfo_Orientation" xml:space="preserve">
+        <value>좋아하는 방향</value>
+    </data>
+    <data name="AppInfo_Landscape" xml:space="preserve">
+        <value>경치</value>
+    </data>
+    <data name="AppInfo_Portrait" xml:space="preserve">
+        <value>초상화</value>
+    </data>
+    <data name="AppInfo_Default" xml:space="preserve">
+        <value>기본</value>
+    </data>
+    <data name="SortLabelValue" xml:space="preserve">
+        <value>종류</value>
+    </data>
+    <data name="Accessibility_HistoryLabel" xml:space="preserve">
+        <value>히스토리 버튼</value>
+    </data>
+    <data name="Accessibility_HistoryHint" xml:space="preserve">
+        <value>특정보기로 다시 이동</value>
+    </data>
+    <data name="PlayAll" xml:space="preserve">
+        <value>모두 재생</value>
+    </data>
+    <data name="QueueAll" xml:space="preserve">
+        <value>모두 대기열</value>
+    </data>
+    <data name="Accessibility_PlayAll" xml:space="preserve">
+        <value>모두 재생 버튼</value>
+    </data>
+    <data name="Accessibility_QueueAll" xml:space="preserve">
+        <value>모두 대기열 버튼</value>
+    </data>
+    <data name="PlaySelectedTracks" xml:space="preserve">
+        <value>플레이</value>
+    </data>
+    <data name="QueueSelectedTracks" xml:space="preserve">
+        <value>열</value>
+    </data>
+    <data name="Accessibility_PlaySelectedTracks" xml:space="preserve">
+        <value>선택한 트랙 재생 버튼</value>
+    </data>
+    <data name="Accessibility_QueueSelectedTracks" xml:space="preserve">
+        <value>선택한 트랙 대기열 버튼</value>
+    </data>
+    <data name="PlaySelectedTracksDescription" xml:space="preserve">
+        <value>선택한 트랙 만 재생하려면 아래 옵션을 선택하고 모두 재생하려면 선택을 취소하십시오.</value>
+    </data>
+    <data name="OpenSpotifyApp" xml:space="preserve">
+        <value>Spotify 앱열기</value>
+    </data>
+    <data name="GetSpotifyFree" xml:space="preserve">
+        <value>무료로 Spotify 이용하기</value>
+    </data>
+    <data name="SpotifyPlaybackOptions" xml:space="preserve">
+        <value>재생 옵션</value>
+    </data>
+    <data name="ConnectedAs" xml:space="preserve">
+        <value>{0} (으)로 연결됨</value>
+    </data>
+    <data name="ResumePlayback" xml:space="preserve">
+        <value>재생 재개</value>
+    </data>
+    <data name="SpotifyHelpTitle" xml:space="preserve">
+        <value>음악을 재생할 준비 되었나요?</value>
+    </data>
+    <data name="SpotifyHelpDetails" xml:space="preserve">
+        <value>Spotify 앱을 리모컨으로 사용해 스피커 또는 TV에서 음악을 감상하세요.</value>
+    </data>
+    <data name="SpotifyLearnMore" xml:space="preserve">
+        <value>더 알아보기</value>
+    </data>
+    <data name="SpotifyUserNotLoggedIn" xml:space="preserve">
+        <value>사용자가 로그인하지 않았습니다.</value>
+    </data>
+    <data name="SpotifyNotSupported" xml:space="preserve">
+        <value>Spotify는 지원되지 않습니다.</value>
+    </data>
+    <data name="PlaybackOptionPlayQueue" xml:space="preserve">
+        <value>MiND 대기열 재생</value>
+    </data>
+    <data name="ServiceVolumeControl" xml:space="preserve">
+        <value>볼륨 {0}</value>
+    </data>
+    <data name="Multiroom" xml:space="preserve">
+        <value>멀티 룸</value>
+    </data>
+    <data name="CheckPermissionLabel" xml:space="preserve">
+        <value>권한 확인</value>
+    </data>
+    <data name="CheckPermissionDescription" xml:space="preserve">
+        <value>MiND 앱에 로컬 네트워크 액세스 권한이 없습니다. 이 권한은 네트워크에서 MiND 장치 및 UPnP 서버를 검색하는 데 필요합니다.</value>
+    </data>
+    <data name="Diagnostic_AppPermission" xml:space="preserve">
+        <value>MiND 앱에 주변 기기에 액세스 할 수있는 iOS 권한이 있는지 확인하세요.</value>
+    </data>
+    <data name="Diagnostic_AppPermissionLocalNetwork" xml:space="preserve">
+        <value>Apple 기기 설정-&gt; MiND에서 MiND 앱에 로컬 네트워크 권한을 부여 할 수 있습니다.</value>
+    </data>
+    <data name="Diagnostic_AppPermissionBluetooth" xml:space="preserve">
+        <value>{0}이 이더넷에 연결되지 않았거나 Wi-Fi에 구성되어 있지 않은 경우 Apple 기기 설정-&gt; MiND에서 MiND 앱에 블루투스 권한을 부여한 다음 블루투스를 켜고 앱을 다시 시작하세요.</value>
+    </data>
+    <data name="Discovery_NoMiNDFound_iOS14" xml:space="preserve">
+        <value>MOON 장치의 전원이 켜져 있고 네트워크에 연결되어 있는지 확인하십시오. 또한 MiND 앱에 iOS 설정에서 로컬 네트워크 및 Bluetooth에 액세스 할 수있는 권한이 있는지 확인하십시오.</value>
+    </data>
+    <data name="ToContinue" xml:space="preserve">
+        <value>계속하려면 확인을 누르세요.</value>
+    </data>
+    <data name="ToDropConnection" xml:space="preserve">
+        <value>현재 진행 중인 연결을 끊으려면 [취소]를 누르세요.</value>
+    </data>
+    <data name="MiND_ConnexionProgressMessage" xml:space="preserve">
+        <value>MinND에 연결하는 중...</value>
+    </data>
+    <data name="Identifier" xml:space="preserve">
+        <value>ID</value>
+    </data>
+    <data name="SpotifyFriendlyName" xml:space="preserve">
+        <value>Spotify</value>
+    </data>
+    <data name="MaxCharacter" xml:space="preserve">
+        <value>최대 {0}자</value>
+    </data>
+    <data name="Network_WifiTestTitle" xml:space="preserve">
+        <value>Wi-Fi 테스트</value>
+    </data>
+    <data name="Network_WifiTest" xml:space="preserve">
+        <value>Wi-Fi 비밀번호 테스트</value>
+    </data>
+    <data name="Success" xml:space="preserve">
+        <value>성공</value>
+    </data>
+    <data name="Failure" xml:space="preserve">
+        <value>실패</value>
+    </data>
+    <data name="Reset" xml:space="preserve">
+        <value>초기화</value>
+    </data>
+    <data name="Test" xml:space="preserve">
+        <value>테스트</value>
+    </data>
+    <data name="Network_WifiTestMessage" xml:space="preserve">
+        <value>이 테스트는 이전에 성공한 것 같습니다. 다시 시도하려면 테스트한 Wi-Fi 구성을 모바일 장치에서 재설정해야 합니다. 실패 시 비밀번호가 틀리면 테스트한 Wi-Fi에서 모바일 장치의 연결이 끊어질 수 있으므로 주의하십시오.</value>
+    </data>
+    <data name="Automatic" xml:space="preserve">
+        <value>자동적 인</value>
+    </data>
+    <data name="Manual" xml:space="preserve">
+        <value>마누엘</value>
+    </data>
+    <data name="Settings_DataSection" xml:space="preserve">
+        <value>데이터</value>
+    </data>
+    <data name="Settings_DataSyncLabel" xml:space="preserve">
+        <value>데이터 동기화</value>
+    </data>
+    <data name="Settings_DataSyncValue" xml:space="preserve">
+        <value>클라우드 데이터베이스에 저장된 재생 목록 데이터 로드</value>
+    </data>
+    <data name="Settings_PersonalizationSection" xml:space="preserve">
+        <value>개인화</value>
+    </data>
+    <data name="DeviceId" xml:space="preserve">
+        <value>장치 아이디</value>
+    </data>
+    <data name="Secret" xml:space="preserve">
+        <value>비밀</value>
+    </data>
+    <data name="TracksCount" xml:space="preserve">
+        <value>트랙 수</value>
+    </data>
+    <data name="FirebaseAuthError" xml:space="preserve">
+        <value>클라우드 데이터를 사용할 수 없음</value>
+    </data>
+    <data name="Download" xml:space="preserve">
+        <value>다운로드</value>
+    </data>
+    <data name="BugReportFormSupportRequest" xml:space="preserve">
+        <value>지원 요청</value>
+    </data>
+    <data name="BugReportFormNamePlaceholder" xml:space="preserve">
+        <value>당신의 이름</value>
+    </data>
+    <data name="BugReportFormEmailPlaceholder" xml:space="preserve">
+        <value>귀하의 이메일</value>
+    </data>
+    <data name="BugReportFormConfirmEmailPlaceholder" xml:space="preserve">
+        <value>이메일 확인</value>
+    </data>
+    <data name="BugReportFormSubjectPlaceholder" xml:space="preserve">
+        <value>요청의 대상</value>
+    </data>
+    <data name="CountryUSA" xml:space="preserve">
+        <value>미국</value>
+    </data>
+    <data name="CountryCanada" xml:space="preserve">
+        <value>캐나다</value>
+    </data>
+    <data name="Country" xml:space="preserve">
+        <value>국가</value>
+    </data>
+    <data name="Name" xml:space="preserve">
+        <value>이름</value>
+    </data>
+    <data name="Email" xml:space="preserve">
+        <value>이메일</value>
+    </data>
+    <data name="Subject" xml:space="preserve">
+        <value>주제</value>
+    </data>
+    <data name="Message" xml:space="preserve">
+        <value>메시지</value>
+    </data>
+    <data name="BugReportFormDescribeYourBug" xml:space="preserve">
+        <value>버그 설명</value>
+    </data>
+    <data name="Attachment" xml:space="preserve">
+        <value>부착</value>
+    </data>
+    <data name="BugReportFormAttachment" xml:space="preserve">
+        <value>가능한 경우 버그의 스크린 샷을 보내주십시오</value>
+    </data>
+    <data name="BugReportFormSubjectEmptyError" xml:space="preserve">
+        <value>요청 제목은 비워 둘 수 없습니다</value>
+    </data>
+    <data name="BugReportFormSubmitSuccessTitle" xml:space="preserve">
+        <value>고맙습니다!</value>
+    </data>
+    <data name="BugReportFormSubmitSuccessMessage" xml:space="preserve">
+        <value>MiND 앱 버그를 제출해 주셔서 감사합니다</value>
+    </data>
+    <data name="BugReportFormEmailEmptyError" xml:space="preserve">
+        <value>이메일은 비워 둘 수 없습니다</value>
+    </data>
+    <data name="BugReportFormNameEmptyError" xml:space="preserve">
+        <value>이메일은 비워 둘 수 없습니다</value>
+    </data>
+    <data name="BugReportFormDescriptionEmptyError" xml:space="preserve">
+        <value>버그 설명은 비워 둘 수 없습니다</value>
+    </data>
+    <data name="BugReportFormEmailWrongValueError" xml:space="preserve">
+        <value>이메일은 유효한 형식이어야합니다</value>
+    </data>
+    <data name="BugReportFormSubjectWrongValueError" xml:space="preserve">
+        <value>버그 이름은 텍스트 여야합니다</value>
+    </data>
+    <data name="BugReportFormDescriptionWrongValueError" xml:space="preserve">
+        <value>버그 설명은 텍스트 여야합니다</value>
+    </data>
+    <data name="BugReportFormUploadError" xml:space="preserve">
+        <value>파일이 너무 큽니다. 최대 업로드 크기는 20MB입니다</value>
+    </data>
+    <data name="BugReportFormEmailConfirmError" xml:space="preserve">
+        <value>이메일 확인이 제공된 이메일과 일치하지 않습니다</value>
+    </data>
+    <data name="Settings_Diagnostic" xml:space="preserve">
+        <value>특수 증상</value>
+    </data>
+    <data name="Send" xml:space="preserve">
+        <value>보내다</value>
+    </data>
+    <data name="MobileDeviceModel" xml:space="preserve">
+        <value>모바일 장치 모델</value>
+    </data>
+    <data name="OSVersion" xml:space="preserve">
+        <value>OS 버전</value>
+    </data>
+    <data name="AppVersion" xml:space="preserve">
+        <value>앱 버전</value>
+    </data>
+    <data name="Required" xml:space="preserve">
+        <value>필수의</value>
+    </data>
+    <data name="AdditionalInfoSent" xml:space="preserve">
+        <value>추가 정보가 보냈습니다</value>
+    </data>
+    <data name="ImageCount" xml:space="preserve">
+        <value>이미지 수</value>
+    </data>
+    <data name="BugReportFormSubmitErrorDefaultTitle" xml:space="preserve">
+        <value>예기치 않은 오류</value>
+    </data>
+    <data name="BugReportFormSubmitErrorDefaultMessage" xml:space="preserve">
+        <value>나중에 다시 시도하십시오</value>
+    </data>
+    <data name="BugReportFormSubmitError404Title" xml:space="preserve">
+        <value>오류 404</value>
+    </data>
+    <data name="BugReportFormSubmitError404Message" xml:space="preserve">
+        <value>우리는 당신이 찾고있는 것을 찾지 못했습니다</value>
+    </data>
+    <data name="BugReportFormSubmitErrorInternalTitle" xml:space="preserve">
+        <value>오류 500</value>
+    </data>
+    <data name="BugReportFormSubmitErrorInternalMessage" xml:space="preserve">
+        <value>문제가 발생했습니다. 나중에 다시 시도하십시오</value>
+    </data>
+    <data name="Language_Thai" xml:space="preserve">
+        <value>TH - 태국어</value>
+    </data>
+    <data name="UploadPlaylistsButton" xml:space="preserve">
+        <value>업로드</value>
+    </data>
+    <data name="TodayAppCompatibility" xml:space="preserve">
+        <value>iOS14+에서 더 이상 사용되지 않습니다</value>
+    </data>
+    <data name="UndefinedValueHint" xml:space="preserve">
+        <value>한정되지 않은. 편집 모드로 전환하려면 연필 버튼을 누릅니다.</value>
+    </data>
+    <data name="Undefined" xml:space="preserve">
+        <value>한정되지 않은</value>
+    </data>
+    <data name="AppleMusicCompatibility" xml:space="preserve">
+        <value>MOON은 더 이상 MiND 컨트롤러와 함께 모바일 장치에 저장된 파일의 호환성을 보장 할 수 없습니다. iTunes가 Apple Music으로 대체되었을 때이 기능은 쓸모 없게되었습니다.</value>
+    </data>
+    <data name="DeprecatedMessage" xml:space="preserve">
+        <value>더 이상이 기능의 호환성을 보장 할 수 없습니다.</value>
+    </data>
+    <data name="Enable" xml:space="preserve">
+        <value>할 수 있게 하다</value>
+    </data>
+    <data name="AppleMusicAlternative" xml:space="preserve">
+        <value>Music 앱 에서이 파일을 계속 재생할 수 있습니다. Music의 오디오는 모델에 따라 AirPlay, USB 또는 Bluetooth를 통해 MiND로 전송 될 수 있습니다.</value>
+    </data>
+    <data name="AppleMusicOptions" xml:space="preserve">
+        <value>이 기능을 활성화하면이 경고가 더 이상 표시되지 않습니다. 이 기능을 제거하면 다음 에이 모바일 장치에 MiND 영역을로드 할 때 사용할 수 없습니다.</value>
+    </data>
+    <data name="NetworkErrorWrongPassword" xml:space="preserve">
+        <value>유효하지 않은 비밀번호</value>
+    </data>
+    <data name="NetworkErrorPasswordLength" xml:space="preserve">
+        <value>암호 또는 키 길이가 초과됨</value>
+    </data>
+    <data name="BluetoothError" xml:space="preserve">
+        <value>블루투스 오류</value>
+    </data>
+    <data name="RestartApp" xml:space="preserve">
+        <value>앱을 다시 시작하세요.</value>
+    </data>
+    <data name="Visibility" xml:space="preserve">
+        <value>시계</value>
+    </data>
+    <data name="PrivateDescriptionOff" xml:space="preserve">
+        <value>다른 사용자에게 표시</value>
+    </data>
+    <data name="MayChangePlaylistName" xml:space="preserve">
+        <value>재생 목록 제목을 변경할 수 있습니다!</value>
+    </data>
+    <data name="NotAuthenticatedToTheCloud" xml:space="preserve">
+        <value>클라우드에 인증되지 않았습니다!</value>
+    </data>
+    <data name="SyncingPlaylistsWithCloud" xml:space="preserve">
+        <value>클라우드와 재생 목록 동기화 중...</value>
+    </data>
+    <data name="SyncingPlaylistsWithCloudSucceed" xml:space="preserve">
+        <value>재생 목록이 클라우드와 성공적으로 동기화되었습니다</value>
+    </data>
+    <data name="SelectPicture" xml:space="preserve">
+        <value>사진 선택하기</value>
+    </data>
+    <data name="MissingArguments" xml:space="preserve">
+        <value>인수가 부족합니다</value>
+    </data>
+    <data name="Tracks" xml:space="preserve">
+        <value>곡</value>
+    </data>
+    <data name="NoPlaylists" xml:space="preserve">
+        <value>재생 목록이 없습니다</value>
+    </data>
+    <data name="MyPlaylists" xml:space="preserve">
+        <value>나의 재생 목록</value>
+    </data>
+    <data name="DeletePlaylist" xml:space="preserve">
+        <value>재생 목록 삭제</value>
+    </data>
+    <data name="PlaylistDeletedSuccessfully" xml:space="preserve">
+        <value>재생 목록이 성공적으로 삭제되었습니다!</value>
+    </data>
+    <data name="PlaylistSyncedSuccessfully" xml:space="preserve">
+        <value>재생 목록이 성공적으로 동기화되었습니다!</value>
+    </data>
+    <data name="PlaylistClonedSuccessfully" xml:space="preserve">
+        <value>재생 목록이 성공적으로 복제되었습니다!</value>
+    </data>
+    <data name="PlaylistUpdatedSuccessfully" xml:space="preserve">
+        <value>재생 목록이 성공적으로 업데이트되었습니다!</value>
+    </data>
+    <data name="PlaylistNotFound" xml:space="preserve">
+        <value>재생 목록을 찾을 수 없습니다!</value>
+    </data>
+    <data name="ClonePlaylist" xml:space="preserve">
+        <value>재생 목록 복제</value>
+    </data>
+    <data name="Clone" xml:space="preserve">
+        <value>복제하기</value>
+    </data>
+    <data name="IsUpToDate" xml:space="preserve">
+        <value>최신 상태입니다</value>
+    </data>
+    <data name="Administrators" xml:space="preserve">
+        <value>관리자</value>
+    </data>
+    <data name="AdminDevices" xml:space="preserve">
+        <value>관리 장치 (UUID)</value>
+    </data>
+    <data name="EditPlaylist" xml:space="preserve">
+        <value>플레이리스트 수정</value>
+    </data>
+    <data name="EditPlaylistDescription" xml:space="preserve">
+        <value>이 재생 목록을 편집하려면 복사본을 만들어야합니다</value>
+    </data>
+    <data name="MakeCopy" xml:space="preserve">
+        <value>복사본 만들기</value>
+    </data>
+    <data name="SavePlaylist" xml:space="preserve">
+        <value>플레이리스트 저장</value>
+    </data>
+    <data name="DeleteTrack" xml:space="preserve">
+        <value>트랙 삭제</value>
+    </data>
+    <data name="NetworkWarningDhcpIsOff" xml:space="preserve">
+        <value>DHCP가 꺼져 있습니다.</value>
+    </data>
+    <data name="FileSorting" xml:space="preserve">
+        <value>파일 정렬</value>
+    </data>
+    <data name="MediaServer" xml:space="preserve">
+        <value>미디어 서버</value>
+    </data>
+    <data name="Expand" xml:space="preserve">
+        <value>확장하다</value>
+    </data>
+    <data name="AreYouSure" xml:space="preserve">
+        <value>확실합니까?</value>
+    </data>
+    <data name="ContactMOONSupport" xml:space="preserve">
+        <value>문의 MOON  지원</value>
+    </data>
+    <data name="ContactMOONSupportDesc" xml:space="preserve">
+        <value>어떻게 도움이 될 수 있습니까?</value>
+    </data>
+
+    <data name="ContactMOONSupportDetails" xml:space="preserve">
+        <value>MOON  지원팀에 문의하세요.</value>
+    </data>
+    <data name="ContactMOONSupportSubDesc" xml:space="preserve">
+        <value>도움을 받으려면 세부 정보를 제출하십시오.</value>
+    </data>
+    <data name="IncludeOthersPlaylists" xml:space="preserve">
+        <value>다른 사람의 재생목록 포함</value>
+    </data>
+    <data name="AttachMyLogs" xml:space="preserve">
+        <value>내 로그 파일 첨부</value>
+    </data>
+    <data name="AttachMyLogsDescription" xml:space="preserve">
+        <value>로그 파일을 첨부하여 문제를 신속하게 해결할 수 있도록 도와주세요.</value>
+    </data>
+    <data name="CloudAutoSyncTitle" xml:space="preserve">
+        <value>자동 동기화</value>
+    </data>
+    <data name="CloudMobileName" xml:space="preserve">
+        <value>휴대기기 이름</value>
+    </data>
+    <data name="CloudMobilesHubDescription" xml:space="preserve">
+        <value>데이터 동기화를 위한 장치 링크 활성화</value>
+    </data>
+    <data name="CloudMobilesHubTitle" xml:space="preserve">
+        <value>모바일 장치 허브</value>
+    </data>
+    <data name="CloudItemToUpload" xml:space="preserve">
+        <value>클라우드 데이터에 업로드 예정</value>
+    </data>
+    <data name="CloudItemToDownload" xml:space="preserve">
+        <value>클라우드 데이터에서 다운로드</value>
+    </data>
+    <data name="CloudItemSynced" xml:space="preserve">
+        <value>동기화됨</value>
+    </data>
+    <data name="PrivateTitle" xml:space="preserve">
+        <value>사적인</value>
+    </data>
+    <data name="PrivateDescriptionOn" xml:space="preserve">
+        <value>내 네트워크의 다른 사용자에게 표시되지 않음</value>
+    </data>
+    <data name="CloudAutoSyncMessage" xml:space="preserve">
+        <value>클라우드에 저장된 재생 목록의 변경 사항을 자동으로 업로드하고 다운로드합니다. 라이브러리 설정에서 언제든지 이 구성을 변경할 수 있습니다.</value>
+    </data>
+    <data name="VisibilityDescriptionOff" xml:space="preserve">
+        <value>목록에 표시되지 않음</value>
+    </data>
+    <data name="AutoDetectedCountry" xml:space="preserve">
+        <value>자동 감지된 국가</value>
+    </data>
+    <data name="BluetoothFailed" xml:space="preserve">
+        <value>이 모바일 장치에서 Bluetooth를 껐다가 다시 켜십시오.</value>
+    </data>
+    <data name="VisibleDescriptionOff" xml:space="preserve">
+        <value>목록에 표시되지 않음</value>
+    </data>
+    <data name="MiND_AppIsOff" xml:space="preserve">
+        <value>MiND 앱이 켜져 있지 않습니다</value>
+    </data>
+    <data name="TrackAddedSuccess" xml:space="preserve">
+        <value>트랙이 재생목록에 성공적으로 추가되었습니다!!</value>
+    </data>
+    <data name="TrackAlreadyInPlaylist" xml:space="preserve">
+        <value>이 트랙은 이미 재생목록에 있습니다.</value>
+    </data>
+    <data name="Player_AddToMyPlaylists" xml:space="preserve">
+        <value>내 저장된 재생목록에 추가</value>
+    </data>
+    <data name="SharedPlaylists" xml:space="preserve">
+        <value>공유 재생목록</value>
+    </data>
+    <data name="Language_TraditionalChinese" xml:space="preserve">
+        <value>ZHO - 중국어 번체</value>
+    </data>
+    <data name="NotificationUserDescription" xml:space="preserve">
+        <value>알림을 통해 사용자는 통신 및 업데이트를 받을 수 있습니다.</value>
+    </data>
+    <data name="NearbyDevices" xml:space="preserve">
+        <value>주변 장치</value>
+    </data>
+    <data name="IsPlaylistPublic" xml:space="preserve">
+        <value>이 재생목록은 공개인가요?</value>
+    </data>
+    <data name="ClearAll" xml:space="preserve">
+        <value>모두 지우기</value>
+    </data>
+    <data name="WifiResetHint" xml:space="preserve">
+        <value>모바일 장치의 인터넷을 비활성화하고 활성화합니다.</value>
+    </data>
+    <data name="Messaging" xml:space="preserve">
+        <value>메시징</value>
+    </data>
+    <data name="MessagingDescription" xml:space="preserve">
+        <value>모바일 장치에서 문자 알림을 받을 수 있도록 허용하세요.</value>
+    </data>
+    <data name="MessagingAppAndFirmware" xml:space="preserve">
+        <value>펌웨어 및 앱 업데이트 알림</value>
+    </data>
+    <data name="MessagingNews" xml:space="preserve">
+        <value>뉴스 알림</value>
+    </data>
+    <data name="Enabled" xml:space="preserve">
+        <value>활성화됨</value>
+    </data>
+    <data name="Disabled" xml:space="preserve">
+        <value>장애가 있는</value>
+    </data>
+    <data name="CloudPlaylistsDescription" xml:space="preserve">
+        <value>귀하의 장치에 저장된 목록과 귀하의 장치와 관련된 목록을 데이터 클라우드에 통합합니다.</value>
+    </data>
+</root>

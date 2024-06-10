@@ -1,0 +1,2002 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>2.0</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    
+    <data name="Language_Default" xml:space="preserve">
+        <value>Język urządzenia</value>
+    </data>  
+    <data name="Language_English" xml:space="preserve">
+        <value>EN - Engels</value>
+    </data>
+    <data name="Language_German" xml:space="preserve">
+        <value>DE - Duitse</value>
+    </data>
+    <data name="Language_Espagnol" xml:space="preserve">
+        <value>ES - Spaans</value>
+    </data>
+    <data name="Language_French" xml:space="preserve">
+        <value>FR - Frans</value>
+    </data>
+    <data name="Language_Japanese" xml:space="preserve">
+        <value>JA - Japans</value>
+    </data>
+    <data name="Language_Korean" xml:space="preserve">
+        <value>KO - Koreaans</value>
+    </data>
+    <data name="Language_Dutch" xml:space="preserve">
+        <value>NL - Nederlands</value>
+    </data>
+    <data name="Language_Polish" xml:space="preserve">
+        <value>PL - Pools</value>
+    </data>
+    <data name="Language_Chinese" xml:space="preserve">
+        <value>ZH - Chinese</value>
+    </data>
+    
+    <data name="Browser_Missing" xml:space="preserve">
+        <value>U heeft geen browser om een webpagina te openen</value>
+    </data>
+    <data name="PlaylistCategory_SavedPlaylists" xml:space="preserve">
+        <value>Opgeslagen afspeellijsten</value>
+    </data>
+    <data name="PlaylistCategory_WebRadio" xml:space="preserve">
+        <value>Webradio's</value>
+    </data>
+    <data name="PlaylistCategory_MusicService" xml:space="preserve">
+        <value>Muziekservices</value>
+    </data>
+    <data name="PlaylistCategory_UPnP" xml:space="preserve">
+        <value>UPnP-mediaservers</value>
+    </data>
+    <data name="PlaylistCategory_MediaStorage" xml:space="preserve">
+        <value>Media opslag</value>
+    </data>
+    <data name="USB" xml:space="preserve">
+        <value>USB</value>
+    </data>
+    <data name="Library_ConnectionFailed" xml:space="preserve">
+        <value>Kan hoofdmenu niet ophalen.</value>
+    </data>
+    <data name="Library_Item_Count" xml:space="preserve">
+        <value>{0} van {1}</value>
+    </data>
+    <data name="General_Loading" xml:space="preserve">
+        <value>Bezig met laden</value>
+    </data>
+    <data name="General_Cancel" xml:space="preserve">
+        <value>annuleren</value>
+    </data>
+    <data name="Playlists_PlaylistsTitle" xml:space="preserve">
+        <value>Afspeellijsten</value>
+    </data>
+    <data name="General_Error" xml:space="preserve">
+        <value>Fout</value>
+    </data>
+    <data name="General_ErrorMessage" xml:space="preserve">
+        <value>Kan de bewerking niet uitvoeren</value>
+    </data>
+    <data name="General_LoadingError" xml:space="preserve">
+        <value>Kan de informatie niet laden.</value>
+    </data>
+    <data name="Specific_LoadingError" xml:space="preserve">
+        <value>Kan {0} niet laden</value>
+    </data>
+    <data name="General_Ok" xml:space="preserve">
+        <value>OK</value>
+    </data>
+    <data name="Playlists_DeletePlaylistTitle" xml:space="preserve">
+        <value>Afspeellijst verwijderen</value>
+    </data>
+    <data name="Playlists_DeletePlaylistConfirmation" xml:space="preserve">
+        <value>Weet je zeker dat je deze afspeellijst wilt verwijderen?</value>
+    </data>
+    <data name="AddTrack_TopButton" xml:space="preserve">
+        <value>Top</value>
+    </data>
+    <data name="AddTrack_NextButton" xml:space="preserve">
+        <value>De volgende</value>
+    </data>
+    <data name="AddTrack_EndButton" xml:space="preserve">
+        <value>Einde</value>
+    </data>
+    <data name="AddTrack_ReplaceButton" xml:space="preserve">
+        <value>Vervangen</value>
+    </data>
+    <data name="AddTrack_Title" xml:space="preserve">
+        <value>Tracks toevoegen ...</value>
+    </data>
+    <data name="AddTrack_WorkingTitle" xml:space="preserve">
+        <value>Werkend</value>
+    </data>
+    <data name="AddTrack_AddingTracksToQueue" xml:space="preserve">
+        <value>Tracks toevoegen aan wachtrij. Wacht alsjeblieft.</value>
+    </data>
+    <data name="General_ErrorBrowsing" xml:space="preserve">
+        <value>Browsefout</value>
+    </data>
+    <data name="AddTrack_EmptyDirectory" xml:space="preserve">
+        <value>Geen inhoud beschikbaar.</value>
+    </data>
+    <data name="Input_Title" xml:space="preserve">
+        <value>Ingangen</value>
+    </data>
+    <data name="Input_LoadingError" xml:space="preserve">
+        <value>Er is een fout opgetreden bij het laden van de ingangen</value>
+    </data>
+    <data name="Input_ModificationError" xml:space="preserve">
+        <value>Er is een fout opgetreden bij het wijzigen van de invoer</value>
+    </data>
+    <data name="Library_Title" xml:space="preserve">
+        <value>Bibliotheek</value>
+    </data>
+    <data name="General_ConnectionLostTitle" xml:space="preserve">
+        <value>Verbinding verbroken</value>
+    </data>
+    <data name="General_ConnectionLostMessage" xml:space="preserve">
+        <value>Sorry,  de verbinding met je apparaat is verbroken. Probeer opnieuw verbinding te maken.</value>
+    </data>
+    <data name="Zones_Title" xml:space="preserve">
+        <value>Zones</value>
+    </data>
+    <data name="Settings_SettingsSavedTitle" xml:space="preserve">
+        <value>Instellingen opgeslagen</value>
+    </data>
+    <data name="Settings_SettingsSavedMessage" xml:space="preserve">
+        <value>Uw nieuwe instellingen zijn opgeslagen. De MiND verschijnt weer in het zonegebied.</value>
+    </data>
+    <data name="Settings_UnconfiguredMindMessage" xml:space="preserve">
+        <value>Deze MiND is nog niet geconfigureerd. Configureer de netwerkinstellingen om van alle functies gebruik te kunnen maken.</value>
+    </data>
+    <data name="Settings_ConfigureButton" xml:space="preserve">
+        <value>Configureer</value>
+    </data>
+    <data name="General_0_Items" xml:space="preserve">
+        <value>{0} Items</value>
+    </data>
+    <data name="General_0_Item" xml:space="preserve">
+        <value>{0} Item</value>
+    </data>
+    <data name="AddTrack_More" xml:space="preserve">
+        <value>Meer...</value>
+    </data>
+    <data name="Queue_Title" xml:space="preserve">
+        <value>AFSPEELLIJST</value>
+    </data>
+    <data name="Queue_Track_Paused" xml:space="preserve">
+        <value>PAUZE</value>
+    </data>
+    <data name="Queue_Track_Playing" xml:space="preserve">
+        <value>SPELEN</value>
+    </data>
+    <data name="Queue_Track_Stopped" xml:space="preserve">
+        <value>GESTOPT</value>
+    </data>
+    <data name="Queue_Track_Index" xml:space="preserve">
+        <value>{0} van {1}</value>
+    </data>
+    <data name="Queue_Track" xml:space="preserve">
+        <value>{0} track</value>
+    </data>
+    <data name="Queue_Tracks" xml:space="preserve">
+        <value>{0} nummers</value>
+    </data>
+    <data name="Queue_Track_Index_NoTrack" xml:space="preserve">
+        <value>geen tracks</value>
+    </data>
+    <data name="Queue_Track_UnableToPlay" xml:space="preserve">
+        <value>Kan track niet afspelen</value>
+    </data>
+    <data name="General_UnsupportedFormat" xml:space="preserve">
+        <value>Niet ondersteund formaat</value>
+    </data>
+    <data name="Playlist_ExistingPlaylists" xml:space="preserve">
+        <value>Bestaande afspeellijsten</value>
+    </data>
+    <data name="Library_PlayNow" xml:space="preserve">
+        <value>Nu afspelen</value>
+    </data>
+    <data name="General_Delete" xml:space="preserve">
+        <value>Verwijderen</value>
+    </data>
+    <data name="Settings_ZoneSettings" xml:space="preserve">
+        <value>Zone-Instellingen</value>
+    </data>
+    <data name="Settings_InfoTitle" xml:space="preserve">
+        <value>Info</value>
+    </data>
+    <data name="Settings_Name" xml:space="preserve">
+        <value>Naam</value>
+    </data>
+    <data name="New_Name_Successfully_Saved" xml:space="preserve">
+        <value>Nieuwe naam succesvol opgeslagen.</value>
+    </data>
+    <data name="Settings_Model" xml:space="preserve">
+        <value>Model</value>
+    </data>
+    <data name="Settings_Location" xml:space="preserve">
+        <value>Plaats</value>
+    </data>
+    <data name="Settings_MindVersion" xml:space="preserve">
+        <value>MiND-module versie</value>
+    </data>
+    <data name="Settings_Network" xml:space="preserve">
+        <value>Netwerk</value>
+    </data>
+    <data name="Settings_NetworkSettings" xml:space="preserve">
+        <value>Netwerkinstellingen</value>
+    </data>
+    <data name="General_WifiConnectionLost" xml:space="preserve">
+        <value>Wi-Fi-verbinding verbroken</value>
+    </data>
+    <data name="General_WifiWaitingForConnection" xml:space="preserve">
+        <value>Wachten op Wi-Fi-verbinding ...</value>
+    </data>
+    <data name="General_ConnectionFailedTitle" xml:space="preserve">
+        <value>Verbinding mislukt</value>
+    </data>
+    <data name="General_ConnectionFailedMessage" xml:space="preserve">
+        <value>Kan geen verbinding maken met de MiND. Controleer of er al een andere controller is aangesloten en sluit die applicatie voordat u het opnieuw probeert.</value>
+    </data>
+    <data name="General_Retry" xml:space="preserve">
+        <value>Opnieuw proberen</value>
+    </data>
+    <data name="Mind_UpdateInProgressTitle" xml:space="preserve">
+        <value>Update wordt uitgevoerd...</value>
+    </data>
+    <data name="Mind_UpdateInProgressMessage" xml:space="preserve">
+        <value>Uw apparaat wordt geüpdatet. Het zal binnen ongeveer 10 minuten weer op het netwerk verschijnen. Wees alstublieft geduldig.</value>
+    </data>
+    <data name="Device_ErrorLoadingMindNetworkSettings" xml:space="preserve">
+        <value>Kan MiND-netwerkinstellingen niet laden</value>
+    </data>
+    <data name="Device_ErrorConnectingToMind" xml:space="preserve">
+        <value>Kan geen verbinding maken met MiND</value>
+    </data>
+    <data name="General_MindZones" xml:space="preserve">
+        <value>MiND ZONES</value>
+    </data>
+    <data name="General_Mediaservers" xml:space="preserve">
+        <value>MEDIA BIBLIOTHEKEN</value>
+    </data>
+    <data name="WLANSecurity_WPA" xml:space="preserve">
+        <value>WPA</value>
+    </data>
+    <data name="WLANSecurity_WPA2" xml:space="preserve">
+        <value>WPA2</value>
+    </data>
+    <data name="WLANSecurity_WEP" xml:space="preserve">
+        <value>WEP</value>
+    </data>
+    <data name="WLANSecurity_None" xml:space="preserve">
+        <value>Geen</value>
+    </data>
+    <data name="Network_Title" xml:space="preserve">
+        <value>Netwerk</value>
+    </data>
+    <data name="Network_Error_NameEmptyTitle" xml:space="preserve">
+        <value>Lege naam</value>
+    </data>
+    <data name="Network_Error_NameEmptyMessage" xml:space="preserve">
+        <value>De MiND-naam mag niet leeg zijn</value>
+    </data>
+    <data name="Network_IPAddress" xml:space="preserve">
+        <value>IP adres</value>
+    </data>
+    <data name="Network_Error_InvalidIPMessage" xml:space="preserve">
+        <value>Er is een ongeldig IP-adres opgegeven.</value>
+    </data>
+    <data name="Network_SubnetMask" xml:space="preserve">
+        <value>Subnetmasker</value>
+    </data>
+    <data name="Network_Error_InvalidSubnetMaskMessage" xml:space="preserve">
+        <value>Er is een ongeldig subnetmasker opgegeven.</value>
+    </data>
+    <data name="Network_Gateway" xml:space="preserve">
+        <value>poort</value>
+    </data>
+    <data name="Network_Error_InvalidGatewayMessage" xml:space="preserve">
+        <value>Er is een ongeldig gateway-adres opgegeven.</value>
+    </data>
+    <data name="Network_DNS" xml:space="preserve">
+        <value>DNS</value>
+    </data>
+    <data name="Network_Error_InvalidDNSMessage" xml:space="preserve">
+        <value>Er is een ongeldig DNS-adres opgegeven.</value>
+    </data>
+    <data name="Network_WEPKey" xml:space="preserve">
+        <value>WEP-sleutel</value>
+    </data>
+    <data name="NetworkErrorEmptyWEPKeyMessage" xml:space="preserve">
+        <value>De wep-sleutel mag niet leeg zijn</value>
+    </data>
+    <data name="Password" xml:space="preserve">
+        <value>Wachtwoord</value>
+    </data>
+    <data name="Network_Error_EmptyWPAPasswordMessage" xml:space="preserve">
+        <value>Uw Wi-Fi-wachtwoord mag niet leeg zijn</value>
+    </data>
+    <data name="Network_SavingSettingsTitle" xml:space="preserve">
+        <value>Instellingen opslaan</value>
+    </data>
+    <data name="Network_SavingSettingsMessage" xml:space="preserve">
+        <value>Instellingen opslaan, even geduld ...</value>
+    </data>
+    <data name="Network_GeneralHeader" xml:space="preserve">
+        <value>Algemeen</value>
+    </data>
+    <data name="Network_WirelessHeader" xml:space="preserve">
+        <value>Draadloze</value>
+    </data>
+    <data name="Network_WirelessWifi" xml:space="preserve">
+        <value>Wi-Fi</value>
+    </data>
+    <data name="Network_Security" xml:space="preserve">
+        <value>Veiligheid</value>
+    </data>
+    <data name="Network_MindName" xml:space="preserve">
+        <value>MiND-naam</value>
+    </data>
+    <data name="Network_WEPIndex" xml:space="preserve">
+        <value>WEP Index</value>
+    </data>
+    <data name="Network_DHCP" xml:space="preserve">
+        <value>DHCP</value>
+    </data>
+    <data name="Network_IP" xml:space="preserve">
+        <value>IP</value>
+    </data>
+    <data name="Player_NoTrack" xml:space="preserve">
+        <value>Geen track</value>
+    </data>
+    <data name="Player_ClearQueueTitle" xml:space="preserve">
+        <value>Afspeellijst wissen</value>
+    </data>
+    <data name="General_Clear" xml:space="preserve">
+        <value>Wissen</value>
+    </data>
+    <data name="Player_ClearQueueMessage" xml:space="preserve">
+        <value>Weet u zeker dat u de afspeellijst  wilt wissen?</value>
+    </data>
+    <data name="General_Save" xml:space="preserve">
+        <value>Opslaan</value>
+    </data>
+    <data name="General_Done" xml:space="preserve">
+        <value>Gedaan</value>
+    </data>
+    <data name="General_Edit" xml:space="preserve">
+        <value>Bewerk</value>
+    </data>
+    <data name="Player_PlaylistName" xml:space="preserve">
+        <value>Naam</value>
+    </data>
+    <data name="Player_UnknownInformation" xml:space="preserve">
+        <value>Onbekend</value>
+    </data>
+    <data name="Player_RemoveTrack" xml:space="preserve">
+        <value>Track verwijderen</value>
+    </data>
+    <data name="Player_NowPlaying" xml:space="preserve">
+        <value>Speelt nu</value>
+    </data>
+    <data name="Metadata_Title" xml:space="preserve">
+        <value>Titel</value>
+    </data>
+    <data name="Metadata_Album" xml:space="preserve">
+        <value>Album</value>
+    </data>
+    <data name="Metadata_Artist" xml:space="preserve">
+        <value>Artiest</value>
+    </data>
+    <data name="Metadata_Genre" xml:space="preserve">
+        <value>Genre</value>
+    </data>
+    <data name="Metadata_Composer" xml:space="preserve">
+        <value>Componist</value>
+    </data>
+    <data name="Metadata_Conductor" xml:space="preserve">
+        <value>Dirigent</value>
+    </data>
+    <data name="Metadata_Date" xml:space="preserve">
+        <value>Datum</value>
+    </data>
+    <data name="Metadata_Description" xml:space="preserve">
+        <value>Beschrijving</value>
+    </data>
+    <data name="Metadata_Slogan" xml:space="preserve">
+        <value>Slogan</value>
+    </data>
+    <data name="Metadata_Language" xml:space="preserve">
+        <value>Taal</value>
+    </data>
+    <data name="Metadata_Place" xml:space="preserve">
+        <value>Plaats</value>
+    </data>
+    <data name="Metadata_TitleTab1" xml:space="preserve">
+        <value>Details</value>
+    </data>
+    <data name="Metadata_TitleTab2" xml:space="preserve">
+        <value>Albumhoes</value>
+    </data>
+    <data name="Actions" xml:space="preserve">
+        <value>Acties</value>
+    </data>
+    <data name="Playlists_PlaylistName" xml:space="preserve">
+        <value>Naam afspeellijst</value>
+    </data>
+    <data name="Settings_Version" xml:space="preserve">
+        <value>Firmware</value>
+    </data>
+    <data name="General_NoMindFoundTitle" xml:space="preserve">
+        <value>Geen MiND gevonden</value>
+    </data>
+    <data name="Settings_ApplicationInformation" xml:space="preserve">
+        <value>App. Info &amp; instellingen</value>
+    </data>
+    <data name="Settings_ErrorSavingSettings" xml:space="preserve">
+        <value>Kan netwerkinstellingen niet opslaan</value>
+    </data>
+    <data name="General_Add" xml:space="preserve">
+        <value>Toevoegen</value>
+    </data>
+    <data name="Settings_EmptyNetworkNameTitle" xml:space="preserve">
+        <value>Netwerknaam</value>
+    </data>
+    <data name="Settings_EmptyNetworkNameMessage" xml:space="preserve">
+        <value>De netwerknaam mag niet leeg zijn.</value>
+    </data>
+    <data name="Settings_ExistsingWifis" xml:space="preserve">
+        <value>Bestaande Wi-Fis</value>
+    </data>
+    <data name="Settings_FirmwareUpToDate" xml:space="preserve">
+        <value>Bijgewerkt</value>
+    </data>
+    <data name="Settings_FirmwareUpdate" xml:space="preserve">
+        <value>Bijwerken</value>
+    </data>
+    <data name="Settings_ApplicationInfoTitle" xml:space="preserve">
+        <value>Info</value>
+    </data>
+    <data name="Settings_ApplicationInfoName" xml:space="preserve">
+        <value>Naam</value>
+    </data>
+    <data name="Settings_ApplicationInfoVersion" xml:space="preserve">
+        <value>Versie</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheLabel" xml:space="preserve">
+        <value>Cache wissen</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheDetails" xml:space="preserve">
+        <value>Hiermee worden MiND's en afbeeldingencache automatisch gewist.</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheConfirm" xml:space="preserve">
+        <value>Weet je zeker dat je de afbeeldingen en MiND's-cache wilt wissen?</value>
+    </data>
+    <data name="Settings_ApplicationInfoClearCacheComplete" xml:space="preserve">
+        <value>MiND's en afbeeldingscache zijn met succes gewist</value>
+    </data>
+    <data name="General_Yes" xml:space="preserve">
+        <value>Ja</value>
+    </data>
+    <data name="General_No" xml:space="preserve">
+        <value>Nee</value>
+    </data>
+    <data name="SettingsTitle" xml:space="preserve">
+        <value>Instellingen</value>
+    </data>
+    <data name="Library_SettingsMusicServices" xml:space="preserve">
+        <value>Muziekservices</value>
+    </data>
+    <data name="Library_SettingsVisibleInList" xml:space="preserve">
+        <value>Zichtbaar in bibliotheeklijst</value>
+    </data>
+    <data name="Username" xml:space="preserve">
+        <value>Gebruikersnaam</value>
+    </data>
+    <data name="Library_SettingsLogin" xml:space="preserve">
+        <value>Log in</value>
+    </data>
+    <data name="Library_SettingsCreateNewAccount" xml:space="preserve">
+        <value>Maak een nieuw account aan</value>
+    </data>
+    <data name="Library_SettingsLogout" xml:space="preserve">
+        <value>Uitloggen</value>
+    </data>
+    <data name="Library_SettingsFollowUs" xml:space="preserve">
+        <value>Volg ons</value>
+    </data>
+    <data name="General_PowerOffErrorMessage" xml:space="preserve">
+        <value>Er is een probleem opgetreden bij het wijzigen van de energiestatus. Probeer het later opnieuw.</value>
+    </data>
+    <data name="General_PowerOffErrorTitle" xml:space="preserve">
+        <value>Energiestatus is niet gewijzigd</value>
+    </data>
+    <data name="Logout_Success" xml:space="preserve">
+        <value>Succesvol uitgelogd.</value>
+    </data>
+    <data name="Login_Success" xml:space="preserve">
+        <value>Succesvol ingelogd.</value>
+    </data>
+    <data name="Confirm_Logout" xml:space="preserve">
+        <value>Wil je echt uitloggen?</value>
+    </data>
+    <data name="Logout_Failed" xml:space="preserve">
+        <value>Fout bij het afmelden.</value>
+    </data>
+    <data name="Invalid_Username_Password" xml:space="preserve">
+        <value>Ongeldige gebruikersnaam of wachtwoord</value>
+    </data>
+    <data name="Tap_To_Retry" xml:space="preserve">
+        <value>Tik hier om het opnieuw te proberen ...</value>
+    </data>
+    <data name="NotSupported" xml:space="preserve">
+        <value>Niet ondersteund !</value>
+    </data>
+    <data name="Location" xml:space="preserve">
+        <value>Plaats</value>
+    </data>
+    <data name="Language" xml:space="preserve">
+        <value>Taal</value>
+    </data>
+    <data name="Description" xml:space="preserve">
+        <value>Beschrijving</value>
+    </data>
+    <data name="Favourite" xml:space="preserve">
+        <value>Favoriete</value>
+    </data>
+    <data name="NoDescription" xml:space="preserve">
+        <value>Geen beschrijving beschikbaar.</value>
+    </data>
+    <data name="RecentSearch" xml:space="preserve">
+        <value>Recente zoekopdrachten</value>
+    </data>
+    <data name="SearchFor" xml:space="preserve">
+        <value>Zoeken naar {0}</value>
+    </data>
+    <data name="ResultFor" xml:space="preserve">
+        <value>Resultaten voor {0}</value>
+    </data>
+    <data name="Search" xml:space="preserve">
+        <value>Zoeken</value>
+    </data>
+    <data name="InternalError" xml:space="preserve">
+        <value>Er is een interne fout opgetreden. Probeer het alstublieft opnieuw.</value>
+    </data>
+    <data name="ShowArtist" xml:space="preserve">
+        <value>Artiest weergeven</value>
+    </data>
+    <data name="ShowAlbum" xml:space="preserve">
+        <value>Album weergeven</value>
+    </data>
+    <data name="MoreInfo" xml:space="preserve">
+        <value>Meer informatie</value>
+    </data>
+    <data name="NumberOfTracks" xml:space="preserve">
+        <value>{0} nummers</value>
+    </data>
+    <data name="NumberOfTrack" xml:space="preserve">
+        <value>{0} Track</value>
+    </data>
+    <data name="Size" xml:space="preserve">
+        <value>Grootte</value>
+    </data>
+    <data name="Metadata_Duration" xml:space="preserve">
+        <value>Looptijd</value>
+    </data>
+    <data name="AirableFormViewTitle" xml:space="preserve">
+        <value>{0} - {1}</value>
+    </data>
+    <data name="AirableRequiredFieldEmptyError" xml:space="preserve">
+        <value>{0} mag niet leeg zijn.</value>
+    </data>
+    <data name="NoTrackAvailableToAddToQueue" xml:space="preserve">
+        <value>Geen track beschikbaar om toe te voegen aan afspeellijst.</value>
+    </data>
+    <data name="AppNotConnectedToMiND" xml:space="preserve">
+        <value>App is momenteel niet verbonden met een MiND. Probeer opnieuw verbinding te maken met uw MiND.</value>
+    </data>
+    <data name="CannotAccessMindQueue" xml:space="preserve">
+        <value>App heeft geen toegang tot de MiND-afspeellijst. Probeer opnieuw verbinding te maken met uw MiND.</value>
+    </data>
+    <data name="NoTrackAvailableToSave" xml:space="preserve">
+        <value>Geen track beschikbaar om toe te voegen aan afspeellijst.</value>
+    </data>
+    <data name="SaveQueueError" xml:space="preserve">
+        <value>Er is een fout opgetreden bij het opslaan van de afspeellijst.</value>
+    </data>
+    <data name="EmptyPlaylistName" xml:space="preserve">
+        <value>Kan afspeellijst niet opslaan met een lege naam. Geef een naam op.</value>
+    </data>
+    <data name="PlaylistAlreadyExist" xml:space="preserve">
+        <value>{0} bestaat al. Wil je de bestaande afspeellijst vervangen of toevoegen?</value>
+    </data>
+    <data name="GeneralAppend" xml:space="preserve">
+        <value>Toevoegen</value>
+    </data>
+    <data name="GeneralReplace" xml:space="preserve">
+        <value>Vervangen</value>
+    </data>
+    <data name="PlaylistHasBeenDeleted" xml:space="preserve">
+        <value>{0} is verwijderd.</value>
+    </data>
+    <data name="PlaylistHasBeenSaved" xml:space="preserve">
+        <value>{0} is opgeslagen.</value>
+    </data>
+    <data name="TrackSuccessfullyAddedToQueue" xml:space="preserve">
+        <value>Tracks zijn met succes toegevoegd aan de afspeellijst.</value>
+    </data>
+    <data name="MindQueueFullyLoaded" xml:space="preserve">
+        <value>MiND-afspeelijst wordt op maximale capaciteit geladen.</value>
+    </data>
+    <data name="UnconfiguredMiND" xml:space="preserve">
+        <value>Niet-geconfigureerd {0} ({1})</value>
+    </data>
+    <data name="UnsolicitedMessageFromMiND" xml:space="preserve">
+        <value>Ongevraagd bericht van {0}</value>
+    </data>
+    <data name="FailedToConnectToMusicService" xml:space="preserve">
+        <value>Kan geen verbinding maken met {0}. Probeer het alstublieft opnieuw.</value>
+    </data>
+    <data name="MultiroomMasterNotFound" xml:space="preserve">
+        <value>Uw apparaat is als slaaf toegevoegd aan een multiroom groep. Selecteer de groep om door te gaan met afspelen.</value>
+    </data>
+    <data name="MultiroomWithTitle" xml:space="preserve">
+        <value>Multiroom: {0}</value>
+    </data>
+    <data name="CurrentDeviceHasBeenGrouped" xml:space="preserve">
+        <value>"{0}" is als slaaf toegevoegd aan een multiroom groep. App maakt automatisch opnieuw verbinding met hoofdapparaat "{1}".</value>
+    </data>
+    <data name="Permission" xml:space="preserve">
+        <value>Toestemming</value>
+    </data>
+    <data name="PermissionForWifiReason" xml:space="preserve">
+        <value>MiND-app heeft locatietoestemming nodig om Wi-Fi-netwerken in de buurt te vinden.</value>
+    </data>
+    <data name="PermissionForBleSearch" xml:space="preserve">
+        <value>MiND-app heeft locatietoestemming nodig om niet-geconfigureerde MiND in de buurt te vinden.</value>
+    </data>
+    <data name="MultiroomVolumeControl" xml:space="preserve">
+        <value>Volume</value>
+    </data>
+    <data name="SetPresetTitle" xml:space="preserve">
+        <value>Ingesteld op preset ...</value>
+    </data>
+    <data name="PresetItem" xml:space="preserve">
+        <value>Voorinstelling {0}</value>
+    </data>
+    <data name="PresetSuccessfullySaved" xml:space="preserve">
+        <value>{0} succesvol opgeslagen in voorinstelling {1}.</value>
+    </data>
+    <data name="TurnedToStandby" xml:space="preserve">
+        <value>{0} staat in de standby-modus.</value>
+    </data>
+    <data name="VersionAvailable" xml:space="preserve">
+        <value>({0} beschikbaar)</value>
+    </data>
+    <data name="NewUpdatesAvailable" xml:space="preserve">
+        <value>Nieuwe update (s) beschikbaar (s)</value>
+    </data>
+    <data name="HostUpdateMessage" xml:space="preserve">
+        <value>De {0} wordt geüpdatet. Dit kan 5 minuten duren. Wees alstublieft geduldig.</value>
+    </data>
+    <data name="FirstTimeSetupTitle" xml:space="preserve">
+        <value>Kies je land</value>
+    </data>
+    <data name="SetupInformation" xml:space="preserve">
+        <value>installatie-informatie.</value>
+    </data>
+    <data name="MultiroomErrorContent" xml:space="preserve">
+        <value>Multiroom is uitgeschakeld.</value>
+    </data>
+    <data name="TuneInRadioFriendlyName" xml:space="preserve">
+        <value>Radio</value>
+    </data>
+    <data name="DeezerFriendlyName" xml:space="preserve">
+        <value>Deezer</value>
+    </data>
+    <data name="PodcastsFriendlyName" xml:space="preserve">
+        <value>Podcasts</value>
+    </data>
+    <data name="QobuzFriendlyName" xml:space="preserve">
+        <value>Qobuz</value>
+    </data>
+    <data name="TidalFriendlyName" xml:space="preserve">
+        <value>TIDAL</value>
+    </data>
+    <data name="HighResAudioFriendlyName" xml:space="preserve">
+        <value>HIGHRESAUDIO</value>
+    </data>
+    <data name="ObjectNotAvailable" xml:space="preserve">
+        <value>{0} niet beschikbaar.</value>
+    </data>
+    <data name="FreeTrial" xml:space="preserve">
+        <value>Probeer gratis</value>
+    </data>
+    <data name="Check_for_Supported_Localization" xml:space="preserve">
+        <value>Taal wordt momenteel ondersteund</value>
+    </data>
+    <data name="CannotContactMusicService" xml:space="preserve">
+        <value>Kan geen verbinding maken met de {0} -server.</value>
+    </data>
+    <data name="WrongDataReturnMusicService" xml:space="preserve">
+        <value>Verkeerde gegevensretour van {0} -server.</value>
+    </data>
+    <data name="AutomaticRenameError" xml:space="preserve">
+        <value>De huidige firmwareversie van uw MiND-apparaat ondersteunt geen automatische hernoemingsfunctionaliteit. Update eerst.</value>
+    </data>
+    <data name="AutomaticUpdateError" xml:space="preserve">
+        <value>De huidige MiND-versie ondersteunt geen automatische updates van de applicatie. Werk uw apparaat handmatig bij. Na voltooiing van deze stap kunt u toekomstige updates vanuit de applicatie starten.</value>
+    </data>
+    <data name="RescanPortError" xml:space="preserve">
+        <value>Er is een fout opgetreden bij het opnieuw scannen van het netwerk. Zorg ervoor dat een andere toepassing poort 1900 niet gebruikt. Sluit alle andere geopende processen en probeer het opnieuw.</value>
+    </data>
+    <data name="Network_AvdancedSettingShow" xml:space="preserve">
+        <value>Geavanceerde instellingen</value>
+    </data>
+    <data name="Network_AvdancedSettingHide" xml:space="preserve">
+        <value>Geavanceerde instellingen verbergen</value>
+    </data>
+    <data name="Network_OtherWifi" xml:space="preserve">
+        <value>Andere Wi-Fi</value>
+    </data>
+    <data name="Settings_Loading" xml:space="preserve">
+        <value>Opties voor netwerkinstellingen laden ...</value>
+    </data>
+    <data name="Favorite_Remove" xml:space="preserve">
+        <value>Verwijderd uit favorieten</value>
+    </data>
+    <data name="Favorite_Insert" xml:space="preserve">
+        <value>Toegevoegd aan favorieten</value>
+    </data>
+    <data name="Metadata_NumberOfTracksTitle" xml:space="preserve">
+        <value>Aantal tracks</value>
+    </data>
+    <data name="Player_AddToPlaylist" xml:space="preserve">
+        <value>Toevoegen aan afspeellijst</value>
+    </data>
+    <data name="Refresh_Network" xml:space="preserve">
+        <value>Trek om het netwerk opnieuw te scannen</value>
+    </data>
+    <data name="Library_ConnectionLost" xml:space="preserve">
+        <value>{0} bibliotheek is losgekoppeld of sluit de verbinding. Selecteer een andere bibliotheek ...</value>
+    </data>
+    <data name="Library_Local" xml:space="preserve">
+        <value>Lokale bibliotheek</value>
+    </data>
+    <data name="Library_Preparing" xml:space="preserve">
+        <value>Lokale muziekbibliotheek voorbereiden, even geduld ...</value>
+    </data>
+    <data name="Library_PreparingFailed" xml:space="preserve">
+        <value>Er is een fout opgetreden bij het voorbereiden van de lokale muziekbibliotheek.</value>
+    </data>
+    <data name="Library_Connecting" xml:space="preserve">
+        <value>Verbinding maken met {0} bibliotheek, even geduld ...</value>
+    </data>
+    <data name="Library_Loading" xml:space="preserve">
+        <value>Laden naar bibliotheek {0}, even geduld ...</value>
+    </data>
+    <data name="Library_Remove" xml:space="preserve">
+        <value>Verwijderen uit bibliotheek</value>
+    </data>
+    <data name="Library_Add" xml:space="preserve">
+        <value>Toevoegen aan bibliotheek</value>
+    </data>
+    <data name="General_Wait" xml:space="preserve">
+        <value>Wacht alsjeblieft ...</value>
+    </data>
+    <data name="Library_ItemNotAdded" xml:space="preserve">
+        <value>Item niet toegevoegd aan bibliotheek</value>
+    </data>
+    <data name="Library_ItemNotRemoved" xml:space="preserve">
+        <value>Item niet verwijderd uit bibliotheek</value>
+    </data>
+    <data name="Favorite_ItemNotAdded" xml:space="preserve">
+        <value>Item niet toegevoegd aan favoriet</value>
+    </data>
+    <data name="Favorite_ItemNotRemoved" xml:space="preserve">
+        <value>Item niet verwijderd uit favoriet</value>
+    </data>
+    <data name="NotLoggedInAlert" xml:space="preserve">
+        <value>U bent niet ingelogd. 
+Log eerst in door naar de instellingen van uw muziekservice te gaan in de lijst met bibliotheken.</value>
+    </data>
+    <data name="Player_Reloading" xml:space="preserve">
+        <value>Speler opnieuw laden</value>
+    </data>
+    <data name="Player" xml:space="preserve">
+        <value>Speler</value>
+    </data>
+    <data name="Queue_Track_Pause" xml:space="preserve">
+        <value>PAUZE TRACK</value>
+    </data>
+    <data name="Queue_FailedAddTrack" xml:space="preserve">
+        <value>Kan tracks niet toevoegen aan afspeellijst.</value>
+    </data>
+    <data name="Queue_FailedClear" xml:space="preserve">
+        <value>Kan afspeellijst niet wissen.</value>
+    </data>
+    <data name="NetWork_WifiChanged" xml:space="preserve">
+        <value>Wi-Fi-verbinding gewijzigd</value>
+    </data>
+    <data name="NetWork_WifiStateChangedMessage" xml:space="preserve">
+        <value>Wi-Fi-verbindingsstatus gewijzigd, applicatie opnieuw gestart ... Even geduld.</value>
+    </data>
+    <data name="NetWork_WifiNotConnected" xml:space="preserve">
+        <value>Niet verbonden met Wi-Fi</value>
+    </data>
+    <data name="NetWork_WifiNotConnectedMessage" xml:space="preserve">
+        <value>Verbind uw apparaat met een Wi-Fi-netwerk ...</value>
+    </data>
+    <data name="Library_UnauthorizedAcces" xml:space="preserve">
+        <value>De applicatie heeft geen toegangsrechten voor uw mediabibliotheek. Geef de app alstublieft toegang tot uw media.</value>
+    </data>
+    <data name="General_Connection" xml:space="preserve">
+        <value>Verbinding</value>
+    </data>
+    <data name="General_ConnectingMiND" xml:space="preserve">
+        <value>Verbinding maken met MiND-apparaat.</value>
+    </data>
+    <data name="General_ConnectingMessage" xml:space="preserve">
+        <value>Er wordt verbinding gemaakt met het MiND-apparaat.</value>
+    </data>
+    <data name="General_ReconnectingMiND" xml:space="preserve">
+        <value>Opnieuw verbinding maken met de laatst verbonden MiND, even geduld ...</value>
+    </data>
+    <data name="General_StateRestore" xml:space="preserve">
+        <value>Staat herstellen</value>
+    </data>
+    <data name="General_MiNDDevice" xml:space="preserve">
+        <value>MiND-apparaat</value>
+    </data>
+    <data name="Settings_RenameProgress" xml:space="preserve">
+        <value>Naam wordt gewijzigd</value>
+    </data>
+    <data name="General_Rename" xml:space="preserve">
+        <value>Hernoemen</value>
+    </data>
+    <data name="Settings_UpdateFirmwareAccessNetwork" xml:space="preserve">
+        <value>Update de firmware om toegang te krijgen tot netwerkinstellingen</value>
+    </data>
+    <data name="Deezer_NextLimitReached" xml:space="preserve">
+        <value>Abonneer u op Premium voor onbeperkte toegang.</value>
+    </data>
+    <data name="General_Suscribe" xml:space="preserve">
+        <value>Inschrijven</value>
+    </data>
+    <data name="General_ScanNetworkError" xml:space="preserve">
+        <value>Kan netwerk niet scannen naar MiND-apparaten. Controleer uw Wi-Fi-instellingen.</value>
+    </data>
+    <data name="Queue_Track_Transitioning" xml:space="preserve">
+        <value>OVERGANG</value>
+    </data>
+    <data name="Metadata_Sources" xml:space="preserve">
+        <value>Bronnen</value>
+    </data>
+    <data name="Input_NotLocked" xml:space="preserve">
+        <value>Geen signaal</value>
+    </data>
+    <data name="NowPlayingNotificationName" xml:space="preserve">
+        <value>Speelt nu een meldingskanaal</value>
+    </data>
+    <data name="Settings_FirmwareVersion" xml:space="preserve">
+        <value>Firmware versie</value>
+    </data>
+    <data name="Inputs_NotSupported" xml:space="preserve">
+        <value>Ingangen worden niet ondersteund</value>
+    </data>
+    <data name="AppInfo_SleepModeTitle" xml:space="preserve">
+        <value>Slaapstand</value>
+    </data>
+    <data name="AppInfo_SleepModeContent" xml:space="preserve">
+        <value>Laat uw mobiele apparaat in de slaapstand gaan wanneer u naar muziek luistert.</value>
+    </data>
+    <data name="Settings_UnsupportedFirmware" xml:space="preserve">
+        <value>Niet-ondersteunde firmware</value>
+    </data>
+    <data name="Settings_VersionOf" xml:space="preserve">
+        <value>{0} versie</value>
+    </data>
+    <data name="Playlists_Name" xml:space="preserve">
+        <value>Naam</value>
+    </data>
+    <data name="MusicService_Or" xml:space="preserve">
+        <value>Of</value>
+    </data>
+    <data name="MusicService_GoOnWebsiteAndRegister" xml:space="preserve">
+        <value>Ga naar de {0} website en {1}.</value>
+    </data>
+    <data name="MusicService_InvitationToFollowUs" xml:space="preserve">
+        <value>Ook {0} voor dagelijks nieuws.</value>
+    </data>
+    <data name="TrackSuccessfullyAddedToMaxedOutQueue" xml:space="preserve">
+        <value>Sommige tracks zijn niet aan de afspeellijst toegevoegd omdat we de maximale capaciteit van de afspeellijst hebben bereikt.</value>
+    </data>
+    <data name="NoUSB_DeviceFound" xml:space="preserve">
+        <value>Geen USB-apparaat gevonden. Zorg ervoor dat uw USB-apparaat is aangesloten.</value>
+    </data>
+    <data name="PrivacyPolicy" xml:space="preserve">
+        <value>Privacybeleid</value>
+    </data>
+    <data name="DataUsage" xml:space="preserve">
+        <value>Data gebruik</value>
+    </data>
+    <data name="TapToAccessPrivacyPolicy" xml:space="preserve">
+        <value>Tik hier om ons privacybeleid te openen.</value>
+    </data>
+    <data name="Biography" xml:space="preserve">
+        <value>Biografie</value>
+    </data>
+    <data name="AppInfo_NotificationModeTitle" xml:space="preserve">
+        <value>Kennisgeving</value>
+    </data>
+    <data name="AppInfo_NotificationModeContent" xml:space="preserve">
+        <value>Voeg een weergave van de MiND-controller toe buiten de gebruikersinterface van uw app. Alleen apparaten met MiND2.</value>
+    </data>
+    <data name="Accessibility_MusicServiceSettingsLabel" xml:space="preserve">
+        <value>Knop voor bibliotheekopties</value>
+    </data>
+    <data name="Accessibility_MusicServiceSettingsHint" xml:space="preserve">
+        <value>Druk hierop om de bibliotheekparameters te openen en te bewerken</value>
+    </data>
+    <data name="Accessibility_BackToNowPlayingLabel" xml:space="preserve">
+        <value>Knop Ga terug naar nu spelen.</value>
+    </data>
+    <data name="Accessibility_BackToNowPlayingHint" xml:space="preserve">
+        <value>Sluit de bibliotheeklijst en ga terug naar het  hoofdmenu van de speler.</value>
+    </data>
+    <data name="Accessibility_SearchLabel" xml:space="preserve">
+        <value>Zoekknop.</value>
+    </data>
+    <data name="Accessibility_SearchHint" xml:space="preserve">
+        <value>Zoek deze audiobron.</value>
+    </data>
+    <data name="Accessibility_MoreOptionsLabel" xml:space="preserve">
+        <value>Knop Meer opties.</value>
+    </data>
+    <data name="Accessibility_MoreOptionsHint" xml:space="preserve">
+        <value>Open een pop-upvenster met meer opties of informatie.</value>
+    </data>
+    <data name="Accessibility_LibrarySectionTitleLabel" xml:space="preserve">
+        <value>Titel van bibliotheeknavigatiesectie.</value>
+    </data>
+    <data name="Accessibility_LibrarySectionTitleHint" xml:space="preserve">
+        <value>Druk op om terug te gaan naar de basis van de navigatie.</value>
+    </data>
+    <data name="Accessibility_DeletePlaylistLabel" xml:space="preserve">
+        <value>Knop afspeellijst verwijderen.</value>
+    </data>
+    <data name="Accessibility_DeletePlaylistHint" xml:space="preserve">
+        <value>Hiermee wordt de huidige afspeellijst verwijderd.</value>
+    </data>
+    <data name="Accessibility_HomeButtonLabel" xml:space="preserve">
+        <value>Thuis knop.</value>
+    </data>
+    <data name="Accessibility_HomeButtonHint" xml:space="preserve">
+        <value>Zal teruggaan in de lijst met zones.</value>
+    </data>
+    <data name="Accessibility_BrowseButtonLabel" xml:space="preserve">
+        <value>Bibliotheek bladeren knop.</value>
+    </data>
+    <data name="Accessibility_BrowseButtonHint" xml:space="preserve">
+        <value>Zal de bibliotheeklijst openen.</value>
+    </data>
+    <data name="AccessibilityHint_SettingsButton" xml:space="preserve">
+        <value>Toegang tot zones en app-instellingen.</value>
+    </data>
+    <data name="AccessibilityLabel_General_Button" xml:space="preserve">
+        <value>knop</value>
+    </data>
+    <data name="AccessibilityHint_BackToZoneList" xml:space="preserve">
+        <value>Terug naar zoneslijst.</value>
+    </data>
+    <data name="AccessibilityHint_PowerOff" xml:space="preserve">
+        <value>Schakel {0} uit</value>
+    </data>
+    <data name="AccessibilityHint_ZoneMultiroomButton" xml:space="preserve">
+        <value>Bedien {0} multiroom.</value>
+    </data>
+    <data name="AccessibilityHint_PowerOffMultiroomGroup" xml:space="preserve">
+        <value>Multiroom-groep uitschakelen: {0}</value>
+    </data>
+    <data name="AccessibilityHint_GroupMultiroomButton" xml:space="preserve">
+        <value>Multiroom-groep beheren: {0}</value>
+    </data>
+    <data name="AccessibilityHint_MultiroomGroup" xml:space="preserve">
+        <value>Multiroom-groep: {0}</value>
+    </data>
+    <data name="AccessibilityHint_SaveNetworkSettings" xml:space="preserve">
+        <value>Bewaar netwerkinstellingen.</value>
+    </data>
+    <data name="AccessibilityHint_BackToMindZoneSettings" xml:space="preserve">
+        <value>Back to Mind zone-instellingen.</value>
+    </data>
+    <data name="AccessibilityHint_BackButton" xml:space="preserve">
+        <value>Terug knop.</value>
+    </data>
+    <data name="Accessibility_PlayButtonLabel" xml:space="preserve">
+        <value>Afspeelknop.</value>
+    </data>
+    <data name="Accessibility_PlayButtonHint" xml:space="preserve">
+        <value>Schakelt tussen afspelen of pauzeren voor het huidige afgespeelde nummer.</value>
+    </data>
+    <data name="Accessibility_StopButtonLabel" xml:space="preserve">
+        <value>Stop knop.</value>
+    </data>
+    <data name="Accessibility_StopButtonHint" xml:space="preserve">
+        <value>Stopt de huidige track.</value>
+    </data>
+    <data name="Accessibility_PauseButtonLabel" xml:space="preserve">
+        <value>Pauze knop.</value>
+    </data>
+    <data name="Accessibility_PauseButtonHint" xml:space="preserve">
+        <value>Schakelt tussen afspelen of pauzeren voor het huidige afgespeelde nummer.</value>
+    </data>
+    <data name="Accessibility_VolumeUpButtonLabel" xml:space="preserve">
+        <value>Knop volume omhoog.</value>
+    </data>
+    <data name="Accessibility_VolumeUpButtonHint" xml:space="preserve">
+        <value>Verhoogt het volume met één stap, kan worden ingedrukt.</value>
+    </data>
+    <data name="Accessibility_VolumeDownButtonLabel" xml:space="preserve">
+        <value>Knop volume omlaag.</value>
+    </data>
+    <data name="Accessibility_VolumeDownButtonHint" xml:space="preserve">
+        <value>Zal het volume met één stap verlagen, kan worden ingedrukt.</value>
+    </data>
+    <data name="Accessibility_MuteButtonLabel" xml:space="preserve">
+        <value>Mute knop</value>
+    </data>
+    <data name="Accessibility_MuteButtonHint" xml:space="preserve">
+        <value>Schakelt mute in of uit.</value>
+    </data>
+    <data name="Accessibility_SkipButtonLabel" xml:space="preserve">
+        <value>Skip-knop.</value>
+    </data>
+    <data name="Accessibility_SkipButtonHint" xml:space="preserve">
+        <value>Springt naar het volgende nummer in de afspeellijst.</value>
+    </data>
+    <data name="Accessibility_PreviousButtonLabel" xml:space="preserve">
+        <value>Knop Vorige.</value>
+    </data>
+    <data name="Accessibility_PreviousButtonHint" xml:space="preserve">
+        <value>Start het huidige nummer opnieuw, druk tweemaal om naar het vorige nummer in de wachtrij te gaan.</value>
+    </data>
+    <data name="Accessibility_InputButtonLabel" xml:space="preserve">
+        <value>Ingangen knop.</value>
+    </data>
+    <data name="Accessibility_InputButtonHint" xml:space="preserve">
+        <value>Opent een menu zodat u de invoer op uw Moon-apparaat kunt kiezen, als uw apparaat dit ondersteunt.</value>
+    </data>
+    <data name="Accessibility_QueueControlsButtonLabel" xml:space="preserve">
+        <value>Knop voor afspeellijstbediening.</value>
+    </data>
+    <data name="Accessibility_QueueControlsButtonHint" xml:space="preserve">
+        <value>Er wordt een pop-upmenu geopend, zodat u kunt kiezen om de huidige afspeellijst te bewerken, te wissen of op te slaan.</value>
+    </data>
+    <data name="Accessibility_QueueActionSheetHint" xml:space="preserve">
+        <value>Wis, bewaar of bewerk de huidige afspeellijst.</value>
+    </data>
+    <data name="Accessibility_QueueSlideButtonLabel" xml:space="preserve">
+        <value>Afspeellijst-schuifpaneel.</value>
+    </data>
+    <data name="Accessibility_QueueSlideButtonHint" xml:space="preserve">
+        <value>Hiermee wordt het schuifpaneel van de afspeellijst geopend, zodat je het handmatig kunt overslaan of bewerken.</value>
+    </data>
+    <data name="Accessibility_ShuffleButtonLabel" xml:space="preserve">
+        <value>Shuffle-knop.</value>
+    </data>
+    <data name="Accessibility_ShuffleOffButtonHint" xml:space="preserve">
+        <value>Shuffelen van de huidige afspeellijst is uitgeschakeld.</value>
+    </data>
+    <data name="Accessibility_ShuffleOnButtonHint" xml:space="preserve">
+        <value>Shuffelen van de huidige afspeellijst is ingeschakeld.</value>
+    </data>
+    <data name="Accessibility_RepeatButtonLabel" xml:space="preserve">
+        <value>Herhaal knop.</value>
+    </data>
+    <data name="Accessibility_RepeatOffButtonHint" xml:space="preserve">
+        <value>De huidige herhaalmodus is uitgeschakeld.</value>
+    </data>
+    <data name="Accessibility_RepeatOneButtonHint" xml:space="preserve">
+        <value>De huidige herhaalmodus is ingesteld om alleen het huidige afgespeelde track te herhalen.</value>
+    </data>
+    <data name="Accessibility_RepeatAllButtonHint" xml:space="preserve">
+        <value>De huidige herhaalmodus is ingesteld om de hele afspeellijst te herhalen.</value>
+    </data>
+    <data name="Accessibility_PresetActionSheetHint" xml:space="preserve">
+        <value>Wijs deze radio toe aan een vooraf ingestelde knop op uw Moon-apparaat.</value>
+    </data>
+    <data name="Accessibility_AddtoQueueActionSheetHint" xml:space="preserve">
+        <value>Kies waar u uw huidige selectie in de afspeellijst wilt plaatsen.</value>
+    </data>
+    <data name="Accessibility_MoreLibraryActionSheetHint" xml:space="preserve">
+        <value>Bibliotheek menu-opties</value>
+    </data>
+    <data name="Discovery_WaitMore" xml:space="preserve">
+        <value>Wacht nog even ...</value>
+    </data>
+    <data name="Discovery_NoMiNDFoundTitle" xml:space="preserve">
+        <value>Nog steeds niet gevonden ...</value>
+    </data>
+    <data name="Discovery_NoMiNDFound" xml:space="preserve">
+        <value>Zorg ervoor dat uw MOON-apparaat van stroom wordt voorzien en op het netwerk is aangesloten en klik vervolgens op een van deze opties</value>
+    </data>
+    <data name="Discovery_Refresh" xml:space="preserve">
+        <value>Netwerk opnieuw scannen</value>
+    </data>
+    <data name="Discovery_FindUnit" xml:space="preserve">
+        <value>Vind mijn apparaat</value>
+    </data>
+    <data name="Discovery_LaunchDiagnosticTool" xml:space="preserve">
+        <value>Klik hier om Diagnostic Tool te starten</value>
+    </data>
+    <data name="Discovery_DiagnosticToolTitle" xml:space="preserve">
+        <value>Diagnostisch hulpprogramma</value>
+    </data>
+    <data name="Diagnostic_MoonDeviceTitle" xml:space="preserve">
+        <value>Selecteer uw apparaatmodel</value>
+    </data>
+    <data name="Diagnostic_MoonDeviceSubTitle" xml:space="preserve">
+        <value>Uw Moon-model moet worden weergegeven op de voorplaat van het apparaat.</value>
+    </data>
+    <data name="Diagnostic_MoonDeviceNote" xml:space="preserve">
+        <value> * Alleen MiND-apparaten worden weergegeven.</value>
+    </data>
+    <data name="Diagnostic_IDontKnow" xml:space="preserve">
+        <value>Ik weet het niet</value>
+    </data>
+    <data name="Diagnostic_WhatMiND" xml:space="preserve">
+        <value>Selecteer uw MiND-type.</value>
+    </data>
+    <data name="Diagnostic_CheckListTitle" xml:space="preserve">
+        <value>Controleer de volgende punten:</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Title" xml:space="preserve">
+        <value>Je {0} moet zijn ingeschakeld.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Child1" xml:space="preserve">
+        <value>Zorg ervoor dat uw {0} stroom heeft.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Child2" xml:space="preserve">
+        <value>Zorg ervoor dat het niet stand-by staat.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem1_Child3" xml:space="preserve">
+        <value>Je zou een blauw licht op het voorpaneel moeten zien.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Title" xml:space="preserve">
+        <value>Zorg ervoor dat uw {0} deel uitmaakt van dit netwerk: {1}.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child1" xml:space="preserve">
+        <value>Bekabeld of Wi-Fi, uw {0} moet zich in hetzelfde netwerk bevinden als uw mobiele apparaat.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child2" xml:space="preserve">
+        <value>Om de netwerknaam handmatig te verifiëren op uw {0}, drukt u op de knop Instellingen op het voorpaneel, navigeert u vervolgens op Netwerk en vervolgens op Info.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child3" xml:space="preserve">
+        <value>We raden een bekabelde verbinding aan voor stabiliteit, maar draadloos is ook mogelijk.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Title" xml:space="preserve">
+        <value>Je {0} wordt niet geüpdatet.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child1" xml:space="preserve">
+        <value>Navigeer op de "netwerk" -invoer van uw {0}.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child2" xml:space="preserve">
+        <value>Zorg ervoor dat er geen berichten worden weergegeven zodra de "netwerk" -ingang is geselecteerd</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child3" xml:space="preserve">
+        <value>Als dat het geval is, volgt u de weergegeven instructies.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem3_Child1B" xml:space="preserve">
+        <value>Als je onlangs een update hebt gestart, wacht dan minimaal 5 minuten tot je MiND weer reageert.</value>
+    </data>
+    <data name="Diagnostic_Confirm" xml:space="preserve">
+        <value>Bevestigen</value>
+    </data>
+    <data name="Diagnostic_AdvancedSearchTitle" xml:space="preserve">
+        <value>Doorgaan naar een geavanceerd zoekproces ...</value>
+    </data>
+    <data name="Diagnostic_MulticastSearch" xml:space="preserve">
+        <value>MiND-zoekprotocol valideren ...</value>
+    </data>
+    <data name="Diagnostic_MulticastSearchWorking" xml:space="preserve">
+        <value>MiND-zoekprotocol werkt</value>
+    </data>
+    <data name="Diagnostic_SpecificSearch" xml:space="preserve">
+        <value>Op zoek naar MiND's ...</value>
+    </data>
+    <data name="Diagnostic_SpecificSearchWorking" xml:space="preserve">
+        <value>We hebben iets gevonden</value>
+    </data>
+    <data name="Diagnostic_SpecificSearchFailed" xml:space="preserve">
+        <value>We hebben geen MiND op uw netwerk gevonden.</value>
+    </data>
+    <data name="Diagnostic_MulticastSearchNotWorking" xml:space="preserve">
+        <value>Kan MiND-zoekprotocol niet valideren.</value>
+    </data>
+    <data name="Diagnostic_SpecificSearchNotWorking" xml:space="preserve">
+        <value>Zoekprotocol gevalideerd, maar we hebben geen MiND op het netwerk gevonden.</value>
+    </data>
+    <data name="Diagnostic_GoToNextStep" xml:space="preserve">
+        <value>Ga naar de volgende stap</value>
+    </data>
+    <data name="Diagnostic_FailedTitle" xml:space="preserve">
+        <value>We kunnen uw MiND niet vinden</value>
+    </data>
+    <data name="Diagnostic_FailedAdvice1" xml:space="preserve">
+        <value>Koppel de voedingskabel van uw apparaat los en sluit deze opnieuw aan.</value>
+    </data>
+    <data name="Diagnostic_FailedAdvice2" xml:space="preserve">
+        <value>Als het niet werkt, probeer dan uw apparaat terug te zetten naar de fabrieksinstellingen. Zie uw handleiding voor begeleiding.</value>
+    </data>
+    <data name="Diagnostic_ContactSimaudio" xml:space="preserve">
+        <value>Neem contact op met Simaudio</value>
+    </data>
+    <data name="Diagnostic_PingDescription" xml:space="preserve">
+        <value>Als je toegang hebt tot het IP-adres van je {0}, voer je dit hier in:</value>
+    </data>
+    <data name="Diagnostic_RequestName" xml:space="preserve">
+        <value>Naam: {0}</value>
+    </data>
+    <data name="Diagnostic_RequestModel" xml:space="preserve">
+        <value>Model: {0}</value>
+    </data>
+    <data name="Diagnostic_RequestType" xml:space="preserve">
+        <value>Type: {0}</value>
+    </data>
+    <data name="Diagnostic_ConfirmTextWithMindType" xml:space="preserve">
+        <value>Je selecteert een {0} met {1}.</value>
+    </data>
+    <data name="Diagnostic_ConfirmTextNoMindType" xml:space="preserve">
+        <value>Je selecteert een {0}.</value>
+    </data>
+    <data name="Diagnostic_unknown" xml:space="preserve">
+        <value>onbekend</value>
+    </data>
+    <data name="Diagnostic_Connect" xml:space="preserve">
+        <value>Aansluiten</value>
+    </data>
+    <data name="Diagnostic_ISeeDevice" xml:space="preserve">
+        <value>Als je je {0} ziet, selecteer je deze hierboven.</value>
+    </data>
+    <data name="Diagnostic_IdontSeeDevice" xml:space="preserve">
+        <value>Ik zie het niet.</value>
+    </data>
+    <data name="Diagnostic_WrongIp" xml:space="preserve">
+        <value>We hebben niets gevonden met het door u opgegeven adres. Weet je zeker dat je het juiste IP-adres hebt?</value>
+    </data>
+    <data name="Diagnostic_MaybeWrongIp" xml:space="preserve">
+        <value>Als dit niet het apparaat is waarnaar u op zoek bent, zorg er dan voor dat u het juiste IP-adres heeft ingevoerd voordat u het opnieuw probeert.</value>
+    </data>
+    <data name="Diagnostic_RequestResponseTitle" xml:space="preserve">
+        <value>Dit is wat we hebben gevonden:</value>
+    </data>
+    <data name="VerificationConfirmation" xml:space="preserve">
+        <value>Ik heb geverifieerd</value>
+    </data>
+    <data name="Diagnostic_IDontHaveIp" xml:space="preserve">
+        <value>Ik heb geen toegang tot mijn IP-adres.</value>
+    </data>
+    <data name="AppInfo_ManualSearchTitle" xml:space="preserve">
+        <value>Handmatig zoeken</value>
+    </data>
+    <data name="AppInfo_ManualSearchContent" xml:space="preserve">
+        <value>Zoek handmatig uw MiND op het netwerk als u het IP-adres heeft.</value>
+    </data>
+    <data name="Diagnostic_Close" xml:space="preserve">
+        <value>Sluit Diagnostic Tool</value>
+    </data>
+    <data name="AppInfo_ReportBug" xml:space="preserve">
+        <value>Meld een bug</value>
+    </data>
+    <data name="Diagnostic_FailedAdvice3" xml:space="preserve">
+        <value>Je kunt ook contact opnemen met Simaudio voor hulp.</value>
+    </data>
+    <data name="Accessibility_DoubleTapToSelectHint" xml:space="preserve">
+        <value>Dubbelklik om te selecteren</value>
+    </data>
+    <data name="Accessibility_DoubleTapToShowDetailsHint" xml:space="preserve">
+        <value>Dubbelklik om meer details weer te geven</value>
+    </data>
+    <data name="Accessibility_DoubleTapToCollapseDetailsHint" xml:space="preserve">
+        <value>Dubbelklik om details samen te vouwen</value>
+    </data>
+    <data name="Accessibility_DoubleTapToFindDeviceByIpHint" xml:space="preserve">
+        <value>Dubbelklik om uw apparaat te vinden.</value>
+    </data>
+    <data name="Accessibility_DoubleTapToFindDeviceByIpDisabledHint" xml:space="preserve">
+        <value>Zoekeenheidknop in uitgeschakelde toestand. Voer een geldig IP-adres in het juiste tekstveld in om het in te schakelen.</value>
+    </data>
+    <data name="Accessibility_IpAddressTextFieldHint" xml:space="preserve">
+        <value>Tekstveld IP-adres</value>
+    </data>
+    <data name="Accessibility_MqaEnabledHint" xml:space="preserve">
+        <value>MQA ingeschakeld</value>
+    </data>
+    <data name="Accessibility_StreamNotAvailableHint" xml:space="preserve">
+        <value>Gegevensstroom niet beschikbaar</value>
+    </data>
+    <data name="Accessibility_TapOnConnectButtonHint" xml:space="preserve">
+        <value>Connect-knop ingeschakeld. Dubbeltik op de knop Verbinden om de verbinding tot stand te brengen.</value>
+    </data>
+    <data name="Accessibility_DoubleTapToPlayHint" xml:space="preserve">
+        <value>Dubbelklik om het af te spelen.</value>
+    </data>
+    <data name="AppInfo_ReportBug_BetaTester" xml:space="preserve">
+        <value>Bètatester - Meld een bug</value>
+    </data>
+    <data name="AppInfo_ReportBug_Detail" xml:space="preserve">
+        <value>Dien een verzoek in bij het ondersteuningsteam voor hulp.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child1B" xml:space="preserve">
+        <value>Verplicht als je een bekabelde verbinding wilt gebruiken: schakel je {0} uit. Sluit een ethernetkabel aan. Zet hem weer aan.</value>
+    </data>
+    <data name="PlayerControl_Global" xml:space="preserve">
+        <value>Globaal</value>
+    </data>
+    <data name="Airplay_Casting" xml:space="preserve">
+        <value>Spelen vanuit Airplay</value>
+    </data>
+    <data name="Settings_RestrictedByAirplay" xml:space="preserve">
+        <value>Możesz podłączyć iPhone'a bezpośrednio z urządzeniem MOON za pomocą kabla USB lub skontaktować się z partnerem MOON, aby dodać moduł AirPlay do swojego MiND.</value>
+    </data>
+    <data name="Settings_RestrictedByAirplayButAllowGoogleHome" xml:space="preserve">
+        <value>Uw MiND is geconfigureerd als een AirPlay-accessoire. Daarom moet u de iOS Home- of Google Home-app gebruiken om de MiND te configureren.</value>
+    </data>
+    <data name="Settings_RestrictedByChromeCast" xml:space="preserve">
+        <value>Uw MiND is een Chromecast-accessoire. Daarom moet u de Google Home- of iOS Home-app gebruiken om de MiND te configureren.</value>
+    </data>
+    <data name="Settings_OpenGoogleHome" xml:space="preserve">
+        <value>Open Google Home</value>
+    </data>
+    <data name="Settings_iOSHomeApp" xml:space="preserve">
+        <value>Open thuis</value>
+    </data>
+    <data name="AppInfo_SubmitLogsTitle" xml:space="preserve">
+        <value>Logboeken indienen</value>
+    </data>
+    <data name="AppInfo_SubmitLogsContent" xml:space="preserve">
+        <value>Dien de logboeken in vanaf uw mobiele apparaat als u eerder een ondersteuningsticket heeft gemaakt.</value>
+    </data>
+    <data name="General_Email" xml:space="preserve">
+        <value>Jouw email:</value>
+    </data>
+    <data name="SubmitLogs_TicketNumber" xml:space="preserve">
+        <value>Uw ticketnummer:</value>
+    </data>
+    <data name="SubmitLogs_Success" xml:space="preserve">
+        <value>Bedankt voor het indienen van uw logs. Het ondersteuningsteam neemt zo snel mogelijk contact met u op.</value>
+    </data>
+    <data name="SubmitLogs_EmailInvalid" xml:space="preserve">
+        <value>Gelieve een geldig e-mailadres in te geven.</value>
+    </data>
+    <data name="SubmitLogs_TicketNumberInvalid" xml:space="preserve">
+        <value>Voer een ticketnummer in.</value>
+    </data>
+    <data name="Accessibility_EmailTextFieldHint" xml:space="preserve">
+        <value>Tekstveld e-mailadres.</value>
+    </data>
+    <data name="Accessibility_TicketTextFieldHint" xml:space="preserve">
+        <value>Tekstveld ticketnummer</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child4" xml:space="preserve">
+        <value>Als uw apparaat wordt weergegeven als niet-geconfigureerd, moet u een bekabelde verbinding gebruiken voordat u deze diagnostische tool gebruikt.</value>
+    </data>
+    <data name="Diagnostic_CheckListItem2_Child5" xml:space="preserve">
+        <value>Als uw apparaat wordt weergegeven als niet-geconfigureerd, moet u een bekabelde verbinding gebruiken voordat u deze diagnostische tool gebruikt of uw {0} scherm gebruiken om de netwerkverbinding in te stellen.</value>
+    </data>
+    <data name="Settings_TooManyFailedAttemptsUnconfigured" xml:space="preserve">
+        <value>Het lijkt erop dat uw apparaat moeite heeft om verbinding te maken met bluetooth. We raden aan om dichter bij het MiND-apparaat te komen en het opnieuw te proberen of om een ​​bekabelde verbinding te gebruiken om de netwerkverbinding in te stellen.</value>
+    </data>
+    <data name="Settings_TooManyFailedAttempts" xml:space="preserve">
+        <value>Het lijkt erop dat uw apparaat moeite heeft om verbinding te maken. We raden aan om een ​​bekabelde verbinding te gebruiken of uw MiND-apparaat uit en weer aan te zetten.</value>
+    </data>
+    <data name="General_SortBy" xml:space="preserve">
+        <value>Sorteer op:</value>
+    </data>
+    <data name="General_Finish" xml:space="preserve">
+        <value>Af hebben</value>
+    </data>
+    <data name="AppInfo_ReviewTutorialTitle" xml:space="preserve">
+        <value>App-zelfstudie</value>
+    </data>
+    <data name="AppInfo_ReviewTutorialLabel" xml:space="preserve">
+        <value>Tik hier om de app-zelfstudie te bekijken.</value>
+    </data>
+    <data name="AppInfo_ReviewNewFeaturesTitle" xml:space="preserve">
+        <value>Nieuwste app-functies</value>
+    </data>
+    <data name="AppInfo_ReviewNewFeaturesLabel" xml:space="preserve">
+        <value>Tik hier om de nieuwste app-functies te bekijken.</value>
+    </data>
+    <data name="AppInfo_AppGuideTitle" xml:space="preserve">
+        <value>App-gids</value>
+    </data>
+    <data name="Reconnect_Level1" xml:space="preserve">
+        <value>We proberen opnieuw verbinding te maken met het MiND-apparaat.</value>
+    </data>
+    <data name="Reconnect_Level2" xml:space="preserve">
+        <value>Het opnieuw verbinden duurt langer dan normaal, wees geduldig.</value>
+    </data>
+    <data name="Reconnect_UnableConnect" xml:space="preserve">
+        <value>We kunnen geen verbinding maken met het MiND-apparaat.</value>
+    </data>
+    <data name="Reconnect_UnableSync" xml:space="preserve">
+        <value>We kunnen de eigenschappen van het MiND-apparaat niet synchroniseren.</value>
+    </data>
+    <data name="General_Sample" xml:space="preserve">
+        <value>MONSTER</value>
+    </data>
+    <data name="Library_History" xml:space="preserve">
+        <value>Navigatiegeschiedenis</value>
+    </data>
+    <data name="Library_HistoryWithTitle" xml:space="preserve">
+        <value>Navigatiegeschiedenis voor {0}</value>
+    </data>
+    <data name="General_Filter" xml:space="preserve">
+        <value>Filter</value>
+    </data>
+    <data name="AppInfo_Orientation" xml:space="preserve">
+        <value>Favoriete oriëntatie</value>
+    </data>
+    <data name="AppInfo_Landscape" xml:space="preserve">
+        <value>Landschap</value>
+    </data>
+    <data name="AppInfo_Portrait" xml:space="preserve">
+        <value>Portret</value>
+    </data>
+    <data name="AppInfo_Default" xml:space="preserve">
+        <value>Standaard</value>
+    </data>
+    <data name="SortLabelValue" xml:space="preserve">
+        <value>Soort</value>
+    </data>
+    <data name="Accessibility_HistoryLabel" xml:space="preserve">
+        <value>Geschiedenis knop</value>
+    </data>
+    <data name="Accessibility_HistoryHint" xml:space="preserve">
+        <value>Navigeer terug naar een specifieke weergave</value>
+    </data>
+    <data name="PlayAll" xml:space="preserve">
+        <value>Speel alles</value>
+    </data>
+    <data name="QueueAll" xml:space="preserve">
+        <value>Zet alles in de wachtrij</value>
+    </data>
+    <data name="Accessibility_PlayAll" xml:space="preserve">
+        <value>Speel alle knop</value>
+    </data>
+    <data name="Accessibility_QueueAll" xml:space="preserve">
+        <value>Wachtrij alles knop</value>
+    </data>
+    <data name="PlaySelectedTracks" xml:space="preserve">
+        <value>Speel</value>
+    </data>
+    <data name="QueueSelectedTracks" xml:space="preserve">
+        <value>Wachtrij</value>
+    </data>
+    <data name="Accessibility_PlaySelectedTracks" xml:space="preserve">
+        <value>Speel geselecteerde tracks knop</value>
+    </data>
+    <data name="Accessibility_QueueSelectedTracks" xml:space="preserve">
+        <value>Wachtrij geselecteerde tracks knop</value>
+    </data>
+    <data name="PlaySelectedTracksDescription" xml:space="preserve">
+        <value>Kies onderstaande opties om alleen geselecteerde nummers af te spelen of deselecteer om alles af te spelen</value>
+    </data>
+    <data name="OpenSpotifyApp" xml:space="preserve">
+        <value>Spotify-app openen</value>
+    </data>
+    <data name="GetSpotifyFree" xml:space="preserve">
+        <value>Spotify Free downloaden</value>
+    </data>
+    <data name="SpotifyPlaybackOptions" xml:space="preserve">
+        <value>afspeelopties</value>
+    </data>
+    <data name="ConnectedAs" xml:space="preserve">
+        <value>Verbonden als {0}</value>
+    </data>
+    <data name="ResumePlayback" xml:space="preserve">
+        <value>Hervat het afspelen</value>
+    </data>
+    <data name="SpotifyHelpTitle" xml:space="preserve">
+        <value>Klaar voor muziek?</value>
+    </data>
+    <data name="SpotifyHelpDetails" xml:space="preserve">
+        <value>Luister op je speakers of tvmet de Spotify-app als afstandsbediening.</value>
+    </data>
+    <data name="SpotifyLearnMore" xml:space="preserve">
+        <value>Meer informatie</value>
+    </data>
+    <data name="SpotifyUserNotLoggedIn" xml:space="preserve">
+        <value>Gebruiker niet ingelogd.</value>
+    </data>
+    <data name="SpotifyNotSupported" xml:space="preserve">
+        <value>Spotify wordt niet ondersteund.</value>
+    </data>
+    <data name="PlaybackOptionPlayQueue" xml:space="preserve">
+        <value>Speel MiND-wachtrij</value>
+    </data>
+    <data name="ServiceVolumeControl" xml:space="preserve">
+        <value>Volume {0}</value>
+    </data>
+    <data name="Multiroom" xml:space="preserve">
+        <value>Meerdere kamers</value>
+    </data>
+    <data name="CheckPermissionLabel" xml:space="preserve">
+        <value>Controleer de machtigingen</value>
+    </data>
+    <data name="CheckPermissionDescription" xml:space="preserve">
+        <value>MiND-app mist toestemming om toegang te krijgen tot het lokale netwerk. Deze toestemming is vereist om MiND-apparaten en UPnP-servers op uw netwerk te ontdekken.</value>
+    </data>
+    <data name="Diagnostic_AppPermission" xml:space="preserve">
+        <value>Zorg ervoor dat de MiND-app iOS-toestemming heeft om toegang te krijgen tot apparaten in de buurt.</value>
+    </data>
+    <data name="Diagnostic_AppPermissionLocalNetwork" xml:space="preserve">
+        <value>U kunt de MiND-app toestemming geven voor het lokale netwerk via de instellingen van uw Apple-apparaat -&gt; MiND.</value>
+    </data>
+    <data name="Diagnostic_AppPermissionBluetooth" xml:space="preserve">
+        <value>Als uw {0} niet is aangesloten op ethernet of niet is geconfigureerd op Wi-Fi, verleen dan Bluetooth-toestemming aan de MiND-app via de instellingen van uw Apple-apparaat -&gt; MiND, schakel vervolgens Bluetooth in en start de app opnieuw.</value>
+    </data>
+    <data name="Discovery_NoMiNDFound_iOS14" xml:space="preserve">
+        <value>Zorg ervoor dat uw MOON-apparaat van stroom wordt voorzien en is verbonden met het netwerk. Controleer ook of de MiND-app toestemming heeft om toegang te krijgen tot het lokale netwerk en Bluetooth in iOS-instellingen.</value>
+    </data>
+    <data name="ToContinue" xml:space="preserve">
+        <value>Druk op [ok] om door te gaan.</value>
+    </data>
+    <data name="ToDropConnection" xml:space="preserve">
+        <value>Druk op [annuleren] om de huidige verbinding te verbreken.</value>
+    </data>
+    <data name="MiND_ConnexionProgressMessage" xml:space="preserve">
+        <value>Verbinding maken met MiND...</value>
+    </data>
+    <data name="Identifier" xml:space="preserve">
+        <value>ID kaart</value>
+    </data>
+    <data name="SpotifyFriendlyName" xml:space="preserve">
+        <value>Spotify</value>
+    </data>
+    <data name="MaxCharacter" xml:space="preserve">
+        <value>Max {0} char</value>
+    </data>
+    <data name="Network_WifiTestTitle" xml:space="preserve">
+        <value>Wifi testen</value>
+    </data>
+    <data name="Network_WifiTest" xml:space="preserve">
+        <value>Wifi-wachtwoord testen</value>
+    </data>
+    <data name="Success" xml:space="preserve">
+        <value>Succes</value>
+    </data>
+    <data name="Failure" xml:space="preserve">
+        <value>Mislukking</value>
+    </data>
+    <data name="Reset" xml:space="preserve">
+        <value>Resetten</value>
+    </data>
+    <data name="Test" xml:space="preserve">
+        <value>Test</value>
+    </data>
+    <data name="Network_WifiTestMessage" xml:space="preserve">
+        <value>Het lijkt erop dat deze test eerder is geslaagd. Om het opnieuw te proberen, moet de geteste wifi-configuratie opnieuw worden ingesteld op het mobiele apparaat. Houd er rekening mee dat als het wachtwoord niet klopt, het mobiele apparaat mogelijk wordt losgekoppeld van de geteste wifi.</value>
+    </data>
+    <data name="Automatic" xml:space="preserve">
+        <value>Automatisch</value>
+    </data>
+    <data name="Manual" xml:space="preserve">
+        <value>Manuel</value>
+    </data>
+    <data name="Settings_DataSection" xml:space="preserve">
+        <value>Gegevens</value>
+    </data>
+    <data name="Settings_DataSyncLabel" xml:space="preserve">
+        <value>Gegevens synchroniseren</value>
+    </data>
+    <data name="Settings_DataSyncValue" xml:space="preserve">
+        <value>Laad opgeslagen afspeellijstgegevens in de clouddatabase</value>
+    </data>
+    <data name="Settings_PersonalizationSection" xml:space="preserve">
+        <value>Personalisatie</value>
+    </data>
+    <data name="DeviceId" xml:space="preserve">
+        <value>Apparaat ID</value>
+    </data>
+    <data name="Secret" xml:space="preserve">
+        <value>Geheim</value>
+    </data>
+    <data name="TracksCount" xml:space="preserve">
+        <value>Aantal nummers</value>
+    </data>
+    <data name="FirebaseAuthError" xml:space="preserve">
+        <value>Cloudgegevens niet beschikbaar</value>
+    </data>
+    <data name="Download" xml:space="preserve">
+        <value>Downloaden</value>
+    </data>
+    <data name="BugReportFormSupportRequest" xml:space="preserve">
+        <value>Ondersteuningsverzoek</value>
+    </data>
+    <data name="BugReportFormNamePlaceholder" xml:space="preserve">
+        <value>Uw naam</value>
+    </data>
+    <data name="BugReportFormEmailPlaceholder" xml:space="preserve">
+        <value>Jouw emai</value>
+    </data>
+    <data name="BugReportFormConfirmEmailPlaceholder" xml:space="preserve">
+        <value>Email bevestiging</value>
+    </data>
+    <data name="BugReportFormSubjectPlaceholder" xml:space="preserve">
+        <value>Onderwerp van je aanvraag</value>
+    </data>
+    <data name="CountryUSA" xml:space="preserve">
+        <value>VS</value>
+    </data>
+    <data name="CountryCanada" xml:space="preserve">
+        <value>Canada</value>
+    </data>
+    <data name="Country" xml:space="preserve">
+        <value>Land</value>
+    </data>
+    <data name="Name" xml:space="preserve">
+        <value>Naam</value>
+    </data>
+    <data name="Email" xml:space="preserve">
+        <value>E -mail</value>
+    </data>
+    <data name="Subject" xml:space="preserve">
+        <value>Onderwerp</value>
+    </data>
+    <data name="Message" xml:space="preserve">
+        <value>Bericht</value>
+    </data>
+    <data name="BugReportFormDescribeYourBug" xml:space="preserve">
+        <value>Beschrijf je bug</value>
+    </data>
+    <data name="Attachment" xml:space="preserve">
+        <value>Bijlage</value>
+    </data>
+    <data name="BugReportFormAttachment" xml:space="preserve">
+        <value>Stuur ons een screenshot van je bug als je kunt</value>
+    </data>
+    <data name="BugReportFormSubjectEmptyError" xml:space="preserve">
+        <value>Verzoekonderwerp mag niet leeg zijn</value>
+    </data>
+    <data name="BugReportFormSubmitSuccessTitle" xml:space="preserve">
+        <value>Dank u!</value>
+    </data>
+    <data name="BugReportFormSubmitSuccessMessage" xml:space="preserve">
+        <value>Bedankt voor het indienen van een bug voor de MiND-app</value>
+    </data>
+    <data name="BugReportFormEmailEmptyError" xml:space="preserve">
+        <value>E-mail mag niet leeg zijn</value>
+    </data>
+    <data name="BugReportFormNameEmptyError" xml:space="preserve">
+        <value>Uw naam mag niet leeg zijn</value>
+    </data>
+    <data name="BugReportFormDescriptionEmptyError" xml:space="preserve">
+        <value>Bugbeschrijving mag niet leeg zijn</value>
+    </data>
+    <data name="BugReportFormEmailWrongValueError" xml:space="preserve">
+        <value>E-mail moet een geldig formaat hebben</value>
+    </data>
+    <data name="BugReportFormSubjectWrongValueError" xml:space="preserve">
+        <value>Bugnaam moet een tekst zijn</value>
+    </data>
+    <data name="BugReportFormDescriptionWrongValueError" xml:space="preserve">
+        <value>Bugbeschrijving moet een tekst zijn</value>
+    </data>
+    <data name="BugReportFormUploadError" xml:space="preserve">
+        <value>Je bestanden zijn te groot. De maximale uploadgrootte is 20 MB</value>
+    </data>
+    <data name="BugReportFormEmailConfirmError" xml:space="preserve">
+        <value>E-mailbevestiging komt niet overeen met het opgegeven e-mailadres</value>
+    </data>
+    <data name="Settings_Diagnostic" xml:space="preserve">
+        <value>Diagnostisch</value>
+    </data>
+    <data name="Send" xml:space="preserve">
+        <value>Versturen</value>
+    </data>
+    <data name="MobileDeviceModel" xml:space="preserve">
+        <value>Mobiel apparaatmodel</value>
+    </data>
+    <data name="OSVersion" xml:space="preserve">
+        <value>OS -versie</value>
+    </data>
+    <data name="AppVersion" xml:space="preserve">
+        <value>App versie</value>
+    </data>
+    <data name="Required" xml:space="preserve">
+        <value>Verplicht</value>
+    </data>
+    <data name="AdditionalInfoSent" xml:space="preserve">
+        <value>Aanvullende informatie verzonden</value>
+    </data>
+    <data name="ImageCount" xml:space="preserve">
+        <value>Aantal afbeeldingen</value>
+    </data>
+    <data name="BugReportFormSubmitErrorDefaultTitle" xml:space="preserve">
+        <value>Onverwachte fout</value>
+    </data>
+    <data name="BugReportFormSubmitErrorDefaultMessage" xml:space="preserve">
+        <value>Probeer het later opnieuw</value>
+    </data>
+    <data name="BugReportFormSubmitError404Title" xml:space="preserve">
+        <value>Fout 404</value>
+    </data>
+    <data name="BugReportFormSubmitError404Message" xml:space="preserve">
+        <value>We hebben niet gevonden wat u zocht</value>
+    </data>
+    <data name="BugReportFormSubmitErrorInternalTitle" xml:space="preserve">
+        <value>Fout 500</value>
+    </data>
+    <data name="BugReportFormSubmitErrorInternalMessage" xml:space="preserve">
+        <value>Er is iets misgegaan aan onze kant, probeer het later opnieuw</value>
+    </data>
+    <data name="Language_Thai" xml:space="preserve">
+        <value>TH - Thais</value>
+    </data>
+    <data name="UploadPlaylistsButton" xml:space="preserve">
+        <value>Uploaden</value>
+    </data>
+    <data name="TodayAppCompatibility" xml:space="preserve">
+        <value>Verouderd op iOS14+</value>
+    </data>
+    <data name="UndefinedValueHint" xml:space="preserve">
+        <value>Niet gedefinieerd. Tik op de potloodknop om naar de bewerkingsmodus te schakelen.</value>
+    </data>
+    <data name="Undefined" xml:space="preserve">
+        <value>Niet gedefinieerd</value>
+    </data>
+    <data name="AppleMusicCompatibility" xml:space="preserve">
+        <value>Houd er rekening mee dat MOON niet langer de compatibiliteit kan garanderen van bestanden die op uw mobiele apparaat zijn opgeslagen met uw MiND -controller. Toen iTunes werd vervangen door Apple Music, werd deze functie verouderd.</value>
+    </data>
+    <data name="DeprecatedMessage" xml:space="preserve">
+        <value>We kunnen de compatibiliteit van deze functie niet langer garanderen.</value>
+    </data>
+    <data name="Enable" xml:space="preserve">
+        <value>Inschakelen</value>
+    </data>
+    <data name="AppleMusicAlternative" xml:space="preserve">
+        <value>U kunt deze bestanden blijven spelen in de Musick -app. Audio van Musick kan via AirPlay, USB of Bluetooth naar je MiND worden overgedragen, afhankelijk van het model.</value>
+    </data>
+    <data name="AppleMusicOptions" xml:space="preserve">
+        <value>Als u deze functie inschakelt, wordt deze waarschuwing niet meer weergegeven. Als u deze functie verwijdert, is deze niet beschikbaar, de volgende keer dat u een MiND -zone laadt, op dit mobiele apparaat.</value>
+    </data>
+    <data name="NetworkErrorWrongPassword" xml:space="preserve">
+        <value>Ongeldig wachtwoord</value>
+    </data>
+    <data name="NetworkErrorPasswordLength" xml:space="preserve">
+        <value>Wachtwoord of sleutellengte is overschreden</value>
+    </data>
+    <data name="BluetoothError" xml:space="preserve">
+        <value>Bluetooth-fout</value>
+    </data>
+    <data name="RestartApp" xml:space="preserve">
+        <value>Start de app opnieuw</value>
+    </data>
+    <data name="AreYouSure" xml:space="preserve">
+        <value>Weet je het zeker?</value>
+    </data>
+    <data name="Visibility" xml:space="preserve">
+        <value>Zichtbaarheid</value>
+    </data>
+    <data name="PrivateDescriptionOff" xml:space="preserve">
+        <value>Zichtbaar voor andere gebruikers</value>
+    </data>
+    <data name="MayChangePlaylistName" xml:space="preserve">
+        <value>Je kunt de titel van je afspeellijst veranderen!</value>
+    </data>
+    <data name="NotAuthenticatedToTheCloud" xml:space="preserve">
+        <value>Je bent niet geauthenticeerd voor de cloud!</value>
+    </data>
+    <data name="SyncingPlaylistsWithCloud" xml:space="preserve">
+        <value>Afspeellijsten synchroniseren met de cloud...</value>
+    </data>
+    <data name="SyncingPlaylistsWithCloudSucceed" xml:space="preserve">
+        <value>De afspeellijsten zijn succesvol gesynchroniseerd met de cloud</value>
+    </data>
+    <data name="SelectPicture" xml:space="preserve">
+        <value>Afbeelding selecteren</value>
+    </data>
+    <data name="MissingArguments" xml:space="preserve">
+        <value>Ontbrekende argumenten</value>
+    </data>
+    <data name="Tracks" xml:space="preserve">
+        <value>Nummers</value>
+    </data>
+    <data name="NoPlaylists" xml:space="preserve">
+        <value>Je hebt geen afspeellijsten</value>
+    </data>
+    <data name="MyPlaylists" xml:space="preserve">
+        <value>Mijn afspeellijsten</value>
+    </data>
+    <data name="DeletePlaylist" xml:space="preserve">
+        <value>Afspeellijst verwijderen</value>
+    </data>
+    <data name="PlaylistDeletedSuccessfully" xml:space="preserve">
+        <value>De afspeellijst is succesvol verwijderd!</value>
+    </data>
+    <data name="PlaylistSyncedSuccessfully" xml:space="preserve">
+        <value>De afspeellijst is succesvol gesynchroniseerd!
+</value>
+    </data>
+    <data name="PlaylistClonedSuccessfully" xml:space="preserve">
+        <value>De afspeellijst is succesvol gekloond!</value>
+    </data>
+    <data name="PlaylistUpdatedSuccessfully" xml:space="preserve">
+        <value>De afspeellijst is succesvol bijgewerkt!</value>
+    </data>
+    <data name="PlaylistNotFound" xml:space="preserve">
+        <value>Afspeellijst niet gevonden!</value>
+    </data>
+    <data name="ClonePlaylist" xml:space="preserve">
+        <value>Afspeellijst klonen</value>
+    </data>
+    <data name="Clone" xml:space="preserve">
+        <value>Klonen</value>
+    </data>
+    <data name="IsUpToDate" xml:space="preserve">
+        <value>Is up-to-date</value>
+    </data>
+    <data name="Administrators" xml:space="preserve">
+        <value>Beheerders</value>
+    </data>
+    <data name="AdminDevices" xml:space="preserve">
+        <value>Beheerapparaten (UUID's)</value>
+    </data>
+    <data name="EditPlaylist" xml:space="preserve">
+        <value>Afspeellijst bewerken</value>
+    </data>
+    <data name="EditPlaylistDescription" xml:space="preserve">
+        <value>Als je deze afspeellijst wilt bewerken, moet je er een kopie van maken</value>
+    </data>
+    <data name="MakeCopy" xml:space="preserve">
+        <value>Maak een kopie</value>
+    </data>
+    <data name="SavePlaylist" xml:space="preserve">
+        <value>Afspeellijst opslaan</value>
+    </data>
+    <data name="DeleteTrack" xml:space="preserve">
+        <value>Track verwijderen</value>
+    </data>
+    <data name="NetworkWarningDhcpIsOff" xml:space="preserve">
+        <value>DHCP staat uit.</value>
+    </data>
+    <data name="FileSorting" xml:space="preserve">
+        <value>Bestanden sorteren</value>
+    </data>
+    <data name="MediaServer" xml:space="preserve">
+        <value>Mediaserver</value>
+    </data>
+    <data name="Expand" xml:space="preserve">
+        <value>Uitbreiden</value>
+    </data>
+    <data name="ContactMOONSupport" xml:space="preserve">
+        <value>Neem contact op met MOON  ondersteuning</value>
+    </data>
+    <data name="ContactMOONSupportDesc" xml:space="preserve">
+        <value>Hoe kunnen wij u van dienst zijn?</value>
+    </data>
+    <data name="ContactMOONSupportDetails" xml:space="preserve">
+        <value>Neem contact op met MOON  Ondersteuningsteam</value>
+    </data>
+    <data name="ContactMOONSupportSubDesc" xml:space="preserve">
+        <value>Dien uw gegevens in om hulp te krijgen</value>
+    </data>
+    <data name="IncludeOthersPlaylists" xml:space="preserve">
+        <value>Voeg afspeellijsten van anderen toe</value>
+    </data>
+    <data name="AttachMyLogs" xml:space="preserve">
+        <value>Voeg mijn logboekbestand toe</value>
+    </data>
+    <data name="AttachMyLogsDescription" xml:space="preserve">
+        <value>Help ons het probleem snel op te lossen door uw logbestand bij te voegen</value>
+    </data>
+    <data name="CloudAutoSyncTitle" xml:space="preserve">
+        <value>Automatisch synchroniseren</value>
+    </data>
+    <data name="CloudMobileName" xml:space="preserve">
+        <value>Naam mobiel apparaat</value>
+    </data>
+    <data name="CloudMobilesHubDescription" xml:space="preserve">
+        <value>Schakel apparatenkoppeling in voor gegevenssynchronisatie</value>
+    </data>
+    <data name="CloudMobilesHubTitle" xml:space="preserve">
+        <value>Hub voor mobiele apparaten</value>
+    </data>
+    <data name="CloudItemToUpload" xml:space="preserve">
+        <value>Te uploaden op de cloudgegevens</value>
+    </data>
+    <data name="CloudItemToDownload" xml:space="preserve">
+        <value>Te downloaden van de cloudgegevens</value>
+    </data>
+    <data name="CloudItemSynced" xml:space="preserve">
+        <value>Gesynchroniseerd</value>
+    </data>
+    <data name="PrivateTitle" xml:space="preserve">
+        <value>Privaat</value>
+    </data>
+    <data name="PrivateDescriptionOn" xml:space="preserve">
+        <value>Niet zichtbaar voor andere gebruikers in mijn netwerk</value>
+    </data>
+    <data name="CloudAutoSyncMessage" xml:space="preserve">
+        <value>Upload en download automatisch wijzigingen in opgeslagen afspeellijsten in de cloud. U kunt deze configuratie op elk moment wijzigen in de Bibliotheekinstellingen.</value>
+    </data>
+    <data name="VisibilityDescriptionOff" xml:space="preserve">
+        <value>Niet zichtbaar in lijst</value>
+    </data>
+    <data name="AutoDetectedCountry" xml:space="preserve">
+        <value>Automatisch gedetecteerd land</value>
+    </data>
+    <data name="BluetoothFailed" xml:space="preserve">
+        <value>Probeer Bluetooth uit en weer in te schakelen op dit mobiele apparaat</value>
+    </data>
+    <data name="VisibleDescriptionOff" xml:space="preserve">
+        <value>Niet zichtbaar in lijst</value>
+    </data>
+    <data name="MiND_AppIsOff" xml:space="preserve">
+        <value>De MiND-app staat niet aan</value>
+    </data>
+    <data name="TrackAddedSuccess" xml:space="preserve">
+        <value>Track is succesvol aan je afspeellijst toegevoegd!!</value>
+    </data>
+    <data name="TrackAlreadyInPlaylist" xml:space="preserve">
+        <value>Dit nummer staat al in je afspeellijst.</value>
+    </data>
+    <data name="Player_AddToMyPlaylists" xml:space="preserve">
+        <value>Voeg toe aan mijn opgeslagen afspeellijsten</value>
+    </data>
+    <data name="SharedPlaylists" xml:space="preserve">
+        <value>Gedeelde afspeellijsten</value>
+    </data>
+    <data name="Language_TraditionalChinese" xml:space="preserve">
+        <value>ZHO - Traditioneel Chinees</value>
+    </data>
+    <data name="NotificationUserDescription" xml:space="preserve">
+        <value>Door middel van meldingen kan de gebruiker communicatie en updates ontvangen.</value>
+    </data>
+    <data name="NearbyDevices" xml:space="preserve">
+        <value>Apparaten in de buurt</value>
+    </data>
+    <data name="IsPlaylistPublic" xml:space="preserve">
+        <value>Is deze afspeellijst openbaar?</value>
+    </data>
+    <data name="ClearAll" xml:space="preserve">
+        <value>Wis alles</value>
+    </data>
+    <data name="WifiResetHint" xml:space="preserve">
+        <value>Schakel het internet van uw mobiele apparaat uit en in.</value>
+    </data>
+    <data name="Messaging" xml:space="preserve">
+        <value>Berichten</value>
+    </data>
+    <data name="MessagingDescription" xml:space="preserve">
+        <value>Sta toe dat uw mobiele apparaat tekstmeldingen ontvangt.</value>
+    </data>
+    <data name="MessagingAppAndFirmware" xml:space="preserve">
+        <value>Meldingen over firmware- en app-updates</value>
+    </data>
+    <data name="MessagingNews" xml:space="preserve">
+        <value>Nieuwsmeldingen</value>
+    </data>
+    <data name="Enabled" xml:space="preserve">
+        <value>Ingeschakeld</value>
+    </data>
+    <data name="Disabled" xml:space="preserve">
+        <value>Gehandicapt</value>
+    </data>
+    <data name="CloudPlaylistsDescription" xml:space="preserve">
+        <value>Brengt lijsten samen die op uw apparaat zijn opgeslagen en de lijsten die aan uw apparaat zijn gekoppeld in de gegevenswolk.</value>
+    </data>
+</root>
